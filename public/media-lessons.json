@@ -1,0 +1,742 @@
+[
+  {
+    "unitId": 1,
+    "examples": [
+      {
+        "kind": "film",
+        "title": "Toy Story · История игрушек",
+        "context": "Игрушки в комнате Энди: считаем предметы и вспоминаем названия.",
+        "en": "Andy has two toys and some water.",
+        "ru": "У Энди есть две игрушки и немного воды.",
+        "focus": "two toys",
+        "why": "Toy — исчисляемое слово: two toys. Water в значении «вода» не считаем поштучно: some water, без -s.",
+        "prompt": "Вставь окончание: three toy__",
+        "answer": "three toys",
+        "answerWhy": "Во множественном числе toy → toys: гласная перед y, поэтому просто добавляем -s.",
+        "source": {
+          "label": "Фильм на сайте студии",
+          "url": "https://www.pixar.com/toy-story"
+        }
+      },
+      {
+        "kind": "comic",
+        "title": "Batman · Бэтмен",
+        "context": "Представь подпись к панели с защитниками Готэма.",
+        "en": "Batman and Robin are heroes.",
+        "ru": "Бэтмен и Робин — герои.",
+        "focus": "heroes",
+        "why": "У hero множественное число heroes. Не для всех слов на -o работает одно правило: эту форму лучше запомнить.",
+        "prompt": "Как будет «один герой — два героя»?",
+        "answer": "one hero — two heroes",
+        "answerWhy": "У hero добавляем -es.",
+        "source": {
+          "label": "Герой на сайте издателя",
+          "url": "https://www.dc.com/characters/batman"
+        }
+      }
+    ]
+  },
+  {
+    "unitId": 2,
+    "examples": [
+      {
+        "kind": "film",
+        "title": "Toy Story · История игрушек",
+        "context": "Знакомимся с Вуди и Баззом, как будто описываем кадр.",
+        "en": "Woody is a cowboy. He is a toy.",
+        "ru": "Вуди — ковбой. Он — игрушка.",
+        "focus": "He is",
+        "why": "Woody заменяем местоимением he. В русском связка часто отсутствует, а в английском здесь нужно is.",
+        "prompt": "Замени два имени местоимением: Woody and Buzz are toys.",
+        "answer": "They are toys.",
+        "answerWhy": "Для нескольких героев используем they + are.",
+        "source": {
+          "label": "Фильм на сайте студии",
+          "url": "https://www.pixar.com/toy-story"
+        }
+      },
+      {
+        "kind": "comic",
+        "title": "Superman · Супермен",
+        "context": "Две стороны одного героя: Кларк Кент и Супермен.",
+        "en": "Clark is a reporter. He is Superman.",
+        "ru": "Кларк — репортёр. Он — Супермен.",
+        "focus": "He is",
+        "why": "He — «он», is связывает героя с профессией или именем. Не пропускай is по русской привычке.",
+        "prompt": "Добавь связку: He __ a reporter.",
+        "answer": "He is a reporter.",
+        "answerWhy": "С he, she, it в настоящем времени используется is.",
+        "source": {
+          "label": "Герой на сайте издателя",
+          "url": "https://www.dc.com/characters/superman"
+        }
+      }
+    ]
+  },
+  {
+    "unitId": 3,
+    "examples": [
+      {
+        "kind": "film",
+        "title": "Star Wars: A New Hope · Новая надежда",
+        "context": "Люк встречает дроида: сначала вводим предмет, потом говорим о том же предмете.",
+        "en": "Luke sees a droid. The droid is small.",
+        "ru": "Люк видит дроида. Этот дроид маленький.",
+        "focus": "The droid",
+        "why": "A droid — первое упоминание одного дроида. The droid — уже понятный собеседнику дроид.",
+        "prompt": "Выбери a или the: I see a ship. __ ship is big.",
+        "answer": "The ship is big.",
+        "answerWhy": "Корабль уже назван в первом предложении, поэтому the.",
+        "source": {
+          "label": "Фильм на сайте студии",
+          "url": "https://www.starwars.com/films/star-wars-episode-iv-a-new-hope"
+        }
+      },
+      {
+        "kind": "comic",
+        "title": "Batman · Бэтмен",
+        "context": "Представь, что Бэтмен показывает гаджет в своей руке.",
+        "en": "This is a gadget. These are gadgets.",
+        "ru": "Это гаджет. Это гаджеты.",
+        "focus": "These are",
+        "why": "This + is — один предмет рядом. These + are — несколько рядом. A перед множественным числом не ставим.",
+        "prompt": "Покажи на один далёкий гаджет: __ is a gadget.",
+        "answer": "That is a gadget.",
+        "answerWhy": "That — один предмет не рядом; those — несколько.",
+        "source": {
+          "label": "Герой на сайте издателя",
+          "url": "https://www.dc.com/characters/batman"
+        }
+      }
+    ]
+  },
+  {
+    "unitId": 4,
+    "examples": [
+      {
+        "kind": "film",
+        "title": "Spider-Man (2002) · Человек-паук",
+        "context": "Питер обнаруживает новые способности: описываем, что он теперь умеет.",
+        "en": "Peter has got new powers. He can climb walls.",
+        "ru": "У Питера появились новые способности. Он умеет лазать по стенам.",
+        "focus": "can climb",
+        "why": "Has got говорит, что у него есть. Can + начальная форма climb — что он умеет. После can не добавляем -s.",
+        "prompt": "Исправь: Peter can climbs walls.",
+        "answer": "Peter can climb walls.",
+        "answerWhy": "После can нужен глагол без to и без окончания -s.",
+        "source": {
+          "label": "Подробнее о фильме",
+          "url": "https://www.sonypictures.com/movies/spiderman"
+        }
+      },
+      {
+        "kind": "comic",
+        "title": "Superman · Супермен",
+        "context": "Способности Супермена помогают запомнить can и отрицание.",
+        "en": "Superman can fly. I cannot fly.",
+        "ru": "Супермен умеет летать. Я не умею летать.",
+        "focus": "can fly",
+        "why": "Форма can одинакова для I и Superman. Cannot пишется слитно; короткая форма — can’t.",
+        "prompt": "Спроси: «Супермен умеет летать?»",
+        "answer": "Can Superman fly?",
+        "answerWhy": "В вопросе can ставим перед героем; do не нужно.",
+        "source": {
+          "label": "Герой на сайте издателя",
+          "url": "https://www.dc.com/characters/superman"
+        }
+      }
+    ]
+  },
+  {
+    "unitId": 5,
+    "examples": [
+      {
+        "kind": "film",
+        "title": "Toy Story · История игрушек",
+        "context": "У игрушек есть хозяин: Энди.",
+        "en": "These are Andy's toys. They are his.",
+        "ru": "Это игрушки Энди. Они его.",
+        "focus": "Andy's toys",
+        "why": "Andy’s toys — «игрушки Энди». His может стоять отдельно: they are his. Не путай ’s принадлежности и is.",
+        "prompt": "Замени имя местоимением: This is Andy’s room.",
+        "answer": "This is his room.",
+        "answerWhy": "Перед room используется притяжательное his.",
+        "source": {
+          "label": "Фильм на сайте студии",
+          "url": "https://www.pixar.com/toy-story"
+        }
+      },
+      {
+        "kind": "comic",
+        "title": "Batman · Бэтмен",
+        "context": "Условная панель: Бэтмен узнаёт свой автомобиль.",
+        "en": "This is my car. The car is mine.",
+        "ru": "Это моя машина. Машина моя.",
+        "focus": "mine",
+        "why": "My ставим перед существительным car. Mine уже заменяет сочетание «моя машина» и стоит без car.",
+        "prompt": "Выбери my или mine: This gadget is __.",
+        "answer": "This gadget is mine.",
+        "answerWhy": "После is здесь нужна самостоятельная форма mine.",
+        "source": {
+          "label": "Герой на сайте издателя",
+          "url": "https://www.dc.com/characters/batman"
+        }
+      }
+    ]
+  },
+  {
+    "unitId": 6,
+    "examples": [
+      {
+        "kind": "film",
+        "title": "Finding Nemo · В поисках Немо",
+        "context": "Марлин ищет сына: описываем действие в процессе.",
+        "en": "Marlin is looking for Nemo.",
+        "ru": "Марлин ищет Немо.",
+        "focus": "is looking",
+        "why": "Is + looking показывает действие, происходящее сейчас. Look for — «искать», не теряй for.",
+        "prompt": "Сделай вопрос: Marlin is looking for Nemo.",
+        "answer": "Is Marlin looking for Nemo?",
+        "answerWhy": "В Present Continuous меняем местами is и подлежащее.",
+        "source": {
+          "label": "Фильм на сайте студии",
+          "url": "https://www.pixar.com/finding-nemo"
+        }
+      },
+      {
+        "kind": "comic",
+        "title": "Spider-Man · Человек-паук",
+        "context": "Замираем на воображаемой панели: Человек-паук на стене.",
+        "en": "Spider-Man is climbing a wall.",
+        "ru": "Человек-паук взбирается по стене.",
+        "focus": "is climbing",
+        "why": "Для действия в момент наблюдения: is + глагол с -ing. Одного climbing без is недостаточно.",
+        "prompt": "Скажи отрицательно: He is climbing a wall.",
+        "answer": "He is not climbing a wall.",
+        "answerWhy": "Not ставим после is. Сокращение: He isn’t climbing a wall.",
+        "source": {
+          "label": "Герой на сайте издателя",
+          "url": "https://www.marvel.com/characters/spider-man-peter-parker/in-comics"
+        }
+      }
+    ]
+  },
+  {
+    "unitId": 7,
+    "examples": [
+      {
+        "kind": "film",
+        "title": "Home Alone · Один дома",
+        "context": "Вообрази короткую инструкцию Кевину перед опасной встречей.",
+        "en": "Close the door. Do not open it.",
+        "ru": "Закрой дверь. Не открывай её.",
+        "focus": "Do not open it",
+        "why": "Повелительное предложение начинается с глагола. Для запрета добавляем do not. It заменяет the door.",
+        "prompt": "Замени повтор: Close the window. Do not open the window.",
+        "answer": "Close the window. Do not open it.",
+        "answerWhy": "После глагола используется объектное it.",
+        "source": {
+          "label": "Фильм на сайте студии",
+          "url": "https://family.20thcenturystudios.com/movies/home-alone"
+        }
+      },
+      {
+        "kind": "comic",
+        "title": "Batman · Бэтмен",
+        "context": "Учебная реплика напарника в сцене спасения.",
+        "en": "Help me. Follow him.",
+        "ru": "Помоги мне. Следуй за ним.",
+        "focus": "Follow him",
+        "why": "После help и follow нужны объектные me и him, а не I и he. В команде you обычно не произносим.",
+        "prompt": "Выбери he или him: Help __!",
+        "answer": "Help him!",
+        "answerWhy": "Помогаем кому? Ему → him.",
+        "source": {
+          "label": "Герой на сайте издателя",
+          "url": "https://www.dc.com/characters/batman"
+        }
+      }
+    ]
+  },
+  {
+    "unitId": 8,
+    "examples": [
+      {
+        "kind": "film",
+        "title": "Toy Story · История игрушек",
+        "context": "Оглядываем комнату Энди и перечисляем то, что видим.",
+        "en": "There are some toys on the bed.",
+        "ru": "На кровати есть несколько игрушек.",
+        "focus": "There are some toys",
+        "why": "There are вводит несколько предметов. Some обычно используем в утверждении, когда точное число не важно.",
+        "prompt": "Спроси, есть ли на кровати игрушки.",
+        "answer": "Are there any toys on the bed?",
+        "answerWhy": "В вопросе are выходит вперёд, а some обычно заменяем на any.",
+        "source": {
+          "label": "Фильм на сайте студии",
+          "url": "https://www.pixar.com/toy-story"
+        }
+      },
+      {
+        "kind": "comic",
+        "title": "Superman · Супермен",
+        "context": "Представь, что Супермен осматривает пустую улицу после спасения.",
+        "en": "There is no danger here.",
+        "ru": "Здесь нет опасности.",
+        "focus": "There is no danger",
+        "why": "No само выражает отсутствие. Второе отрицание not здесь не нужно. Danger в этом значении неисчисляемое: is.",
+        "prompt": "Скажи то же с not и any.",
+        "answer": "There is not any danger here.",
+        "answerWhy": "There is no… = There isn’t any…; нельзя There isn’t no… в стандартном английском.",
+        "source": {
+          "label": "Герой на сайте издателя",
+          "url": "https://www.dc.com/characters/superman"
+        }
+      }
+    ]
+  },
+  {
+    "unitId": 9,
+    "examples": [
+      {
+        "kind": "film",
+        "title": "Finding Nemo · В поисках Немо",
+        "context": "Сравниваем обычную жизнь рыбки и действие в выбранном кадре.",
+        "en": "Nemo lives in the ocean. He is swimming now.",
+        "ru": "Немо живёт в океане. Сейчас он плывёт.",
+        "focus": "is swimming now",
+        "why": "Lives — постоянная ситуация, Present Simple. Is swimming — действие сейчас, Present Continuous.",
+        "prompt": "Выбери lives или is living для постоянного факта: Nemo __ in the ocean.",
+        "answer": "Nemo lives in the ocean.",
+        "answerWhy": "Для обычного места обитания используем Present Simple.",
+        "source": {
+          "label": "Фильм на сайте студии",
+          "url": "https://www.pixar.com/finding-nemo"
+        }
+      },
+      {
+        "kind": "comic",
+        "title": "The Flash · Флэш",
+        "context": "Обычная способность Флэша и условный момент отдыха.",
+        "en": "The Flash runs fast, but he is resting now.",
+        "ru": "Флэш быстро бегает, но сейчас он отдыхает.",
+        "focus": "runs fast",
+        "why": "Runs описывает характерное действие; is resting — временное действие сейчас. В he runs нужно -s.",
+        "prompt": "Вставь форму: He usually __ (run), but now he __ (walk).",
+        "answer": "He usually runs, but now he is walking.",
+        "answerWhy": "Usually подсказывает привычку; now — действие в процессе.",
+        "source": {
+          "label": "Герой на сайте издателя",
+          "url": "https://www.dc.com/characters/the-flash"
+        }
+      }
+    ]
+  },
+  {
+    "unitId": 10,
+    "examples": [
+      {
+        "kind": "film",
+        "title": "Toy Story · История игрушек",
+        "context": "Считаем игрушки, а время на игру оцениваем как количество.",
+        "en": "Andy has many toys but little time.",
+        "ru": "У Энди много игрушек, но мало времени.",
+        "focus": "many toys but little time",
+        "why": "Toys считаются: many. Time в значении времени не считаем: little — мало, недостаточно. A little — немного, но есть.",
+        "prompt": "Выбери much или many: How __ toys has Andy got?",
+        "answer": "How many toys has Andy got?",
+        "answerWhy": "С исчисляемым toys используем many.",
+        "source": {
+          "label": "Фильм на сайте студии",
+          "url": "https://www.pixar.com/toy-story"
+        }
+      },
+      {
+        "kind": "comic",
+        "title": "Spider-Man · Человек-паук",
+        "context": "Условная ситуация: у Питера мало времени перед очередным делом.",
+        "en": "Peter has a few friends and a little time.",
+        "ru": "У Питера есть несколько друзей и немного времени.",
+        "focus": "a few friends and a little time",
+        "why": "A few + исчисляемые friends. A little + неисчисляемое time. Артикль a меняет оттенок: какое-то количество всё-таки есть.",
+        "prompt": "Вставь a few или a little: Peter needs __ water.",
+        "answer": "Peter needs a little water.",
+        "answerWhy": "Water неисчисляемое, поэтому a little.",
+        "source": {
+          "label": "Герой на сайте издателя",
+          "url": "https://www.marvel.com/characters/spider-man-peter-parker/in-comics"
+        }
+      }
+    ]
+  },
+  {
+    "unitId": 11,
+    "examples": [
+      {
+        "kind": "film",
+        "title": "Back to the Future · Назад в будущее",
+        "context": "Марти попадает в прошлое и встречает молодых родителей.",
+        "en": "Marty was in 1955. His parents were teenagers.",
+        "ru": "Марти оказался в 1955 году. Его родители были подростками.",
+        "focus": "parents were",
+        "why": "Для одного Marty в прошлом — was, для нескольких parents — were. Русское «был / были» помогает заметить связку.",
+        "prompt": "Сделай вопрос: His parents were teenagers.",
+        "answer": "Were his parents teenagers?",
+        "answerWhy": "Were ставим перед his parents; did здесь не используется.",
+        "source": {
+          "label": "Подробнее о фильме",
+          "url": "https://amblin.com/movie/back-to-the-future/"
+        }
+      },
+      {
+        "kind": "comic",
+        "title": "Batman · Бэтмен",
+        "context": "Учебная подпись к прошлой миссии героя.",
+        "en": "Batman had a plan. The streets were quiet.",
+        "ru": "У Бэтмена был план. Улицы были тихими.",
+        "focus": "had a plan",
+        "why": "Had — прошедшая форма have. Для множественного streets нужна прошедшая связка were.",
+        "prompt": "Перенеси в прошлое: He has a plan.",
+        "answer": "He had a plan.",
+        "answerWhy": "В Past Simple has меняется на had.",
+        "source": {
+          "label": "Герой на сайте издателя",
+          "url": "https://www.dc.com/characters/batman"
+        }
+      }
+    ]
+  },
+  {
+    "unitId": 12,
+    "examples": [
+      {
+        "kind": "film",
+        "title": "Star Wars: A New Hope · Новая надежда",
+        "context": "Пересказываем историю как последовательность законченных событий.",
+        "en": "Luke met a droid and joined the adventure.",
+        "ru": "Люк встретил дроида и отправился навстречу приключениям.",
+        "focus": "met a droid and joined",
+        "why": "Meet → met — неправильный глагол. Join → joined — правильный, добавляем -ed. Оба действия завершены.",
+        "prompt": "Сделай отрицание: Luke met a droid.",
+        "answer": "Luke did not meet a droid.",
+        "answerWhy": "После did not возвращаем начальную форму meet, не met.",
+        "source": {
+          "label": "Фильм на сайте студии",
+          "url": "https://www.starwars.com/films/star-wars-episode-iv-a-new-hope"
+        }
+      },
+      {
+        "kind": "comic",
+        "title": "Spider-Man · Человек-паук",
+        "context": "Вспоминаем ключевое событие происхождения Человека-паука.",
+        "en": "A spider bit Peter. His life changed.",
+        "ru": "Паук укусил Питера. Его жизнь изменилась.",
+        "focus": "bit Peter",
+        "why": "Bite → bit — неправильная форма прошедшего. Change → changed — правильный глагол с -d после -e.",
+        "prompt": "Спроси: «Паук укусил Питера?»",
+        "answer": "Did a spider bite Peter?",
+        "answerWhy": "В вопросе did уже показывает прошлое, поэтому bite.",
+        "source": {
+          "label": "Герой на сайте издателя",
+          "url": "https://www.marvel.com/characters/spider-man-peter-parker/in-comics"
+        }
+      }
+    ]
+  },
+  {
+    "unitId": 13,
+    "examples": [
+      {
+        "kind": "film",
+        "title": "Finding Nemo · В поисках Немо",
+        "context": "В условной реплике Марлина важен результат поиска прямо сейчас.",
+        "en": "I have found Nemo. I found him today at noon.",
+        "ru": "Я нашёл Немо. Я нашёл его сегодня в полдень.",
+        "focus": "have found",
+        "why": "Have found сообщает результат сейчас. Found с точным завершённым моментом at noon — Past Simple, если полдень уже прошёл.",
+        "prompt": "Вставь форму: I __ (find) him yesterday.",
+        "answer": "I found him yesterday.",
+        "answerWhy": "Yesterday — завершённое время в прошлом: Past Simple.",
+        "source": {
+          "label": "Фильм на сайте студии",
+          "url": "https://www.pixar.com/finding-nemo"
+        }
+      },
+      {
+        "kind": "comic",
+        "title": "Superman · Супермен",
+        "context": "Учебный рассказ о спасении: опыт до сих пор и один прошлый случай.",
+        "en": "Superman has helped many people. He helped a child yesterday.",
+        "ru": "Супермен помог многим людям. Вчера он помог ребёнку.",
+        "focus": "has helped",
+        "why": "Has helped — накопленный опыт без даты. Helped yesterday — конкретное действие в прошлом. С he используем has.",
+        "prompt": "Убери ошибку: He has helped a child yesterday.",
+        "answer": "He helped a child yesterday.",
+        "answerWhy": "С yesterday в таком рассказе нужен Past Simple.",
+        "source": {
+          "label": "Герой на сайте издателя",
+          "url": "https://www.dc.com/characters/superman"
+        }
+      }
+    ]
+  },
+  {
+    "unitId": 14,
+    "examples": [
+      {
+        "kind": "film",
+        "title": "Star Wars: A New Hope · Новая надежда",
+        "context": "Используем космический сюжет, чтобы представить место и движение.",
+        "en": "Luke is in the ship. He walks into a room.",
+        "ru": "Люк находится в корабле. Он входит в комнату.",
+        "focus": "walks into",
+        "why": "In отвечает «где?». Into подчёркивает движение внутрь — «куда?». Не выбирай предлог только по русскому переводу.",
+        "prompt": "Вставь at, on или in: The mission starts __ five o’clock.",
+        "answer": "The mission starts at five o’clock.",
+        "answerWhy": "Перед точным временем используем at.",
+        "source": {
+          "label": "Фильм на сайте студии",
+          "url": "https://www.starwars.com/films/star-wars-episode-iv-a-new-hope"
+        }
+      },
+      {
+        "kind": "comic",
+        "title": "Batman · Бэтмен",
+        "context": "Воображаемая встреча в Готэме: место и время в одном предложении.",
+        "en": "Meet me on the roof at midnight.",
+        "ru": "Встреть меня на крыше в полночь.",
+        "focus": "on the roof at midnight",
+        "why": "On — на поверхности крыши. At — с определённым моментом времени: at midnight.",
+        "prompt": "Вставь in, on или at: We meet __ Monday.",
+        "answer": "We meet on Monday.",
+        "answerWhy": "С днями недели используем on.",
+        "source": {
+          "label": "Герой на сайте издателя",
+          "url": "https://www.dc.com/characters/batman"
+        }
+      }
+    ]
+  },
+  {
+    "unitId": 15,
+    "examples": [
+      {
+        "kind": "film",
+        "title": "Home Alone · Один дома",
+        "context": "Представим, как Кевин рассказывает о своём заранее задуманном плане.",
+        "en": "I am going to protect my home.",
+        "ru": "Я собираюсь защитить свой дом.",
+        "focus": "am going to protect",
+        "why": "Am going to + глагол показывает намерение, которое уже есть. Для I нужна форма am.",
+        "prompt": "Замени I на Kevin.",
+        "answer": "Kevin is going to protect his home.",
+        "answerWhy": "I am → Kevin is, my → his.",
+        "source": {
+          "label": "Фильм на сайте студии",
+          "url": "https://family.20thcenturystudios.com/movies/home-alone"
+        }
+      },
+      {
+        "kind": "comic",
+        "title": "The Flash · Флэш",
+        "context": "Воображаемая реплика Флэша: помощь решено предложить прямо сейчас.",
+        "en": "You need help? I will help you.",
+        "ru": "Тебе нужна помощь? Я помогу тебе.",
+        "focus": "will help",
+        "why": "Will подходит для обещания или решения в момент речи. После will — начальная форма help без to.",
+        "prompt": "Сократи I will и произнеси обещание.",
+        "answer": "I'll help you.",
+        "answerWhy": "I will → I’ll. Сокращение очень часто звучит в разговоре.",
+        "source": {
+          "label": "Герой на сайте издателя",
+          "url": "https://www.dc.com/characters/the-flash"
+        }
+      }
+    ]
+  },
+  {
+    "unitId": 16,
+    "examples": [
+      {
+        "kind": "film",
+        "title": "Finding Nemo · В поисках Немо",
+        "context": "Описываем размер Немо и способ его движения.",
+        "en": "Nemo is small, but he swims bravely.",
+        "ru": "Немо маленький, но он храбро плывёт.",
+        "focus": "swims bravely",
+        "why": "Small — прилагательное после is: какой он? Bravely — наречие при swims: как он плывёт?",
+        "prompt": "Выбери brave или bravely: Nemo is __.",
+        "answer": "Nemo is brave.",
+        "answerWhy": "После is описываем героя прилагательным brave.",
+        "source": {
+          "label": "Фильм на сайте студии",
+          "url": "https://www.pixar.com/finding-nemo"
+        }
+      },
+      {
+        "kind": "comic",
+        "title": "The Flash · Флэш",
+        "context": "Сверхскорость Флэша — удобный образ для сравнительной степени.",
+        "en": "The Flash is faster than a car.",
+        "ru": "Флэш быстрее машины.",
+        "focus": "faster than",
+        "why": "У короткого fast сравнительная степень faster. Than — «чем». Fast может быть и наречием: he runs fast, не fastly.",
+        "prompt": "Образуй превосходную степень fast.",
+        "answer": "the fastest",
+        "answerWhy": "Для короткого прилагательного добавляем -est и обычно используем the.",
+        "source": {
+          "label": "Герой на сайте издателя",
+          "url": "https://www.dc.com/characters/the-flash"
+        }
+      }
+    ]
+  },
+  {
+    "unitId": 17,
+    "examples": [
+      {
+        "kind": "film",
+        "title": "Star Wars: A New Hope · Новая надежда",
+        "context": "Сравниваем вопрос о герое и вопрос о предмете в его истории.",
+        "en": "Who helps Luke? Who does Luke help?",
+        "ru": "Кто помогает Люку? Кому помогает Люк?",
+        "focus": "Who helps Luke?",
+        "why": "В первом вопросе who — тот, кто действует: does не нужен. Во втором действует Luke: нужен does, а help без -s.",
+        "prompt": "Спроси о подлежащем: Leia helps Luke.",
+        "answer": "Who helps Luke?",
+        "answerWhy": "Не Who does help Luke? в нейтральном вопросе о подлежащем.",
+        "source": {
+          "label": "Фильм на сайте студии",
+          "url": "https://www.starwars.com/films/star-wars-episode-iv-a-new-hope"
+        }
+      },
+      {
+        "kind": "comic",
+        "title": "Superman · Супермен",
+        "context": "Уточняем известный факт о Кларке с помощью вопроса-хвостика.",
+        "en": "Clark is a reporter, isn’t he?",
+        "ru": "Кларк — репортёр, не так ли?",
+        "focus": "isn’t he",
+        "why": "После утвердительной части с is обычно отрицательный хвостик isn’t he. Имя Clark заменяем на he.",
+        "prompt": "Заверши: Clark isn’t a villain, __?",
+        "answer": "Clark isn’t a villain, is he?",
+        "answerWhy": "После отрицательной основной части хвостик утвердительный.",
+        "source": {
+          "label": "Герой на сайте издателя",
+          "url": "https://www.dc.com/characters/superman"
+        }
+      }
+    ]
+  },
+  {
+    "unitId": 18,
+    "examples": [
+      {
+        "kind": "film",
+        "title": "The Matrix · Матрица",
+        "context": "Воображаемый инструктаж Нео перед заданием: различаем обязанность и необязательное действие.",
+        "en": "We must leave now. You need not carry everything.",
+        "ru": "Нам нужно уходить сейчас. Тебе не обязательно нести всё.",
+        "focus": "need not carry",
+        "why": "Must — сильная необходимость. Need not / needn’t — отсутствие необходимости, а не запрет. Запрет: must not.",
+        "prompt": "Что значит You needn’t run: «нельзя» или «необязательно»?",
+        "answer": "Тебе необязательно бежать.",
+        "answerWhy": "Не путай needn’t с mustn’t: последнее значит «нельзя».",
+        "source": {
+          "label": "Подробнее о фильме",
+          "url": "https://www.bfi.org.uk/film/cc7edbb1-17e5-509b-935b-725045d722aa/the-matrix"
+        }
+      },
+      {
+        "kind": "comic",
+        "title": "Spider-Man · Человек-паук",
+        "context": "Условная вежливая просьба Питера и обязанность героя.",
+        "en": "Could you help me? I must protect them.",
+        "ru": "Не мог бы ты мне помочь? Я должен защитить их.",
+        "focus": "Could you help me?",
+        "why": "Could делает просьбу вежливее. Здесь это не прошлое время. Must + protect выражает необходимость.",
+        "prompt": "Исправь: I must to help them.",
+        "answer": "I must help them.",
+        "answerWhy": "После модального must глагол идёт без to.",
+        "source": {
+          "label": "Герой на сайте издателя",
+          "url": "https://www.marvel.com/characters/spider-man-peter-parker/in-comics"
+        }
+      }
+    ]
+  },
+  {
+    "unitId": 19,
+    "examples": [
+      {
+        "kind": "film",
+        "title": "Toy Story · История игрушек",
+        "context": "Базз считает себя космическим рейнджером: выражаем желание.",
+        "en": "Buzz wants to fly. Andy enjoys playing.",
+        "ru": "Базз хочет летать. Энди нравится играть.",
+        "focus": "wants to fly",
+        "why": "После want — to + глагол. После enjoy — форма с -ing. Сочетания учим целиком: want to fly, enjoy playing.",
+        "prompt": "Выбери play или playing: Andy enjoys __.",
+        "answer": "Andy enjoys playing.",
+        "answerWhy": "После enjoy используется -ing, не инфинитив.",
+        "source": {
+          "label": "Фильм на сайте студии",
+          "url": "https://www.pixar.com/toy-story"
+        }
+      },
+      {
+        "kind": "comic",
+        "title": "Superman · Супермен",
+        "context": "Воображаемая задача на силу: описываем, достаточно ли её у героя.",
+        "en": "Superman is strong enough to lift it.",
+        "ru": "Супермен достаточно силён, чтобы поднять это.",
+        "focus": "strong enough to lift",
+        "why": "Enough ставим после прилагательного strong. Дальше to lift показывает, для какого действия силы достаточно.",
+        "prompt": "Расставь слова: enough / fast / to / run",
+        "answer": "fast enough to run",
+        "answerWhy": "Прилагательное + enough + to + глагол.",
+        "source": {
+          "label": "Герой на сайте издателя",
+          "url": "https://www.dc.com/characters/superman"
+        }
+      }
+    ]
+  },
+  {
+    "unitId": 20,
+    "examples": [
+      {
+        "kind": "film",
+        "title": "Finding Nemo · В поисках Немо",
+        "context": "Марлин и Дори путешествуют вместе: говорим сразу о двух героях.",
+        "en": "Both Marlin and Dory are fish. Neither of them is a shark.",
+        "ru": "И Марлин, и Дори — рыбы. Ни один из них не акула.",
+        "focus": "Neither of them is",
+        "why": "Both — оба из двух. Neither — ни один из двух; в учебной нейтральной форме здесь is. Fish обычно сохраняет форму во множественном числе.",
+        "prompt": "Выбери both или all для двух героев: __ of them can swim.",
+        "answer": "Both of them can swim.",
+        "answerWhy": "Когда подчёркиваем ровно двух, используем both.",
+        "source": {
+          "label": "Фильм на сайте студии",
+          "url": "https://www.pixar.com/finding-nemo"
+        }
+      },
+      {
+        "kind": "comic",
+        "title": "Spider-Man · Человек-паук",
+        "context": "Условная команда спасателей: говорим обо всей группе и об отсутствии вещей.",
+        "en": "All the heroes are ready. None of the equipment is broken.",
+        "ru": "Все герои готовы. Ничего из оборудования не сломано.",
+        "focus": "None of the equipment is",
+        "why": "All — все в группе. None — ни один / ничего из указанного. Equipment неисчисляемое, поэтому здесь is.",
+        "prompt": "Как сказать «оба героя» и «ни один из двух героев»?",
+        "answer": "both heroes — neither hero",
+        "answerWhy": "Both + множественное heroes; neither перед существительным — единственное hero.",
+        "source": {
+          "label": "Герой на сайте издателя",
+          "url": "https://www.marvel.com/characters/spider-man-peter-parker/in-comics"
+        }
+      }
+    ]
+  }
+]

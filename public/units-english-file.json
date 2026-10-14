@@ -1,0 +1,3204 @@
+[
+  {
+    "id": 21,
+    "track": "english-file",
+    "chapter": 1,
+    "unitNo": "1A",
+    "level": "B1–B1+",
+    "title": "How we eat",
+    "ru": "Привычки и еда",
+    "summary": "Present Simple описывает привычку, Present Continuous — действие сейчас или временную ситуацию. Глаголы состояния (know, like, want) обычно не ставятся в Continuous.",
+    "bookPage": 8,
+    "minutes": 14,
+    "skills": [
+      "Грамматика",
+      "Лексика",
+      "Чтение",
+      "Произношение",
+      "Говорение",
+      "Аудирование"
+    ],
+    "rules": [
+      {
+        "title": "Привычки и еда",
+        "body": "Present Simple описывает привычку, Present Continuous — действие сейчас или временную ситуацию. Глаголы состояния (know, like, want) обычно не ставятся в Continuous.",
+        "example": "I usually cook at home, but today I'm eating out.",
+        "translation": "Произнеси пример, затем составь свою фразу с тем же правилом."
+      },
+      {
+        "title": "Ещё один контекст",
+        "body": "Сравни обе фразы и обрати внимание на форму «is making». Не переводи отдельные слова механически — подумай, почему здесь нужна эта конструкция.",
+        "example": "She is making dinner at the moment.",
+        "translation": "Попробуй заменить действующее лицо или обстоятельство."
+      }
+    ],
+    "trap": {
+      "wrong": "I am usually cooking at home every day.",
+      "right": "I usually cook at home, but today I'm eating out.",
+      "why": "Present Simple описывает привычку, Present Continuous — действие сейчас или временную ситуацию. Глаголы состояния (know, like, want) обычно не ставятся в Continuous."
+    },
+    "vocab": [
+      {
+        "en": "ingredients",
+        "ru": "ингредиенты",
+        "example": "I usually cook at home, but today I'm eating out."
+      },
+      {
+        "en": "takeaway",
+        "ru": "еда навынос",
+        "example": "I usually cook at home, but today I'm eating out."
+      },
+      {
+        "en": "recipe",
+        "ru": "рецепт",
+        "example": "I usually cook at home, but today I'm eating out."
+      },
+      {
+        "en": "flavour",
+        "ru": "вкус",
+        "example": "I usually cook at home, but today I'm eating out."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Alex",
+        "en": "I usually cook at home, but today I'm eating out.",
+        "ru": ""
+      },
+      {
+        "who": "Sam",
+        "en": "She is making dinner at the moment.",
+        "ru": ""
+      },
+      {
+        "who": "Alex",
+        "en": "What do you think about ingredients?",
+        "ru": "Как ты к этому относишься?"
+      },
+      {
+        "who": "Sam",
+        "en": "I think it depends on the situation.",
+        "ru": "Думаю, это зависит от ситуации."
+      }
+    ],
+    "speaking": "Расскажи, что обычно ешь и что готовишь на этой неделе. Используй usually и at the moment.",
+    "pronunciation": "Отрабатывай короткие и долгие гласные на словах food, cook, meal. Оригинальные записи издательства не включены; используй озвучку устройства.",
+    "sourceNote": "Oxford University Press · English File 5th Edition, Intermediate · тематическое соответствие, без перепечатки заданий",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери естественную и грамматически правильную фразу.",
+        "options": [
+          "I usually cook at home, but today I'm eating out.",
+          "I am usually cooking at home every day."
+        ],
+        "answer": "I usually cook at home, but today I'm eating out.",
+        "explanation": "Present Simple описывает привычку, Present Continuous — действие сейчас или временную ситуацию. Глаголы состояния (know, like, want) обычно не ставятся в Continuous."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь пропущенную часть фразы: She ___ dinner at the moment.",
+        "answers": [
+          "is making"
+        ],
+        "explanation": "Верно: She is making dinner at the moment.. Present Simple описывает привычку, Present Continuous — действие сейчас или временную ситуацию. Глаголы состояния (know, like, want) обычно не ставятся в Continuous."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери предложение в правильном порядке.",
+        "words": [
+          "I",
+          "usually",
+          "cook",
+          "at",
+          "home,",
+          "but",
+          "today",
+          "I'm",
+          "eating",
+          "out."
+        ],
+        "answers": [
+          "I usually cook at home, but today I'm eating out."
+        ],
+        "explanation": "Так слова образуют естественное предложение: I usually cook at home, but today I'm eating out."
+      },
+      {
+        "type": "listen",
+        "prompt": "Послушай фразу и запиши её целиком.",
+        "audio": "She is making dinner at the moment.",
+        "answers": [
+          "She is making dinner at the moment."
+        ],
+        "explanation": "Текст: She is making dinner at the moment."
+      },
+      {
+        "type": "choice",
+        "prompt": "Какое значение имеет выражение «ingredients»?",
+        "options": [
+          "ингредиенты",
+          "еда навынос",
+          "рецепт"
+        ],
+        "answer": "ингредиенты",
+        "explanation": "ingredients — ингредиенты. Обрати внимание на контекст употребления."
+      },
+      {
+        "type": "choice",
+        "prompt": "После чтения «A different lunch»: Where is Daniel eating today?",
+        "options": [
+          "At a café",
+          "At home",
+          "At his office"
+        ],
+        "answer": "At a café",
+        "explanation": "В тексте говорится: Daniel normally brings soup to work. Today he is meeting a client, so he is eating at a small café. He likes simple food, but he is trying a spicy dish for the first time."
+      }
+    ],
+    "reading": {
+      "title": "A different lunch",
+      "text": "Daniel normally brings soup to work. Today he is meeting a client, so he is eating at a small café. He likes simple food, but he is trying a spicy dish for the first time.",
+      "question": "Where is Daniel eating today?"
+    }
+  },
+  {
+    "id": 22,
+    "track": "english-file",
+    "chapter": 1,
+    "unitNo": "1B",
+    "level": "B1–B1+",
+    "title": "Happy families?",
+    "ru": "Семья и планы",
+    "summary": "Present Continuous выражает личную договорённость, be going to — намерение, will — решение или прогноз. Выбирай форму по смыслу.",
+    "bookPage": 12,
+    "minutes": 14,
+    "skills": [
+      "Грамматика",
+      "Лексика",
+      "Чтение",
+      "Произношение",
+      "Говорение",
+      "Аудирование"
+    ],
+    "rules": [
+      {
+        "title": "Семья и планы",
+        "body": "Present Continuous выражает личную договорённость, be going to — намерение, will — решение или прогноз. Выбирай форму по смыслу.",
+        "example": "We are visiting our grandparents on Saturday.",
+        "translation": "Произнеси пример, затем составь свою фразу с тем же правилом."
+      },
+      {
+        "title": "Ещё один контекст",
+        "body": "Сравни обе фразы и обрати внимание на форму «will enjoy». Не переводи отдельные слова механически — подумай, почему здесь нужна эта конструкция.",
+        "example": "I think my sister will enjoy the party.",
+        "translation": "Попробуй заменить действующее лицо или обстоятельство."
+      }
+    ],
+    "trap": {
+      "wrong": "We will visiting our grandparents on Saturday.",
+      "right": "We are visiting our grandparents on Saturday.",
+      "why": "Present Continuous выражает личную договорённость, be going to — намерение, will — решение или прогноз. Выбирай форму по смыслу."
+    },
+    "vocab": [
+      {
+        "en": "relative",
+        "ru": "родственник",
+        "example": "We are visiting our grandparents on Saturday."
+      },
+      {
+        "en": "generation",
+        "ru": "поколение",
+        "example": "We are visiting our grandparents on Saturday."
+      },
+      {
+        "en": "supportive",
+        "ru": "поддерживающий",
+        "example": "We are visiting our grandparents on Saturday."
+      },
+      {
+        "en": "outgoing",
+        "ru": "общительный",
+        "example": "We are visiting our grandparents on Saturday."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Alex",
+        "en": "We are visiting our grandparents on Saturday.",
+        "ru": ""
+      },
+      {
+        "who": "Sam",
+        "en": "I think my sister will enjoy the party.",
+        "ru": ""
+      },
+      {
+        "who": "Alex",
+        "en": "What do you think about relative?",
+        "ru": "Как ты к этому относишься?"
+      },
+      {
+        "who": "Sam",
+        "en": "I think it depends on the situation.",
+        "ru": "Думаю, это зависит от ситуации."
+      }
+    ],
+    "speaking": "Опиши двух родственников и планы семьи на ближайшие выходные.",
+    "pronunciation": "Делай ударение на важной информации в предложении: SATurday, GRANDmother. Оригинальные записи издательства не включены; используй озвучку устройства.",
+    "sourceNote": "Oxford University Press · English File 5th Edition, Intermediate · тематическое соответствие, без перепечатки заданий",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери естественную и грамматически правильную фразу.",
+        "options": [
+          "We are visiting our grandparents on Saturday.",
+          "We will visiting our grandparents on Saturday."
+        ],
+        "answer": "We are visiting our grandparents on Saturday.",
+        "explanation": "Present Continuous выражает личную договорённость, be going to — намерение, will — решение или прогноз. Выбирай форму по смыслу."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь пропущенную часть фразы: I think my sister ___ the party.",
+        "answers": [
+          "will enjoy"
+        ],
+        "explanation": "Верно: I think my sister will enjoy the party.. Present Continuous выражает личную договорённость, be going to — намерение, will — решение или прогноз. Выбирай форму по смыслу."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери предложение в правильном порядке.",
+        "words": [
+          "We",
+          "are",
+          "visiting",
+          "our",
+          "grandparents",
+          "on",
+          "Saturday."
+        ],
+        "answers": [
+          "We are visiting our grandparents on Saturday."
+        ],
+        "explanation": "Так слова образуют естественное предложение: We are visiting our grandparents on Saturday."
+      },
+      {
+        "type": "listen",
+        "prompt": "Послушай фразу и запиши её целиком.",
+        "audio": "I think my sister will enjoy the party.",
+        "answers": [
+          "I think my sister will enjoy the party."
+        ],
+        "explanation": "Текст: I think my sister will enjoy the party."
+      },
+      {
+        "type": "choice",
+        "prompt": "Какое значение имеет выражение «relative»?",
+        "options": [
+          "родственник",
+          "поколение",
+          "поддерживающий"
+        ],
+        "answer": "родственник",
+        "explanation": "relative — родственник. Обрати внимание на контекст употребления."
+      },
+      {
+        "type": "choice",
+        "prompt": "После чтения «A family weekend»: What have Leah and her cousin arranged?",
+        "options": [
+          "A train trip",
+          "A video call",
+          "A job interview"
+        ],
+        "answer": "A train trip",
+        "explanation": "В тексте говорится: Leah and her cousin have already bought train tickets for Saturday. They are visiting their grandmother for her birthday. Leah thinks her grandmother will be surprised, and she is going to bring a homemade cake."
+      }
+    ],
+    "reading": {
+      "title": "A family weekend",
+      "text": "Leah and her cousin have already bought train tickets for Saturday. They are visiting their grandmother for her birthday. Leah thinks her grandmother will be surprised, and she is going to bring a homemade cake.",
+      "question": "What have Leah and her cousin arranged?"
+    }
+  },
+  {
+    "id": 23,
+    "track": "english-file",
+    "chapter": 2,
+    "unitNo": "2A",
+    "level": "B1–B1+",
+    "title": "Spend or save?",
+    "ru": "Деньги и опыт",
+    "summary": "Present Perfect связывает прошлое с настоящим опытом или результатом. Past Simple указывает на законченное действие в конкретный момент.",
+    "bookPage": 18,
+    "minutes": 14,
+    "skills": [
+      "Грамматика",
+      "Лексика",
+      "Чтение",
+      "Произношение",
+      "Говорение",
+      "Аудирование"
+    ],
+    "rules": [
+      {
+        "title": "Деньги и опыт",
+        "body": "Present Perfect связывает прошлое с настоящим опытом или результатом. Past Simple указывает на законченное действие в конкретный момент.",
+        "example": "I have saved enough money for a new laptop.",
+        "translation": "Произнеси пример, затем составь свою фразу с тем же правилом."
+      },
+      {
+        "title": "Ещё один контекст",
+        "body": "Сравни обе фразы и обрати внимание на форму «bought». Не переводи отдельные слова механически — подумай, почему здесь нужна эта конструкция.",
+        "example": "I bought my old laptop last year.",
+        "translation": "Попробуй заменить действующее лицо или обстоятельство."
+      }
+    ],
+    "trap": {
+      "wrong": "I have save enough money for a new laptop.",
+      "right": "I have saved enough money for a new laptop.",
+      "why": "Present Perfect связывает прошлое с настоящим опытом или результатом. Past Simple указывает на законченное действие в конкретный момент."
+    },
+    "vocab": [
+      {
+        "en": "budget",
+        "ru": "бюджет",
+        "example": "I have saved enough money for a new laptop."
+      },
+      {
+        "en": "afford",
+        "ru": "позволить себе",
+        "example": "I have saved enough money for a new laptop."
+      },
+      {
+        "en": "savings",
+        "ru": "сбережения",
+        "example": "I have saved enough money for a new laptop."
+      },
+      {
+        "en": "borrow",
+        "ru": "занимать",
+        "example": "I have saved enough money for a new laptop."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Alex",
+        "en": "I have saved enough money for a new laptop.",
+        "ru": ""
+      },
+      {
+        "who": "Sam",
+        "en": "I bought my old laptop last year.",
+        "ru": ""
+      },
+      {
+        "who": "Alex",
+        "en": "What do you think about budget?",
+        "ru": "Как ты к этому относишься?"
+      },
+      {
+        "who": "Sam",
+        "en": "I think it depends on the situation.",
+        "ru": "Думаю, это зависит от ситуации."
+      }
+    ],
+    "speaking": "Расскажи о покупке в прошлом и о финансовой цели сейчас.",
+    "pronunciation": "Сравни звучание гласных в money, more и слова с буквой o. Оригинальные записи издательства не включены; используй озвучку устройства.",
+    "sourceNote": "Oxford University Press · English File 5th Edition, Intermediate · тематическое соответствие, без перепечатки заданий",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери естественную и грамматически правильную фразу.",
+        "options": [
+          "I have saved enough money for a new laptop.",
+          "I have save enough money for a new laptop."
+        ],
+        "answer": "I have saved enough money for a new laptop.",
+        "explanation": "Present Perfect связывает прошлое с настоящим опытом или результатом. Past Simple указывает на законченное действие в конкретный момент."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь пропущенную часть фразы: I ___ my old laptop last year.",
+        "answers": [
+          "bought"
+        ],
+        "explanation": "Верно: I bought my old laptop last year.. Present Perfect связывает прошлое с настоящим опытом или результатом. Past Simple указывает на законченное действие в конкретный момент."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери предложение в правильном порядке.",
+        "words": [
+          "I",
+          "have",
+          "saved",
+          "enough",
+          "money",
+          "for",
+          "a",
+          "new",
+          "laptop."
+        ],
+        "answers": [
+          "I have saved enough money for a new laptop."
+        ],
+        "explanation": "Так слова образуют естественное предложение: I have saved enough money for a new laptop."
+      },
+      {
+        "type": "listen",
+        "prompt": "Послушай фразу и запиши её целиком.",
+        "audio": "I bought my old laptop last year.",
+        "answers": [
+          "I bought my old laptop last year."
+        ],
+        "explanation": "Текст: I bought my old laptop last year."
+      },
+      {
+        "type": "choice",
+        "prompt": "Какое значение имеет выражение «budget»?",
+        "options": [
+          "бюджет",
+          "позволить себе",
+          "сбережения"
+        ],
+        "answer": "бюджет",
+        "explanation": "budget — бюджет. Обрати внимание на контекст употребления."
+      },
+      {
+        "type": "choice",
+        "prompt": "После чтения «A smarter budget»: What did Olivia buy last weekend?",
+        "options": [
+          "A second-hand bicycle",
+          "A new laptop",
+          "A plane ticket"
+        ],
+        "answer": "A second-hand bicycle",
+        "explanation": "В тексте говорится: Olivia has saved money for six months. She bought a second-hand bicycle last weekend instead of an expensive new one. Now she has enough money left for a short trip."
+      }
+    ],
+    "reading": {
+      "title": "A smarter budget",
+      "text": "Olivia has saved money for six months. She bought a second-hand bicycle last weekend instead of an expensive new one. Now she has enough money left for a short trip.",
+      "question": "What did Olivia buy last weekend?"
+    }
+  },
+  {
+    "id": 24,
+    "track": "english-file",
+    "chapter": 2,
+    "unitNo": "2B",
+    "level": "B1–B1+",
+    "title": "Life-changing",
+    "ru": "Перемены в жизни",
+    "summary": "Present Perfect с for/since описывает ситуацию, продолжающуюся до настоящего. Present Perfect Continuous подчёркивает длительность действия.",
+    "bookPage": 22,
+    "minutes": 14,
+    "skills": [
+      "Грамматика",
+      "Лексика",
+      "Чтение",
+      "Произношение",
+      "Говорение",
+      "Аудирование"
+    ],
+    "rules": [
+      {
+        "title": "Перемены в жизни",
+        "body": "Present Perfect с for/since описывает ситуацию, продолжающуюся до настоящего. Present Perfect Continuous подчёркивает длительность действия.",
+        "example": "I have lived here since 2021.",
+        "translation": "Произнеси пример, затем составь свою фразу с тем же правилом."
+      },
+      {
+        "title": "Ещё один контекст",
+        "body": "Сравни обе фразы и обрати внимание на форму «has been learning». Не переводи отдельные слова механически — подумай, почему здесь нужна эта конструкция.",
+        "example": "She has been learning English for three years.",
+        "translation": "Попробуй заменить действующее лицо или обстоятельство."
+      }
+    ],
+    "trap": {
+      "wrong": "I live here since 2021.",
+      "right": "I have lived here since 2021.",
+      "why": "Present Perfect с for/since описывает ситуацию, продолжающуюся до настоящего. Present Perfect Continuous подчёркивает длительность действия."
+    },
+    "vocab": [
+      {
+        "en": "volunteer",
+        "ru": "волонтёр",
+        "example": "I have lived here since 2021."
+      },
+      {
+        "en": "achievement",
+        "ru": "достижение",
+        "example": "I have lived here since 2021."
+      },
+      {
+        "en": "exhausted",
+        "ru": "изнурённый",
+        "example": "I have lived here since 2021."
+      },
+      {
+        "en": "inspiring",
+        "ru": "вдохновляющий",
+        "example": "I have lived here since 2021."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Alex",
+        "en": "I have lived here since 2021.",
+        "ru": ""
+      },
+      {
+        "who": "Sam",
+        "en": "She has been learning English for three years.",
+        "ru": ""
+      },
+      {
+        "who": "Alex",
+        "en": "What do you think about volunteer?",
+        "ru": "Как ты к этому относишься?"
+      },
+      {
+        "who": "Sam",
+        "en": "I think it depends on the situation.",
+        "ru": "Думаю, это зависит от ситуации."
+      }
+    ],
+    "speaking": "Скажи, как давно учишь английский и что изменилось в жизни за последний год.",
+    "pronunciation": "В полных ответах выделяй for и since только когда это важный контраст. Оригинальные записи издательства не включены; используй озвучку устройства.",
+    "sourceNote": "Oxford University Press · English File 5th Edition, Intermediate · тематическое соответствие, без перепечатки заданий",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери естественную и грамматически правильную фразу.",
+        "options": [
+          "I have lived here since 2021.",
+          "I live here since 2021."
+        ],
+        "answer": "I have lived here since 2021.",
+        "explanation": "Present Perfect с for/since описывает ситуацию, продолжающуюся до настоящего. Present Perfect Continuous подчёркивает длительность действия."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь пропущенную часть фразы: She ___ English for three years.",
+        "answers": [
+          "has been learning"
+        ],
+        "explanation": "Верно: She has been learning English for three years.. Present Perfect с for/since описывает ситуацию, продолжающуюся до настоящего. Present Perfect Continuous подчёркивает длительность действия."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери предложение в правильном порядке.",
+        "words": [
+          "I",
+          "have",
+          "lived",
+          "here",
+          "since",
+          "2021."
+        ],
+        "answers": [
+          "I have lived here since 2021."
+        ],
+        "explanation": "Так слова образуют естественное предложение: I have lived here since 2021."
+      },
+      {
+        "type": "listen",
+        "prompt": "Послушай фразу и запиши её целиком.",
+        "audio": "She has been learning English for three years.",
+        "answers": [
+          "She has been learning English for three years."
+        ],
+        "explanation": "Текст: She has been learning English for three years."
+      },
+      {
+        "type": "choice",
+        "prompt": "Какое значение имеет выражение «volunteer»?",
+        "options": [
+          "волонтёр",
+          "достижение",
+          "изнурённый"
+        ],
+        "answer": "волонтёр",
+        "explanation": "volunteer — волонтёр. Обрати внимание на контекст употребления."
+      },
+      {
+        "type": "choice",
+        "prompt": "После чтения «The volunteering project»: How long has Nadia been helping at the shelter?",
+        "options": [
+          "Since 2022",
+          "Since last Saturday",
+          "Only yesterday"
+        ],
+        "answer": "Since 2022",
+        "explanation": "В тексте говорится: Nadia started helping at an animal shelter in 2022. She has been working there on Saturdays ever since. The shelter has rescued hundreds of animals, and Nadia has learned a lot about teamwork."
+      }
+    ],
+    "reading": {
+      "title": "The volunteering project",
+      "text": "Nadia started helping at an animal shelter in 2022. She has been working there on Saturdays ever since. The shelter has rescued hundreds of animals, and Nadia has learned a lot about teamwork.",
+      "question": "How long has Nadia been helping at the shelter?"
+    }
+  },
+  {
+    "id": 25,
+    "track": "english-file",
+    "chapter": 3,
+    "unitNo": "3A",
+    "level": "B1–B1+",
+    "title": "Who got there first?",
+    "ru": "Сравнения и путешествия",
+    "summary": "Comparatives сравнивают два варианта (faster than), superlatives выделяют один из группы (the fastest). Усилители much, far, a bit уточняют разницу.",
+    "bookPage": 28,
+    "minutes": 14,
+    "skills": [
+      "Грамматика",
+      "Лексика",
+      "Чтение",
+      "Произношение",
+      "Говорение",
+      "Аудирование"
+    ],
+    "rules": [
+      {
+        "title": "Сравнения и путешествия",
+        "body": "Comparatives сравнивают два варианта (faster than), superlatives выделяют один из группы (the fastest). Усилители much, far, a bit уточняют разницу.",
+        "example": "The train is faster than the bus.",
+        "translation": "Произнеси пример, затем составь свою фразу с тем же правилом."
+      },
+      {
+        "title": "Ещё один контекст",
+        "body": "Сравни обе фразы и обрати внимание на форму «the most convenient». Не переводи отдельные слова механически — подумай, почему здесь нужна эта конструкция.",
+        "example": "This is the most convenient route in the city.",
+        "translation": "Попробуй заменить действующее лицо или обстоятельство."
+      }
+    ],
+    "trap": {
+      "wrong": "The train is more faster than the bus.",
+      "right": "The train is faster than the bus.",
+      "why": "Comparatives сравнивают два варианта (faster than), superlatives выделяют один из группы (the fastest). Усилители much, far, a bit уточняют разницу."
+    },
+    "vocab": [
+      {
+        "en": "journey",
+        "ru": "поездка",
+        "example": "The train is faster than the bus."
+      },
+      {
+        "en": "commute",
+        "ru": "дорога на работу",
+        "example": "The train is faster than the bus."
+      },
+      {
+        "en": "delay",
+        "ru": "задержка",
+        "example": "The train is faster than the bus."
+      },
+      {
+        "en": "platform",
+        "ru": "платформа",
+        "example": "The train is faster than the bus."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Alex",
+        "en": "The train is faster than the bus.",
+        "ru": ""
+      },
+      {
+        "who": "Sam",
+        "en": "This is the most convenient route in the city.",
+        "ru": ""
+      },
+      {
+        "who": "Alex",
+        "en": "What do you think about journey?",
+        "ru": "Как ты к этому относишься?"
+      },
+      {
+        "who": "Sam",
+        "en": "I think it depends on the situation.",
+        "ru": "Думаю, это зависит от ситуации."
+      }
+    ],
+    "speaking": "Сравни три способа добраться до аэропорта и объясни свой выбор.",
+    "pronunciation": "Произнеси слова journey, choice и station, различая /dʒ/, /tʃ/ и /ʃ/. Оригинальные записи издательства не включены; используй озвучку устройства.",
+    "sourceNote": "Oxford University Press · English File 5th Edition, Intermediate · тематическое соответствие, без перепечатки заданий",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери естественную и грамматически правильную фразу.",
+        "options": [
+          "The train is faster than the bus.",
+          "The train is more faster than the bus."
+        ],
+        "answer": "The train is faster than the bus.",
+        "explanation": "Comparatives сравнивают два варианта (faster than), superlatives выделяют один из группы (the fastest). Усилители much, far, a bit уточняют разницу."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь пропущенную часть фразы: This is ___ route in the city.",
+        "answers": [
+          "the most convenient"
+        ],
+        "explanation": "Верно: This is the most convenient route in the city.. Comparatives сравнивают два варианта (faster than), superlatives выделяют один из группы (the fastest). Усилители much, far, a bit уточняют разницу."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери предложение в правильном порядке.",
+        "words": [
+          "The",
+          "train",
+          "is",
+          "faster",
+          "than",
+          "the",
+          "bus."
+        ],
+        "answers": [
+          "The train is faster than the bus."
+        ],
+        "explanation": "Так слова образуют естественное предложение: The train is faster than the bus."
+      },
+      {
+        "type": "listen",
+        "prompt": "Послушай фразу и запиши её целиком.",
+        "audio": "This is the most convenient route in the city.",
+        "answers": [
+          "This is the most convenient route in the city."
+        ],
+        "explanation": "Текст: This is the most convenient route in the city."
+      },
+      {
+        "type": "choice",
+        "prompt": "Какое значение имеет выражение «journey»?",
+        "options": [
+          "поездка",
+          "дорога на работу",
+          "задержка"
+        ],
+        "answer": "поездка",
+        "explanation": "journey — поездка. Обрати внимание на контекст употребления."
+      },
+      {
+        "type": "choice",
+        "prompt": "После чтения «Choosing a route»: Why do the friends choose the underground?",
+        "options": [
+          "It is faster",
+          "It is free",
+          "It is less crowded"
+        ],
+        "answer": "It is faster",
+        "explanation": "В тексте говорится: Two friends need to get across town before eight. The underground is faster than the bus but more expensive. They choose the underground because arriving on time is more important than saving a little money."
+      }
+    ],
+    "reading": {
+      "title": "Choosing a route",
+      "text": "Two friends need to get across town before eight. The underground is faster than the bus but more expensive. They choose the underground because arriving on time is more important than saving a little money.",
+      "question": "Why do the friends choose the underground?"
+    }
+  },
+  {
+    "id": 26,
+    "track": "english-file",
+    "chapter": 3,
+    "unitNo": "3B",
+    "level": "B1–B1+",
+    "title": "Challenging stereotypes",
+    "ru": "Стереотипы и артикли",
+    "summary": "Используй a/an при первом упоминании одного исчисляемого предмета, the — когда предмет уже известен. Нулевой артикль часто нужен для общих утверждений во множественном числе.",
+    "bookPage": 32,
+    "minutes": 14,
+    "skills": [
+      "Грамматика",
+      "Лексика",
+      "Чтение",
+      "Произношение",
+      "Говорение",
+      "Аудирование"
+    ],
+    "rules": [
+      {
+        "title": "Стереотипы и артикли",
+        "body": "Используй a/an при первом упоминании одного исчисляемого предмета, the — когда предмет уже известен. Нулевой артикль часто нужен для общих утверждений во множественном числе.",
+        "example": "She is an engineer at a local company.",
+        "translation": "Произнеси пример, затем составь свою фразу с тем же правилом."
+      },
+      {
+        "title": "Ещё один контекст",
+        "body": "Сравни обе фразы и обрати внимание на форму «The». Не переводи отдельные слова механически — подумай, почему здесь нужна эта конструкция.",
+        "example": "The engineer we met yesterday was very helpful.",
+        "translation": "Попробуй заменить действующее лицо или обстоятельство."
+      }
+    ],
+    "trap": {
+      "wrong": "She is a engineer at a local company.",
+      "right": "She is an engineer at a local company.",
+      "why": "Используй a/an при первом упоминании одного исчисляемого предмета, the — когда предмет уже известен. Нулевой артикль часто нужен для общих утверждений во множественном числе."
+    },
+    "vocab": [
+      {
+        "en": "stereotype",
+        "ru": "стереотип",
+        "example": "She is an engineer at a local company."
+      },
+      {
+        "en": "attitude",
+        "ru": "отношение",
+        "example": "She is an engineer at a local company."
+      },
+      {
+        "en": "assumption",
+        "ru": "предположение",
+        "example": "She is an engineer at a local company."
+      },
+      {
+        "en": "reliable",
+        "ru": "надёжный",
+        "example": "She is an engineer at a local company."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Alex",
+        "en": "She is an engineer at a local company.",
+        "ru": ""
+      },
+      {
+        "who": "Sam",
+        "en": "The engineer we met yesterday was very helpful.",
+        "ru": ""
+      },
+      {
+        "who": "Alex",
+        "en": "What do you think about stereotype?",
+        "ru": "Как ты к этому относишься?"
+      },
+      {
+        "who": "Sam",
+        "en": "I think it depends on the situation.",
+        "ru": "Думаю, это зависит от ситуации."
+      }
+    ],
+    "speaking": "Расскажи о профессии, которую часто оценивают по стереотипам, и опровергни один из них.",
+    "pronunciation": "Следи за связностью слов в быстрых фразах и звуком /w/. Оригинальные записи издательства не включены; используй озвучку устройства.",
+    "sourceNote": "Oxford University Press · English File 5th Edition, Intermediate · тематическое соответствие, без перепечатки заданий",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери естественную и грамматически правильную фразу.",
+        "options": [
+          "She is an engineer at a local company.",
+          "She is a engineer at a local company."
+        ],
+        "answer": "She is an engineer at a local company.",
+        "explanation": "Используй a/an при первом упоминании одного исчисляемого предмета, the — когда предмет уже известен. Нулевой артикль часто нужен для общих утверждений во множественном числе."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь пропущенную часть фразы: ___ engineer we met yesterday was very helpful.",
+        "answers": [
+          "The"
+        ],
+        "explanation": "Верно: The engineer we met yesterday was very helpful.. Используй a/an при первом упоминании одного исчисляемого предмета, the — когда предмет уже известен. Нулевой артикль часто нужен для общих утверждений во множественном числе."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери предложение в правильном порядке.",
+        "words": [
+          "She",
+          "is",
+          "an",
+          "engineer",
+          "at",
+          "a",
+          "local",
+          "company."
+        ],
+        "answers": [
+          "She is an engineer at a local company."
+        ],
+        "explanation": "Так слова образуют естественное предложение: She is an engineer at a local company."
+      },
+      {
+        "type": "listen",
+        "prompt": "Послушай фразу и запиши её целиком.",
+        "audio": "The engineer we met yesterday was very helpful.",
+        "answers": [
+          "The engineer we met yesterday was very helpful."
+        ],
+        "explanation": "Текст: The engineer we met yesterday was very helpful."
+      },
+      {
+        "type": "choice",
+        "prompt": "Какое значение имеет выражение «stereotype»?",
+        "options": [
+          "стереотип",
+          "отношение",
+          "предположение"
+        ],
+        "answer": "стереотип",
+        "explanation": "stereotype — стереотип. Обрати внимание на контекст употребления."
+      },
+      {
+        "type": "choice",
+        "prompt": "После чтения «An unexpected engineer»: What surprised the students?",
+        "options": [
+          "The engineer designs playgrounds",
+          "The engineer is a doctor",
+          "The engineer dislikes science"
+        ],
+        "answer": "The engineer designs playgrounds",
+        "explanation": "В тексте говорится: The students meet an engineer who designs playgrounds for children. They had imagined that engineers only worked with machines. Her work makes them question their assumptions about science and creativity."
+      }
+    ],
+    "reading": {
+      "title": "An unexpected engineer",
+      "text": "The students meet an engineer who designs playgrounds for children. They had imagined that engineers only worked with machines. Her work makes them question their assumptions about science and creativity.",
+      "question": "What surprised the students?"
+    }
+  },
+  {
+    "id": 27,
+    "track": "english-file",
+    "chapter": 4,
+    "unitNo": "4A",
+    "level": "B1–B1+",
+    "title": "Modern manners",
+    "ru": "Правила и вежливость",
+    "summary": "Must/have to показывают обязанность, mustn't — запрет, don't have to — отсутствие необходимости, should — совет. Don't have to не означает запрет.",
+    "bookPage": 38,
+    "minutes": 14,
+    "skills": [
+      "Грамматика",
+      "Лексика",
+      "Чтение",
+      "Произношение",
+      "Говорение",
+      "Аудирование"
+    ],
+    "rules": [
+      {
+        "title": "Правила и вежливость",
+        "body": "Must/have to показывают обязанность, mustn't — запрет, don't have to — отсутствие необходимости, should — совет. Don't have to не означает запрет.",
+        "example": "You mustn't use your phone during the exam.",
+        "translation": "Произнеси пример, затем составь свою фразу с тем же правилом."
+      },
+      {
+        "title": "Ещё один контекст",
+        "body": "Сравни обе фразы и обрати внимание на форму «should». Не переводи отдельные слова механически — подумай, почему здесь нужна эта конструкция.",
+        "example": "You should apologize if you are late.",
+        "translation": "Попробуй заменить действующее лицо или обстоятельство."
+      }
+    ],
+    "trap": {
+      "wrong": "You don't have to use your phone during the exam.",
+      "right": "You mustn't use your phone during the exam.",
+      "why": "Must/have to показывают обязанность, mustn't — запрет, don't have to — отсутствие необходимости, should — совет. Don't have to не означает запрет."
+    },
+    "vocab": [
+      {
+        "en": "manners",
+        "ru": "манеры",
+        "example": "You mustn't use your phone during the exam."
+      },
+      {
+        "en": "permission",
+        "ru": "разрешение",
+        "example": "You mustn't use your phone during the exam."
+      },
+      {
+        "en": "interrupt",
+        "ru": "перебивать",
+        "example": "You mustn't use your phone during the exam."
+      },
+      {
+        "en": "polite",
+        "ru": "вежливый",
+        "example": "You mustn't use your phone during the exam."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Alex",
+        "en": "You mustn't use your phone during the exam.",
+        "ru": ""
+      },
+      {
+        "who": "Sam",
+        "en": "You should apologize if you are late.",
+        "ru": ""
+      },
+      {
+        "who": "Alex",
+        "en": "What do you think about manners?",
+        "ru": "Как ты к этому относишься?"
+      },
+      {
+        "who": "Sam",
+        "en": "I think it depends on the situation.",
+        "ru": "Думаю, это зависит от ситуации."
+      }
+    ],
+    "speaking": "Дай три совета туристу: что нужно, чего нельзя и что необязательно делать.",
+    "pronunciation": "Повтори silent consonants: listen, should, know. Оригинальные записи издательства не включены; используй озвучку устройства.",
+    "sourceNote": "Oxford University Press · English File 5th Edition, Intermediate · тематическое соответствие, без перепечатки заданий",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери естественную и грамматически правильную фразу.",
+        "options": [
+          "You mustn't use your phone during the exam.",
+          "You don't have to use your phone during the exam."
+        ],
+        "answer": "You mustn't use your phone during the exam.",
+        "explanation": "Must/have to показывают обязанность, mustn't — запрет, don't have to — отсутствие необходимости, should — совет. Don't have to не означает запрет."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь пропущенную часть фразы: You ___ apologize if you are late.",
+        "answers": [
+          "should"
+        ],
+        "explanation": "Верно: You should apologize if you are late.. Must/have to показывают обязанность, mustn't — запрет, don't have to — отсутствие необходимости, should — совет. Don't have to не означает запрет."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери предложение в правильном порядке.",
+        "words": [
+          "You",
+          "mustn't",
+          "use",
+          "your",
+          "phone",
+          "during",
+          "the",
+          "exam."
+        ],
+        "answers": [
+          "You mustn't use your phone during the exam."
+        ],
+        "explanation": "Так слова образуют естественное предложение: You mustn't use your phone during the exam."
+      },
+      {
+        "type": "listen",
+        "prompt": "Послушай фразу и запиши её целиком.",
+        "audio": "You should apologize if you are late.",
+        "answers": [
+          "You should apologize if you are late."
+        ],
+        "explanation": "Текст: You should apologize if you are late."
+      },
+      {
+        "type": "choice",
+        "prompt": "Какое значение имеет выражение «manners»?",
+        "options": [
+          "манеры",
+          "разрешение",
+          "перебивать"
+        ],
+        "answer": "манеры",
+        "explanation": "manners — манеры. Обрати внимание на контекст употребления."
+      },
+      {
+        "type": "choice",
+        "prompt": "После чтения «Rules at the library»: What is not necessary on weekdays?",
+        "options": [
+          "Reserving a seat",
+          "Keeping quiet",
+          "Following computer rules"
+        ],
+        "answer": "Reserving a seat",
+        "explanation": "В тексте говорится: You must keep your voice low in the city library. You must not eat near the computers, but you do not have to reserve a seat on weekdays. If you need help, you should ask a librarian."
+      }
+    ],
+    "reading": {
+      "title": "Rules at the library",
+      "text": "You must keep your voice low in the city library. You must not eat near the computers, but you do not have to reserve a seat on weekdays. If you need help, you should ask a librarian.",
+      "question": "What is not necessary on weekdays?"
+    }
+  },
+  {
+    "id": 28,
+    "track": "english-file",
+    "chapter": 4,
+    "unitNo": "4B",
+    "level": "B1–B1+",
+    "title": "Yes, we can!",
+    "ru": "Умения и возможности",
+    "summary": "Can и could выражают способность в настоящем/прошлом, be able to позволяет говорить об умении в других временах. Managed to подчёркивает удачный результат.",
+    "bookPage": 42,
+    "minutes": 14,
+    "skills": [
+      "Грамматика",
+      "Лексика",
+      "Чтение",
+      "Произношение",
+      "Говорение",
+      "Аудирование"
+    ],
+    "rules": [
+      {
+        "title": "Умения и возможности",
+        "body": "Can и could выражают способность в настоящем/прошлом, be able to позволяет говорить об умении в других временах. Managed to подчёркивает удачный результат.",
+        "example": "When I was six, I could swim well.",
+        "translation": "Произнеси пример, затем составь свою фразу с тем же правилом."
+      },
+      {
+        "title": "Ещё один контекст",
+        "body": "Сравни обе фразы и обрати внимание на форму «managed to». Не переводи отдельные слова механически — подумай, почему здесь нужна эта конструкция.",
+        "example": "After many attempts, we managed to solve the problem.",
+        "translation": "Попробуй заменить действующее лицо или обстоятельство."
+      }
+    ],
+    "trap": {
+      "wrong": "When I was six, I can swim well.",
+      "right": "When I was six, I could swim well.",
+      "why": "Can и could выражают способность в настоящем/прошлом, be able to позволяет говорить об умении в других временах. Managed to подчёркивает удачный результат."
+    },
+    "vocab": [
+      {
+        "en": "skill",
+        "ru": "навык",
+        "example": "When I was six, I could swim well."
+      },
+      {
+        "en": "confident",
+        "ru": "уверенный",
+        "example": "When I was six, I could swim well."
+      },
+      {
+        "en": "challenging",
+        "ru": "сложный",
+        "example": "When I was six, I could swim well."
+      },
+      {
+        "en": "capable",
+        "ru": "способный",
+        "example": "When I was six, I could swim well."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Alex",
+        "en": "When I was six, I could swim well.",
+        "ru": ""
+      },
+      {
+        "who": "Sam",
+        "en": "After many attempts, we managed to solve the problem.",
+        "ru": ""
+      },
+      {
+        "who": "Alex",
+        "en": "What do you think about skill?",
+        "ru": "Как ты к этому относишься?"
+      },
+      {
+        "who": "Sam",
+        "en": "I think it depends on the situation.",
+        "ru": "Думаю, это зависит от ситуации."
+      }
+    ],
+    "speaking": "Расскажи, что умел в детстве и чему смог научиться недавно.",
+    "pronunciation": "Слушай ударения в I COULD do it и I WAS ABLE to do it. Оригинальные записи издательства не включены; используй озвучку устройства.",
+    "sourceNote": "Oxford University Press · English File 5th Edition, Intermediate · тематическое соответствие, без перепечатки заданий",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери естественную и грамматически правильную фразу.",
+        "options": [
+          "When I was six, I could swim well.",
+          "When I was six, I can swim well."
+        ],
+        "answer": "When I was six, I could swim well.",
+        "explanation": "Can и could выражают способность в настоящем/прошлом, be able to позволяет говорить об умении в других временах. Managed to подчёркивает удачный результат."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь пропущенную часть фразы: After many attempts, we ___ solve the problem.",
+        "answers": [
+          "managed to"
+        ],
+        "explanation": "Верно: After many attempts, we managed to solve the problem.. Can и could выражают способность в настоящем/прошлом, be able to позволяет говорить об умении в других временах. Managed to подчёркивает удачный результат."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери предложение в правильном порядке.",
+        "words": [
+          "When",
+          "I",
+          "was",
+          "six,",
+          "I",
+          "could",
+          "swim",
+          "well."
+        ],
+        "answers": [
+          "When I was six, I could swim well."
+        ],
+        "explanation": "Так слова образуют естественное предложение: When I was six, I could swim well."
+      },
+      {
+        "type": "listen",
+        "prompt": "Послушай фразу и запиши её целиком.",
+        "audio": "After many attempts, we managed to solve the problem.",
+        "answers": [
+          "After many attempts, we managed to solve the problem."
+        ],
+        "explanation": "Текст: After many attempts, we managed to solve the problem."
+      },
+      {
+        "type": "choice",
+        "prompt": "Какое значение имеет выражение «skill»?",
+        "options": [
+          "навык",
+          "уверенный",
+          "сложный"
+        ],
+        "answer": "навык",
+        "explanation": "skill — навык. Обрати внимание на контекст употребления."
+      },
+      {
+        "type": "choice",
+        "prompt": "После чтения «Learning a new skill»: What did Karim manage to do last summer?",
+        "options": [
+          "Swim across a pool",
+          "Dive in the sea",
+          "Ride a racing bike"
+        ],
+        "answer": "Swim across a pool",
+        "explanation": "В тексте говорится: As a child, Karim could ride a bike but could not swim. Last summer he took lessons and finally managed to swim across a small pool. He hopes to be able to swim in the sea next year."
+      }
+    ],
+    "reading": {
+      "title": "Learning a new skill",
+      "text": "As a child, Karim could ride a bike but could not swim. Last summer he took lessons and finally managed to swim across a small pool. He hopes to be able to swim in the sea next year.",
+      "question": "What did Karim manage to do last summer?"
+    }
+  },
+  {
+    "id": 29,
+    "track": "english-file",
+    "chapter": 5,
+    "unitNo": "5A",
+    "level": "B1–B1+",
+    "title": "Good sports",
+    "ru": "Спорт и история событий",
+    "summary": "Past Continuous задаёт фон длительного действия, Past Simple — событие, Past Perfect показывает, что произошло раньше другого события в прошлом.",
+    "bookPage": 48,
+    "minutes": 14,
+    "skills": [
+      "Грамматика",
+      "Лексика",
+      "Чтение",
+      "Произношение",
+      "Говорение",
+      "Аудирование"
+    ],
+    "rules": [
+      {
+        "title": "Спорт и история событий",
+        "body": "Past Continuous задаёт фон длительного действия, Past Simple — событие, Past Perfect показывает, что произошло раньше другого события в прошлом.",
+        "example": "I was watching the match when the lights went out.",
+        "translation": "Произнеси пример, затем составь свою фразу с тем же правилом."
+      },
+      {
+        "title": "Ещё один контекст",
+        "body": "Сравни обе фразы и обрати внимание на форму «had scored». Не переводи отдельные слова механически — подумай, почему здесь нужна эта конструкция.",
+        "example": "By halftime, our team had scored two goals.",
+        "translation": "Попробуй заменить действующее лицо или обстоятельство."
+      }
+    ],
+    "trap": {
+      "wrong": "I watched the match when the lights were going out.",
+      "right": "I was watching the match when the lights went out.",
+      "why": "Past Continuous задаёт фон длительного действия, Past Simple — событие, Past Perfect показывает, что произошло раньше другого события в прошлом."
+    },
+    "vocab": [
+      {
+        "en": "referee",
+        "ru": "судья",
+        "example": "I was watching the match when the lights went out."
+      },
+      {
+        "en": "score",
+        "ru": "счёт",
+        "example": "I was watching the match when the lights went out."
+      },
+      {
+        "en": "athlete",
+        "ru": "спортсмен",
+        "example": "I was watching the match when the lights went out."
+      },
+      {
+        "en": "supporter",
+        "ru": "болельщик",
+        "example": "I was watching the match when the lights went out."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Alex",
+        "en": "I was watching the match when the lights went out.",
+        "ru": ""
+      },
+      {
+        "who": "Sam",
+        "en": "By halftime, our team had scored two goals.",
+        "ru": ""
+      },
+      {
+        "who": "Alex",
+        "en": "What do you think about referee?",
+        "ru": "Как ты к этому относишься?"
+      },
+      {
+        "who": "Sam",
+        "en": "I think it depends on the situation.",
+        "ru": "Думаю, это зависит от ситуации."
+      }
+    ],
+    "speaking": "Перескажи необычный случай во время спортивного матча.",
+    "pronunciation": "Различай vowel sounds в sport и work. Оригинальные записи издательства не включены; используй озвучку устройства.",
+    "sourceNote": "Oxford University Press · English File 5th Edition, Intermediate · тематическое соответствие, без перепечатки заданий",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери естественную и грамматически правильную фразу.",
+        "options": [
+          "I was watching the match when the lights went out.",
+          "I watched the match when the lights were going out."
+        ],
+        "answer": "I was watching the match when the lights went out.",
+        "explanation": "Past Continuous задаёт фон длительного действия, Past Simple — событие, Past Perfect показывает, что произошло раньше другого события в прошлом."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь пропущенную часть фразы: By halftime, our team ___ two goals.",
+        "answers": [
+          "had scored"
+        ],
+        "explanation": "Верно: By halftime, our team had scored two goals.. Past Continuous задаёт фон длительного действия, Past Simple — событие, Past Perfect показывает, что произошло раньше другого события в прошлом."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери предложение в правильном порядке.",
+        "words": [
+          "I",
+          "was",
+          "watching",
+          "the",
+          "match",
+          "when",
+          "the",
+          "lights",
+          "went",
+          "out."
+        ],
+        "answers": [
+          "I was watching the match when the lights went out."
+        ],
+        "explanation": "Так слова образуют естественное предложение: I was watching the match when the lights went out."
+      },
+      {
+        "type": "listen",
+        "prompt": "Послушай фразу и запиши её целиком.",
+        "audio": "By halftime, our team had scored two goals.",
+        "answers": [
+          "By halftime, our team had scored two goals."
+        ],
+        "explanation": "Текст: By halftime, our team had scored two goals."
+      },
+      {
+        "type": "choice",
+        "prompt": "Какое значение имеет выражение «referee»?",
+        "options": [
+          "судья",
+          "счёт",
+          "спортсмен"
+        ],
+        "answer": "судья",
+        "explanation": "referee — судья. Обрати внимание на контекст употребления."
+      },
+      {
+        "type": "choice",
+        "prompt": "После чтения «The unexpected match»: What was happening when the lights failed?",
+        "options": [
+          "The crowd was cheering",
+          "The match had finished",
+          "The players were leaving"
+        ],
+        "answer": "The crowd was cheering",
+        "explanation": "В тексте говорится: The crowd was cheering when the stadium lights went out. The players waited while the technicians worked. By the time the game restarted, both teams had agreed to play fairly and finish the match."
+      }
+    ],
+    "reading": {
+      "title": "The unexpected match",
+      "text": "The crowd was cheering when the stadium lights went out. The players waited while the technicians worked. By the time the game restarted, both teams had agreed to play fairly and finish the match.",
+      "question": "What was happening when the lights failed?"
+    }
+  },
+  {
+    "id": 30,
+    "track": "english-file",
+    "chapter": 5,
+    "unitNo": "5B",
+    "level": "B1–B1+",
+    "title": "Best Friends Forever",
+    "ru": "Дружба и привычки",
+    "summary": "Used to описывает прошлые привычки и состояния, которых сейчас нет. Would подходит для повторявшихся действий, но обычно не для прошлых состояний.",
+    "bookPage": 52,
+    "minutes": 14,
+    "skills": [
+      "Грамматика",
+      "Лексика",
+      "Чтение",
+      "Произношение",
+      "Говорение",
+      "Аудирование"
+    ],
+    "rules": [
+      {
+        "title": "Дружба и привычки",
+        "body": "Used to описывает прошлые привычки и состояния, которых сейчас нет. Would подходит для повторявшихся действий, но обычно не для прошлых состояний.",
+        "example": "We used to meet every Friday at the café.",
+        "translation": "Произнеси пример, затем составь свою фразу с тем же правилом."
+      },
+      {
+        "title": "Ещё один контекст",
+        "body": "Сравни обе фразы и обрати внимание на форму «didn't use to». Не переводи отдельные слова механически — подумай, почему здесь нужна эта конструкция.",
+        "example": "I didn't use to enjoy large parties.",
+        "translation": "Попробуй заменить действующее лицо или обстоятельство."
+      }
+    ],
+    "trap": {
+      "wrong": "We use to met every Friday at the café.",
+      "right": "We used to meet every Friday at the café.",
+      "why": "Used to описывает прошлые привычки и состояния, которых сейчас нет. Would подходит для повторявшихся действий, но обычно не для прошлых состояний."
+    },
+    "vocab": [
+      {
+        "en": "trust",
+        "ru": "доверие",
+        "example": "We used to meet every Friday at the café."
+      },
+      {
+        "en": "friendship",
+        "ru": "дружба",
+        "example": "We used to meet every Friday at the café."
+      },
+      {
+        "en": "argue",
+        "ru": "спорить",
+        "example": "We used to meet every Friday at the café."
+      },
+      {
+        "en": "reconnect",
+        "ru": "восстановить общение",
+        "example": "We used to meet every Friday at the café."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Alex",
+        "en": "We used to meet every Friday at the café.",
+        "ru": ""
+      },
+      {
+        "who": "Sam",
+        "en": "I didn't use to enjoy large parties.",
+        "ru": ""
+      },
+      {
+        "who": "Alex",
+        "en": "What do you think about trust?",
+        "ru": "Как ты к этому относишься?"
+      },
+      {
+        "who": "Sam",
+        "en": "I think it depends on the situation.",
+        "ru": "Думаю, это зависит от ситуации."
+      }
+    ],
+    "speaking": "Сравни общение с друзьями в школе и сейчас.",
+    "pronunciation": "Обрати внимание на used to: в быстрой речи часто слышно /juːstə/. Оригинальные записи издательства не включены; используй озвучку устройства.",
+    "sourceNote": "Oxford University Press · English File 5th Edition, Intermediate · тематическое соответствие, без перепечатки заданий",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери естественную и грамматически правильную фразу.",
+        "options": [
+          "We used to meet every Friday at the café.",
+          "We use to met every Friday at the café."
+        ],
+        "answer": "We used to meet every Friday at the café.",
+        "explanation": "Used to описывает прошлые привычки и состояния, которых сейчас нет. Would подходит для повторявшихся действий, но обычно не для прошлых состояний."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь пропущенную часть фразы: I ___ enjoy large parties.",
+        "answers": [
+          "didn't use to"
+        ],
+        "explanation": "Верно: I didn't use to enjoy large parties.. Used to описывает прошлые привычки и состояния, которых сейчас нет. Would подходит для повторявшихся действий, но обычно не для прошлых состояний."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери предложение в правильном порядке.",
+        "words": [
+          "We",
+          "used",
+          "to",
+          "meet",
+          "every",
+          "Friday",
+          "at",
+          "the",
+          "café."
+        ],
+        "answers": [
+          "We used to meet every Friday at the café."
+        ],
+        "explanation": "Так слова образуют естественное предложение: We used to meet every Friday at the café."
+      },
+      {
+        "type": "listen",
+        "prompt": "Послушай фразу и запиши её целиком.",
+        "audio": "I didn't use to enjoy large parties.",
+        "answers": [
+          "I didn't use to enjoy large parties."
+        ],
+        "explanation": "Текст: I didn't use to enjoy large parties."
+      },
+      {
+        "type": "choice",
+        "prompt": "Какое значение имеет выражение «trust»?",
+        "options": [
+          "доверие",
+          "дружба",
+          "спорить"
+        ],
+        "answer": "доверие",
+        "explanation": "trust — доверие. Обрати внимание на контекст употребления."
+      },
+      {
+        "type": "choice",
+        "prompt": "После чтения «Friends after school»: How did they keep in touch after moving?",
+        "options": [
+          "They call each other",
+          "They meet each Friday",
+          "They write daily letters"
+        ],
+        "answer": "They call each other",
+        "explanation": "В тексте говорится: Marta and Zoe used to meet every Friday when they were at school. They would walk by the river and talk about music. Now they live in different cities, but they still call each other every month."
+      }
+    ],
+    "reading": {
+      "title": "Friends after school",
+      "text": "Marta and Zoe used to meet every Friday when they were at school. They would walk by the river and talk about music. Now they live in different cities, but they still call each other every month.",
+      "question": "How did they keep in touch after moving?"
+    }
+  },
+  {
+    "id": 31,
+    "track": "english-file",
+    "chapter": 6,
+    "unitNo": "6A",
+    "level": "B1–B1+",
+    "title": "Extra information",
+    "ru": "Кино и пассивный залог",
+    "summary": "В Passive Voice акцент на действии или объекте: be + past participle. Меняй время глагола be: was made, has been shown, will be released.",
+    "bookPage": 58,
+    "minutes": 14,
+    "skills": [
+      "Грамматика",
+      "Лексика",
+      "Чтение",
+      "Произношение",
+      "Говорение",
+      "Аудирование"
+    ],
+    "rules": [
+      {
+        "title": "Кино и пассивный залог",
+        "body": "В Passive Voice акцент на действии или объекте: be + past participle. Меняй время глагола be: was made, has been shown, will be released.",
+        "example": "The film was directed by a young filmmaker.",
+        "translation": "Произнеси пример, затем составь свою фразу с тем же правилом."
+      },
+      {
+        "title": "Ещё один контекст",
+        "body": "Сравни обе фразы и обрати внимание на форму «will be released». Не переводи отдельные слова механически — подумай, почему здесь нужна эта конструкция.",
+        "example": "A sequel will be released next year.",
+        "translation": "Попробуй заменить действующее лицо или обстоятельство."
+      }
+    ],
+    "trap": {
+      "wrong": "The film directed by a young filmmaker.",
+      "right": "The film was directed by a young filmmaker.",
+      "why": "В Passive Voice акцент на действии или объекте: be + past participle. Меняй время глагола be: was made, has been shown, will be released."
+    },
+    "vocab": [
+      {
+        "en": "director",
+        "ru": "режиссёр",
+        "example": "The film was directed by a young filmmaker."
+      },
+      {
+        "en": "plot",
+        "ru": "сюжет",
+        "example": "The film was directed by a young filmmaker."
+      },
+      {
+        "en": "scene",
+        "ru": "сцена",
+        "example": "The film was directed by a young filmmaker."
+      },
+      {
+        "en": "review",
+        "ru": "рецензия",
+        "example": "The film was directed by a young filmmaker."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Alex",
+        "en": "The film was directed by a young filmmaker.",
+        "ru": ""
+      },
+      {
+        "who": "Sam",
+        "en": "A sequel will be released next year.",
+        "ru": ""
+      },
+      {
+        "who": "Alex",
+        "en": "What do you think about director?",
+        "ru": "Как ты к этому относишься?"
+      },
+      {
+        "who": "Sam",
+        "en": "I think it depends on the situation.",
+        "ru": "Думаю, это зависит от ситуации."
+      }
+    ],
+    "speaking": "Опиши любимый фильм, используя две пассивные конструкции.",
+    "pronunciation": "Потренируй три формы частотных неправильных глаголов: take–took–taken. Оригинальные записи издательства не включены; используй озвучку устройства.",
+    "sourceNote": "Oxford University Press · English File 5th Edition, Intermediate · тематическое соответствие, без перепечатки заданий",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери естественную и грамматически правильную фразу.",
+        "options": [
+          "The film was directed by a young filmmaker.",
+          "The film directed by a young filmmaker."
+        ],
+        "answer": "The film was directed by a young filmmaker.",
+        "explanation": "В Passive Voice акцент на действии или объекте: be + past participle. Меняй время глагола be: was made, has been shown, will be released."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь пропущенную часть фразы: A sequel ___ next year.",
+        "answers": [
+          "will be released"
+        ],
+        "explanation": "Верно: A sequel will be released next year.. В Passive Voice акцент на действии или объекте: be + past participle. Меняй время глагола be: was made, has been shown, will be released."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери предложение в правильном порядке.",
+        "words": [
+          "The",
+          "film",
+          "was",
+          "directed",
+          "by",
+          "a",
+          "young",
+          "filmmaker."
+        ],
+        "answers": [
+          "The film was directed by a young filmmaker."
+        ],
+        "explanation": "Так слова образуют естественное предложение: The film was directed by a young filmmaker."
+      },
+      {
+        "type": "listen",
+        "prompt": "Послушай фразу и запиши её целиком.",
+        "audio": "A sequel will be released next year.",
+        "answers": [
+          "A sequel will be released next year."
+        ],
+        "explanation": "Текст: A sequel will be released next year."
+      },
+      {
+        "type": "choice",
+        "prompt": "Какое значение имеет выражение «director»?",
+        "options": [
+          "режиссёр",
+          "сюжет",
+          "сцена"
+        ],
+        "answer": "режиссёр",
+        "explanation": "director — режиссёр. Обрати внимание на контекст употребления."
+      },
+      {
+        "type": "choice",
+        "prompt": "После чтения «The small cinema»: When will the documentary be available online?",
+        "options": [
+          "Next month",
+          "Last year",
+          "Two years ago"
+        ],
+        "answer": "Next month",
+        "explanation": "В тексте говорится: A new documentary was filmed in a mountain village last year. It was edited by a local filmmaker and has already been shown at two festivals. It will be released online next month."
+      }
+    ],
+    "reading": {
+      "title": "The small cinema",
+      "text": "A new documentary was filmed in a mountain village last year. It was edited by a local filmmaker and has already been shown at two festivals. It will be released online next month.",
+      "question": "When will the documentary be available online?"
+    }
+  },
+  {
+    "id": 32,
+    "track": "english-file",
+    "chapter": 6,
+    "unitNo": "6B",
+    "level": "B1–B1+",
+    "title": "In the picture",
+    "ru": "Внешность и предположения",
+    "summary": "Must обозначает уверенное логическое предположение, might/could — возможность, can't — невозможность. Это не прямой приказ в таких контекстах.",
+    "bookPage": 62,
+    "minutes": 14,
+    "skills": [
+      "Грамматика",
+      "Лексика",
+      "Чтение",
+      "Произношение",
+      "Говорение",
+      "Аудирование"
+    ],
+    "rules": [
+      {
+        "title": "Внешность и предположения",
+        "body": "Must обозначает уверенное логическое предположение, might/could — возможность, can't — невозможность. Это не прямой приказ в таких контекстах.",
+        "example": "He must be tired after that long journey.",
+        "translation": "Произнеси пример, затем составь свою фразу с тем же правилом."
+      },
+      {
+        "title": "Ещё один контекст",
+        "body": "Сравни обе фразы и обрати внимание на форму «can't be». Не переводи отдельные слова механически — подумай, почему здесь нужна эта конструкция.",
+        "example": "She can't be at home; her car is gone.",
+        "translation": "Попробуй заменить действующее лицо или обстоятельство."
+      }
+    ],
+    "trap": {
+      "wrong": "He must to be tired after that long journey.",
+      "right": "He must be tired after that long journey.",
+      "why": "Must обозначает уверенное логическое предположение, might/could — возможность, can't — невозможность. Это не прямой приказ в таких контекстах."
+    },
+    "vocab": [
+      {
+        "en": "portrait",
+        "ru": "портрет",
+        "example": "He must be tired after that long journey."
+      },
+      {
+        "en": "expression",
+        "ru": "выражение лица",
+        "example": "He must be tired after that long journey."
+      },
+      {
+        "en": "clue",
+        "ru": "подсказка",
+        "example": "He must be tired after that long journey."
+      },
+      {
+        "en": "appear",
+        "ru": "казаться",
+        "example": "He must be tired after that long journey."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Alex",
+        "en": "He must be tired after that long journey.",
+        "ru": ""
+      },
+      {
+        "who": "Sam",
+        "en": "She can't be at home; her car is gone.",
+        "ru": ""
+      },
+      {
+        "who": "Alex",
+        "en": "What do you think about portrait?",
+        "ru": "Как ты к этому относишься?"
+      },
+      {
+        "who": "Sam",
+        "en": "I think it depends on the situation.",
+        "ru": "Думаю, это зависит от ситуации."
+      }
+    ],
+    "speaking": "Опиши фотографию и сделай три предположения о людях.",
+    "pronunciation": "Удели внимание дифтонгам в face, photo и now. Оригинальные записи издательства не включены; используй озвучку устройства.",
+    "sourceNote": "Oxford University Press · English File 5th Edition, Intermediate · тематическое соответствие, без перепечатки заданий",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери естественную и грамматически правильную фразу.",
+        "options": [
+          "He must be tired after that long journey.",
+          "He must to be tired after that long journey."
+        ],
+        "answer": "He must be tired after that long journey.",
+        "explanation": "Must обозначает уверенное логическое предположение, might/could — возможность, can't — невозможность. Это не прямой приказ в таких контекстах."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь пропущенную часть фразы: She ___ at home; her car is gone.",
+        "answers": [
+          "can't be"
+        ],
+        "explanation": "Верно: She can't be at home; her car is gone.. Must обозначает уверенное логическое предположение, might/could — возможность, can't — невозможность. Это не прямой приказ в таких контекстах."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери предложение в правильном порядке.",
+        "words": [
+          "He",
+          "must",
+          "be",
+          "tired",
+          "after",
+          "that",
+          "long",
+          "journey."
+        ],
+        "answers": [
+          "He must be tired after that long journey."
+        ],
+        "explanation": "Так слова образуют естественное предложение: He must be tired after that long journey."
+      },
+      {
+        "type": "listen",
+        "prompt": "Послушай фразу и запиши её целиком.",
+        "audio": "She can't be at home; her car is gone.",
+        "answers": [
+          "She can't be at home; her car is gone."
+        ],
+        "explanation": "Текст: She can't be at home; her car is gone."
+      },
+      {
+        "type": "choice",
+        "prompt": "Какое значение имеет выражение «portrait»?",
+        "options": [
+          "портрет",
+          "выражение лица",
+          "подсказка"
+        ],
+        "answer": "портрет",
+        "explanation": "portrait — портрет. Обрати внимание на контекст употребления."
+      },
+      {
+        "type": "choice",
+        "prompt": "После чтения «The open window»: What is Ella certain about?",
+        "options": [
+          "Someone was outside in the rain",
+          "Her brother opened the window",
+          "Nobody visited the house"
+        ],
+        "answer": "Someone was outside in the rain",
+        "explanation": "В тексте говорится: Ella finds an open window and wet footprints in the kitchen. Her brother might have come home early, but he usually takes off his shoes. Someone must have been outside in the rain."
+      }
+    ],
+    "reading": {
+      "title": "The open window",
+      "text": "Ella finds an open window and wet footprints in the kitchen. Her brother might have come home early, but he usually takes off his shoes. Someone must have been outside in the rain.",
+      "question": "What is Ella certain about?"
+    }
+  },
+  {
+    "id": 33,
+    "track": "english-file",
+    "chapter": 7,
+    "unitNo": "7A",
+    "level": "B1–B1+",
+    "title": "Term time",
+    "ru": "Учёба и условия",
+    "summary": "First Conditional: if + Present Simple, will + verb. После when, as soon as и until о будущем обычно употребляется Present Simple, а не will.",
+    "bookPage": 68,
+    "minutes": 14,
+    "skills": [
+      "Грамматика",
+      "Лексика",
+      "Чтение",
+      "Произношение",
+      "Говорение",
+      "Аудирование"
+    ],
+    "rules": [
+      {
+        "title": "Учёба и условия",
+        "body": "First Conditional: if + Present Simple, will + verb. После when, as soon as и until о будущем обычно употребляется Present Simple, а не will.",
+        "example": "If I pass the exam, I'll celebrate.",
+        "translation": "Произнеси пример, затем составь свою фразу с тем же правилом."
+      },
+      {
+        "title": "Ещё один контекст",
+        "body": "Сравни обе фразы и обрати внимание на форму «finishes». Не переводи отдельные слова механически — подумай, почему здесь нужна эта конструкция.",
+        "example": "I'll call you when the lesson finishes.",
+        "translation": "Попробуй заменить действующее лицо или обстоятельство."
+      }
+    ],
+    "trap": {
+      "wrong": "If I will pass the exam, I'll celebrate.",
+      "right": "If I pass the exam, I'll celebrate.",
+      "why": "First Conditional: if + Present Simple, will + verb. После when, as soon as и until о будущем обычно употребляется Present Simple, а не will."
+    },
+    "vocab": [
+      {
+        "en": "assignment",
+        "ru": "задание",
+        "example": "If I pass the exam, I'll celebrate."
+      },
+      {
+        "en": "grade",
+        "ru": "оценка",
+        "example": "If I pass the exam, I'll celebrate."
+      },
+      {
+        "en": "deadline",
+        "ru": "срок",
+        "example": "If I pass the exam, I'll celebrate."
+      },
+      {
+        "en": "scholarship",
+        "ru": "стипендия",
+        "example": "If I pass the exam, I'll celebrate."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Alex",
+        "en": "If I pass the exam, I'll celebrate.",
+        "ru": ""
+      },
+      {
+        "who": "Sam",
+        "en": "I'll call you when the lesson finishes.",
+        "ru": ""
+      },
+      {
+        "who": "Alex",
+        "en": "What do you think about assignment?",
+        "ru": "Как ты к этому относишься?"
+      },
+      {
+        "who": "Sam",
+        "en": "I think it depends on the situation.",
+        "ru": "Думаю, это зависит от ситуации."
+      }
+    ],
+    "speaking": "Расскажи о планах после экзамена и о том, что сделаешь, когда он закончится.",
+    "pronunciation": "Сравни произношение u в study, student и rule. Оригинальные записи издательства не включены; используй озвучку устройства.",
+    "sourceNote": "Oxford University Press · English File 5th Edition, Intermediate · тематическое соответствие, без перепечатки заданий",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери естественную и грамматически правильную фразу.",
+        "options": [
+          "If I pass the exam, I'll celebrate.",
+          "If I will pass the exam, I'll celebrate."
+        ],
+        "answer": "If I pass the exam, I'll celebrate.",
+        "explanation": "First Conditional: if + Present Simple, will + verb. После when, as soon as и until о будущем обычно употребляется Present Simple, а не will."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь пропущенную часть фразы: I'll call you when the lesson ___.",
+        "answers": [
+          "finishes"
+        ],
+        "explanation": "Верно: I'll call you when the lesson finishes.. First Conditional: if + Present Simple, will + verb. После when, as soon as и until о будущем обычно употребляется Present Simple, а не will."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери предложение в правильном порядке.",
+        "words": [
+          "If",
+          "I",
+          "pass",
+          "the",
+          "exam,",
+          "I'll",
+          "celebrate."
+        ],
+        "answers": [
+          "If I pass the exam, I'll celebrate."
+        ],
+        "explanation": "Так слова образуют естественное предложение: If I pass the exam, I'll celebrate."
+      },
+      {
+        "type": "listen",
+        "prompt": "Послушай фразу и запиши её целиком.",
+        "audio": "I'll call you when the lesson finishes.",
+        "answers": [
+          "I'll call you when the lesson finishes."
+        ],
+        "explanation": "Текст: I'll call you when the lesson finishes."
+      },
+      {
+        "type": "choice",
+        "prompt": "Какое значение имеет выражение «assignment»?",
+        "options": [
+          "задание",
+          "оценка",
+          "срок"
+        ],
+        "answer": "задание",
+        "explanation": "assignment — задание. Обрати внимание на контекст употребления."
+      },
+      {
+        "type": "choice",
+        "prompt": "После чтения «Exam-week plans»: When will Ben call his friends?",
+        "options": [
+          "As soon as he knows his workload",
+          "Only next month",
+          "Before he starts studying"
+        ],
+        "answer": "As soon as he knows his workload",
+        "explanation": "В тексте говорится: Ben has an important exam next Thursday. If he finishes revising early, he will meet friends that evening. He will call them as soon as he knows how much work is left."
+      }
+    ],
+    "reading": {
+      "title": "Exam-week plans",
+      "text": "Ben has an important exam next Thursday. If he finishes revising early, he will meet friends that evening. He will call them as soon as he knows how much work is left.",
+      "question": "When will Ben call his friends?"
+    }
+  },
+  {
+    "id": 34,
+    "track": "english-file",
+    "chapter": 7,
+    "unitNo": "7B",
+    "level": "B1–B1+",
+    "title": "House or home?",
+    "ru": "Дом и воображаемые ситуации",
+    "summary": "Second Conditional: if + Past Simple, would + infinitive. Она описывает воображаемую, маловероятную или нереальную ситуацию в настоящем/будущем.",
+    "bookPage": 72,
+    "minutes": 14,
+    "skills": [
+      "Грамматика",
+      "Лексика",
+      "Чтение",
+      "Произношение",
+      "Говорение",
+      "Аудирование"
+    ],
+    "rules": [
+      {
+        "title": "Дом и воображаемые ситуации",
+        "body": "Second Conditional: if + Past Simple, would + infinitive. Она описывает воображаемую, маловероятную или нереальную ситуацию в настоящем/будущем.",
+        "example": "If I had a bigger room, I would buy a piano.",
+        "translation": "Произнеси пример, затем составь свою фразу с тем же правилом."
+      },
+      {
+        "title": "Ещё один контекст",
+        "body": "Сравни обе фразы и обрати внимание на форму «would swim». Не переводи отдельные слова механически — подумай, почему здесь нужна эта конструкция.",
+        "example": "If I lived near the sea, I would swim every day.",
+        "translation": "Попробуй заменить действующее лицо или обстоятельство."
+      }
+    ],
+    "trap": {
+      "wrong": "If I would have a bigger room, I buy a piano.",
+      "right": "If I had a bigger room, I would buy a piano.",
+      "why": "Second Conditional: if + Past Simple, would + infinitive. Она описывает воображаемую, маловероятную или нереальную ситуацию в настоящем/будущем."
+    },
+    "vocab": [
+      {
+        "en": "neighbourhood",
+        "ru": "район",
+        "example": "If I had a bigger room, I would buy a piano."
+      },
+      {
+        "en": "rent",
+        "ru": "арендовать",
+        "example": "If I had a bigger room, I would buy a piano."
+      },
+      {
+        "en": "spacious",
+        "ru": "просторный",
+        "example": "If I had a bigger room, I would buy a piano."
+      },
+      {
+        "en": "cosy",
+        "ru": "уютный",
+        "example": "If I had a bigger room, I would buy a piano."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Alex",
+        "en": "If I had a bigger room, I would buy a piano.",
+        "ru": ""
+      },
+      {
+        "who": "Sam",
+        "en": "If I lived near the sea, I would swim every day.",
+        "ru": ""
+      },
+      {
+        "who": "Alex",
+        "en": "What do you think about neighbourhood?",
+        "ru": "Как ты к этому относишься?"
+      },
+      {
+        "who": "Sam",
+        "en": "I think it depends on the situation.",
+        "ru": "Думаю, это зависит от ситуации."
+      }
+    ],
+    "speaking": "Опиши дом мечты с двумя предложениями If I… I would…",
+    "pronunciation": "Повтори ударение в названиях комнат и предметов интерьера. Оригинальные записи издательства не включены; используй озвучку устройства.",
+    "sourceNote": "Oxford University Press · English File 5th Edition, Intermediate · тематическое соответствие, без перепечатки заданий",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери естественную и грамматически правильную фразу.",
+        "options": [
+          "If I had a bigger room, I would buy a piano.",
+          "If I would have a bigger room, I buy a piano."
+        ],
+        "answer": "If I had a bigger room, I would buy a piano.",
+        "explanation": "Second Conditional: if + Past Simple, would + infinitive. Она описывает воображаемую, маловероятную или нереальную ситуацию в настоящем/будущем."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь пропущенную часть фразы: If I lived near the sea, I ___ every day.",
+        "answers": [
+          "would swim"
+        ],
+        "explanation": "Верно: If I lived near the sea, I would swim every day.. Second Conditional: if + Past Simple, would + infinitive. Она описывает воображаемую, маловероятную или нереальную ситуацию в настоящем/будущем."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери предложение в правильном порядке.",
+        "words": [
+          "If",
+          "I",
+          "had",
+          "a",
+          "bigger",
+          "room,",
+          "I",
+          "would",
+          "buy",
+          "a",
+          "piano."
+        ],
+        "answers": [
+          "If I had a bigger room, I would buy a piano."
+        ],
+        "explanation": "Так слова образуют естественное предложение: If I had a bigger room, I would buy a piano."
+      },
+      {
+        "type": "listen",
+        "prompt": "Послушай фразу и запиши её целиком.",
+        "audio": "If I lived near the sea, I would swim every day.",
+        "answers": [
+          "If I lived near the sea, I would swim every day."
+        ],
+        "explanation": "Текст: If I lived near the sea, I would swim every day."
+      },
+      {
+        "type": "choice",
+        "prompt": "Какое значение имеет выражение «neighbourhood»?",
+        "options": [
+          "район",
+          "арендовать",
+          "просторный"
+        ],
+        "answer": "район",
+        "explanation": "neighbourhood — район. Обрати внимание на контекст употребления."
+      },
+      {
+        "type": "choice",
+        "prompt": "После чтения «A dream apartment»: Why does Rosa not have a piano?",
+        "options": [
+          "Her apartment is too small",
+          "She cannot play music",
+          "Her friends dislike concerts"
+        ],
+        "answer": "Her apartment is too small",
+        "explanation": "В тексте говорится: If Rosa had a larger apartment, she would put a piano in the living room. She would also invite friends for music evenings. For now, she practises on a keyboard in her small bedroom."
+      }
+    ],
+    "reading": {
+      "title": "A dream apartment",
+      "text": "If Rosa had a larger apartment, she would put a piano in the living room. She would also invite friends for music evenings. For now, she practises on a keyboard in her small bedroom.",
+      "question": "Why does Rosa not have a piano?"
+    }
+  },
+  {
+    "id": 35,
+    "track": "english-file",
+    "chapter": 8,
+    "unitNo": "8A",
+    "level": "B1–B1+",
+    "title": "The right job for you",
+    "ru": "Работа и формы глаголов",
+    "summary": "После enjoy, avoid, consider обычно нужен -ing; после want, hope, decide — to + infinitive. Некоторые глаголы меняют смысл в зависимости от формы.",
+    "bookPage": 78,
+    "minutes": 14,
+    "skills": [
+      "Грамматика",
+      "Лексика",
+      "Чтение",
+      "Произношение",
+      "Говорение",
+      "Аудирование"
+    ],
+    "rules": [
+      {
+        "title": "Работа и формы глаголов",
+        "body": "После enjoy, avoid, consider обычно нужен -ing; после want, hope, decide — to + infinitive. Некоторые глаголы меняют смысл в зависимости от формы.",
+        "example": "I enjoy working with people.",
+        "translation": "Произнеси пример, затем составь свою фразу с тем же правилом."
+      },
+      {
+        "title": "Ещё один контекст",
+        "body": "Сравни обе фразы и обрати внимание на форму «decided to apply». Не переводи отдельные слова механически — подумай, почему здесь нужна эта конструкция.",
+        "example": "She decided to apply for the position.",
+        "translation": "Попробуй заменить действующее лицо или обстоятельство."
+      }
+    ],
+    "trap": {
+      "wrong": "I enjoy to work with people.",
+      "right": "I enjoy working with people.",
+      "why": "После enjoy, avoid, consider обычно нужен -ing; после want, hope, decide — to + infinitive. Некоторые глаголы меняют смысл в зависимости от формы."
+    },
+    "vocab": [
+      {
+        "en": "colleague",
+        "ru": "коллега",
+        "example": "I enjoy working with people."
+      },
+      {
+        "en": "career",
+        "ru": "карьера",
+        "example": "I enjoy working with people."
+      },
+      {
+        "en": "salary",
+        "ru": "зарплата",
+        "example": "I enjoy working with people."
+      },
+      {
+        "en": "vacancy",
+        "ru": "вакансия",
+        "example": "I enjoy working with people."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Alex",
+        "en": "I enjoy working with people.",
+        "ru": ""
+      },
+      {
+        "who": "Sam",
+        "en": "She decided to apply for the position.",
+        "ru": ""
+      },
+      {
+        "who": "Alex",
+        "en": "What do you think about colleague?",
+        "ru": "Как ты к этому относишься?"
+      },
+      {
+        "who": "Sam",
+        "en": "I think it depends on the situation.",
+        "ru": "Думаю, это зависит от ситуации."
+      }
+    ],
+    "speaking": "Назови работу мечты и объясни, что тебе нравится делать и чему хочешь научиться.",
+    "pronunciation": "Найди ударный слог в develop, designer и interview. Оригинальные записи издательства не включены; используй озвучку устройства.",
+    "sourceNote": "Oxford University Press · English File 5th Edition, Intermediate · тематическое соответствие, без перепечатки заданий",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери естественную и грамматически правильную фразу.",
+        "options": [
+          "I enjoy working with people.",
+          "I enjoy to work with people."
+        ],
+        "answer": "I enjoy working with people.",
+        "explanation": "После enjoy, avoid, consider обычно нужен -ing; после want, hope, decide — to + infinitive. Некоторые глаголы меняют смысл в зависимости от формы."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь пропущенную часть фразы: She ___ for the position.",
+        "answers": [
+          "decided to apply"
+        ],
+        "explanation": "Верно: She decided to apply for the position.. После enjoy, avoid, consider обычно нужен -ing; после want, hope, decide — to + infinitive. Некоторые глаголы меняют смысл в зависимости от формы."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери предложение в правильном порядке.",
+        "words": [
+          "I",
+          "enjoy",
+          "working",
+          "with",
+          "people."
+        ],
+        "answers": [
+          "I enjoy working with people."
+        ],
+        "explanation": "Так слова образуют естественное предложение: I enjoy working with people."
+      },
+      {
+        "type": "listen",
+        "prompt": "Послушай фразу и запиши её целиком.",
+        "audio": "She decided to apply for the position.",
+        "answers": [
+          "She decided to apply for the position."
+        ],
+        "explanation": "Текст: She decided to apply for the position."
+      },
+      {
+        "type": "choice",
+        "prompt": "Какое значение имеет выражение «colleague»?",
+        "options": [
+          "коллега",
+          "карьера",
+          "зарплата"
+        ],
+        "answer": "коллега",
+        "explanation": "colleague — коллега. Обрати внимание на контекст употребления."
+      },
+      {
+        "type": "choice",
+        "prompt": "После чтения «The new position»: Why is Leo interested in the studio?",
+        "options": [
+          "He hopes to learn new skills",
+          "He wants to stop working",
+          "He wants to avoid teamwork"
+        ],
+        "answer": "He hopes to learn new skills",
+        "explanation": "В тексте говорится: Leo enjoys solving problems but dislikes repeating the same tasks all day. He has decided to apply for a job in a design studio. He hopes to learn new skills and work with an international team."
+      }
+    ],
+    "reading": {
+      "title": "The new position",
+      "text": "Leo enjoys solving problems but dislikes repeating the same tasks all day. He has decided to apply for a job in a design studio. He hopes to learn new skills and work with an international team.",
+      "question": "Why is Leo interested in the studio?"
+    }
+  },
+  {
+    "id": 36,
+    "track": "english-file",
+    "chapter": 8,
+    "unitNo": "8B",
+    "level": "B1–B1+",
+    "title": "Service with a smile?",
+    "ru": "Сервис и косвенная речь",
+    "summary": "Reported Speech передаёт чужие слова: said (that) и asked if/what. Часто происходит сдвиг времён, а в косвенном вопросе прямой порядок слов.",
+    "bookPage": 82,
+    "minutes": 14,
+    "skills": [
+      "Грамматика",
+      "Лексика",
+      "Чтение",
+      "Произношение",
+      "Говорение",
+      "Аудирование"
+    ],
+    "rules": [
+      {
+        "title": "Сервис и косвенная речь",
+        "body": "Reported Speech передаёт чужие слова: said (that) и asked if/what. Часто происходит сдвиг времён, а в косвенном вопросе прямой порядок слов.",
+        "example": "He said he was busy that afternoon.",
+        "translation": "Произнеси пример, затем составь свою фразу с тем же правилом."
+      },
+      {
+        "title": "Ещё один контекст",
+        "body": "Сравни обе фразы и обрати внимание на форму «worked». Не переводи отдельные слова механически — подумай, почему здесь нужна эта конструкция.",
+        "example": "She asked me where I worked.",
+        "translation": "Попробуй заменить действующее лицо или обстоятельство."
+      }
+    ],
+    "trap": {
+      "wrong": "He said he is busy yesterday.",
+      "right": "He said he was busy that afternoon.",
+      "why": "Reported Speech передаёт чужие слова: said (that) и asked if/what. Часто происходит сдвиг времён, а в косвенном вопросе прямой порядок слов."
+    },
+    "vocab": [
+      {
+        "en": "complaint",
+        "ru": "жалоба",
+        "example": "He said he was busy that afternoon."
+      },
+      {
+        "en": "customer",
+        "ru": "клиент",
+        "example": "He said he was busy that afternoon."
+      },
+      {
+        "en": "refund",
+        "ru": "возврат денег",
+        "example": "He said he was busy that afternoon."
+      },
+      {
+        "en": "service",
+        "ru": "обслуживание",
+        "example": "He said he was busy that afternoon."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Alex",
+        "en": "He said he was busy that afternoon.",
+        "ru": ""
+      },
+      {
+        "who": "Sam",
+        "en": "She asked me where I worked.",
+        "ru": ""
+      },
+      {
+        "who": "Alex",
+        "en": "What do you think about complaint?",
+        "ru": "Как ты к этому относишься?"
+      },
+      {
+        "who": "Sam",
+        "en": "I think it depends on the situation.",
+        "ru": "Думаю, это зависит от ситуации."
+      }
+    ],
+    "speaking": "Перескажи жалобу покупателя, используя said и asked.",
+    "pronunciation": "Произнеси сочетания с ai и air: train, complaint, fair. Оригинальные записи издательства не включены; используй озвучку устройства.",
+    "sourceNote": "Oxford University Press · English File 5th Edition, Intermediate · тематическое соответствие, без перепечатки заданий",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери естественную и грамматически правильную фразу.",
+        "options": [
+          "He said he was busy that afternoon.",
+          "He said he is busy yesterday."
+        ],
+        "answer": "He said he was busy that afternoon.",
+        "explanation": "Reported Speech передаёт чужие слова: said (that) и asked if/what. Часто происходит сдвиг времён, а в косвенном вопросе прямой порядок слов."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь пропущенную часть фразы: She asked me where I ___.",
+        "answers": [
+          "worked"
+        ],
+        "explanation": "Верно: She asked me where I worked.. Reported Speech передаёт чужие слова: said (that) и asked if/what. Часто происходит сдвиг времён, а в косвенном вопросе прямой порядок слов."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери предложение в правильном порядке.",
+        "words": [
+          "He",
+          "said",
+          "he",
+          "was",
+          "busy",
+          "that",
+          "afternoon."
+        ],
+        "answers": [
+          "He said he was busy that afternoon."
+        ],
+        "explanation": "Так слова образуют естественное предложение: He said he was busy that afternoon."
+      },
+      {
+        "type": "listen",
+        "prompt": "Послушай фразу и запиши её целиком.",
+        "audio": "She asked me where I worked.",
+        "answers": [
+          "She asked me where I worked."
+        ],
+        "explanation": "Текст: She asked me where I worked."
+      },
+      {
+        "type": "choice",
+        "prompt": "Какое значение имеет выражение «complaint»?",
+        "options": [
+          "жалоба",
+          "клиент",
+          "возврат денег"
+        ],
+        "answer": "жалоба",
+        "explanation": "complaint — жалоба. Обрати внимание на контекст употребления."
+      },
+      {
+        "type": "choice",
+        "prompt": "После чтения «The missing order»: What did the customer ask about?",
+        "options": [
+          "A refund",
+          "An internship",
+          "A new product launch"
+        ],
+        "answer": "A refund",
+        "explanation": "В тексте говорится: A customer said that her order had arrived late. She asked whether a refund was possible. The assistant explained that the company would investigate and email her by Friday."
+      }
+    ],
+    "reading": {
+      "title": "The missing order",
+      "text": "A customer said that her order had arrived late. She asked whether a refund was possible. The assistant explained that the company would investigate and email her by Friday.",
+      "question": "What did the customer ask about?"
+    }
+  },
+  {
+    "id": 37,
+    "track": "english-file",
+    "chapter": 9,
+    "unitNo": "9A",
+    "level": "B1–B1+",
+    "title": "I was so lucky!",
+    "ru": "Сожаления и третий conditional",
+    "summary": "Third Conditional описывает невозможное изменение прошлого: if + had + V3, would have + V3. Это способ рассуждать о последствиях уже завершившегося события.",
+    "bookPage": 88,
+    "minutes": 14,
+    "skills": [
+      "Грамматика",
+      "Лексика",
+      "Чтение",
+      "Произношение",
+      "Говорение",
+      "Аудирование"
+    ],
+    "rules": [
+      {
+        "title": "Сожаления и третий conditional",
+        "body": "Third Conditional описывает невозможное изменение прошлого: if + had + V3, would have + V3. Это способ рассуждать о последствиях уже завершившегося события.",
+        "example": "If I had left earlier, I would have caught the train.",
+        "translation": "Произнеси пример, затем составь свою фразу с тем же правилом."
+      },
+      {
+        "title": "Ещё один контекст",
+        "body": "Сравни обе фразы и обрати внимание на форму «would have won». Не переводи отдельные слова механически — подумай, почему здесь нужна эта конструкция.",
+        "example": "She would have won if she had practised more.",
+        "translation": "Попробуй заменить действующее лицо или обстоятельство."
+      }
+    ],
+    "trap": {
+      "wrong": "If I would leave earlier, I had caught the train.",
+      "right": "If I had left earlier, I would have caught the train.",
+      "why": "Third Conditional описывает невозможное изменение прошлого: if + had + V3, would have + V3. Это способ рассуждать о последствиях уже завершившегося события."
+    },
+    "vocab": [
+      {
+        "en": "luck",
+        "ru": "удача",
+        "example": "If I had left earlier, I would have caught the train."
+      },
+      {
+        "en": "chance",
+        "ru": "шанс",
+        "example": "If I had left earlier, I would have caught the train."
+      },
+      {
+        "en": "regret",
+        "ru": "сожаление",
+        "example": "If I had left earlier, I would have caught the train."
+      },
+      {
+        "en": "coincidence",
+        "ru": "совпадение",
+        "example": "If I had left earlier, I would have caught the train."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Alex",
+        "en": "If I had left earlier, I would have caught the train.",
+        "ru": ""
+      },
+      {
+        "who": "Sam",
+        "en": "She would have won if she had practised more.",
+        "ru": ""
+      },
+      {
+        "who": "Alex",
+        "en": "What do you think about luck?",
+        "ru": "Как ты к этому относишься?"
+      },
+      {
+        "who": "Sam",
+        "en": "I think it depends on the situation.",
+        "ru": "Думаю, это зависит от ситуации."
+      }
+    ],
+    "speaking": "Подумай о небольшом прошлом решении и скажи, что могло бы измениться.",
+    "pronunciation": "В would have звук have часто редуцируется; проговори фразу слитно. Оригинальные записи издательства не включены; используй озвучку устройства.",
+    "sourceNote": "Oxford University Press · English File 5th Edition, Intermediate · тематическое соответствие, без перепечатки заданий",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери естественную и грамматически правильную фразу.",
+        "options": [
+          "If I had left earlier, I would have caught the train.",
+          "If I would leave earlier, I had caught the train."
+        ],
+        "answer": "If I had left earlier, I would have caught the train.",
+        "explanation": "Third Conditional описывает невозможное изменение прошлого: if + had + V3, would have + V3. Это способ рассуждать о последствиях уже завершившегося события."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь пропущенную часть фразы: She ___ if she had practised more.",
+        "answers": [
+          "would have won"
+        ],
+        "explanation": "Верно: She would have won if she had practised more.. Third Conditional описывает невозможное изменение прошлого: if + had + V3, would have + V3. Это способ рассуждать о последствиях уже завершившегося события."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери предложение в правильном порядке.",
+        "words": [
+          "If",
+          "I",
+          "had",
+          "left",
+          "earlier,",
+          "I",
+          "would",
+          "have",
+          "caught",
+          "the",
+          "train."
+        ],
+        "answers": [
+          "If I had left earlier, I would have caught the train."
+        ],
+        "explanation": "Так слова образуют естественное предложение: If I had left earlier, I would have caught the train."
+      },
+      {
+        "type": "listen",
+        "prompt": "Послушай фразу и запиши её целиком.",
+        "audio": "She would have won if she had practised more.",
+        "answers": [
+          "She would have won if she had practised more."
+        ],
+        "explanation": "Текст: She would have won if she had practised more."
+      },
+      {
+        "type": "choice",
+        "prompt": "Какое значение имеет выражение «luck»?",
+        "options": [
+          "удача",
+          "шанс",
+          "сожаление"
+        ],
+        "answer": "удача",
+        "explanation": "luck — удача. Обрати внимание на контекст употребления."
+      },
+      {
+        "type": "choice",
+        "prompt": "После чтения «A missed opportunity»: What would have changed if Nora had checked the timetable?",
+        "options": [
+          "She would have left earlier",
+          "The bus would have disappeared",
+          "She would have lost her phone"
+        ],
+        "answer": "She would have left earlier",
+        "explanation": "В тексте говорится: Nora left home late and missed the last train. If she had checked the timetable, she would have left earlier. Instead, she spent an hour waiting for a night bus."
+      }
+    ],
+    "reading": {
+      "title": "A missed opportunity",
+      "text": "Nora left home late and missed the last train. If she had checked the timetable, she would have left earlier. Instead, she spent an hour waiting for a night bus.",
+      "question": "What would have changed if Nora had checked the timetable?"
+    }
+  },
+  {
+    "id": 38,
+    "track": "english-file",
+    "chapter": 9,
+    "unitNo": "9B",
+    "level": "B1–B1+",
+    "title": "Power cut",
+    "ru": "Техника и количество",
+    "summary": "Quantifiers зависят от исчисляемости: much information, many devices, a few cables, a little time. Too much/too many подчёркивают избыток.",
+    "bookPage": 92,
+    "minutes": 14,
+    "skills": [
+      "Грамматика",
+      "Лексика",
+      "Чтение",
+      "Произношение",
+      "Говорение",
+      "Аудирование"
+    ],
+    "rules": [
+      {
+        "title": "Техника и количество",
+        "body": "Quantifiers зависят от исчисляемости: much information, many devices, a few cables, a little time. Too much/too many подчёркивают избыток.",
+        "example": "There are too many apps on my phone.",
+        "translation": "Произнеси пример, затем составь свою фразу с тем же правилом."
+      },
+      {
+        "title": "Ещё один контекст",
+        "body": "Сравни обе фразы и обрати внимание на форму «a little». Не переводи отдельные слова механически — подумай, почему здесь нужна эта конструкция.",
+        "example": "We have a little time before the battery dies.",
+        "translation": "Попробуй заменить действующее лицо или обстоятельство."
+      }
+    ],
+    "trap": {
+      "wrong": "There are too much apps on my phone.",
+      "right": "There are too many apps on my phone.",
+      "why": "Quantifiers зависят от исчисляемости: much information, many devices, a few cables, a little time. Too much/too many подчёркивают избыток."
+    },
+    "vocab": [
+      {
+        "en": "battery",
+        "ru": "батарея",
+        "example": "There are too many apps on my phone."
+      },
+      {
+        "en": "device",
+        "ru": "устройство",
+        "example": "There are too many apps on my phone."
+      },
+      {
+        "en": "charger",
+        "ru": "зарядное устройство",
+        "example": "There are too many apps on my phone."
+      },
+      {
+        "en": "signal",
+        "ru": "сигнал",
+        "example": "There are too many apps on my phone."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Alex",
+        "en": "There are too many apps on my phone.",
+        "ru": ""
+      },
+      {
+        "who": "Sam",
+        "en": "We have a little time before the battery dies.",
+        "ru": ""
+      },
+      {
+        "who": "Alex",
+        "en": "What do you think about battery?",
+        "ru": "Как ты к этому относишься?"
+      },
+      {
+        "who": "Sam",
+        "en": "I think it depends on the situation.",
+        "ru": "Думаю, это зависит от ситуации."
+      }
+    ],
+    "speaking": "Объясни, сколько у тебя гаджетов и что происходит при отключении электричества.",
+    "pronunciation": "Тренируй связность слов в a little time и too many. Оригинальные записи издательства не включены; используй озвучку устройства.",
+    "sourceNote": "Oxford University Press · English File 5th Edition, Intermediate · тематическое соответствие, без перепечатки заданий",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери естественную и грамматически правильную фразу.",
+        "options": [
+          "There are too many apps on my phone.",
+          "There are too much apps on my phone."
+        ],
+        "answer": "There are too many apps on my phone.",
+        "explanation": "Quantifiers зависят от исчисляемости: much information, many devices, a few cables, a little time. Too much/too many подчёркивают избыток."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь пропущенную часть фразы: We have ___ time before the battery dies.",
+        "answers": [
+          "a little"
+        ],
+        "explanation": "Верно: We have a little time before the battery dies.. Quantifiers зависят от исчисляемости: much information, many devices, a few cables, a little time. Too much/too many подчёркивают избыток."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери предложение в правильном порядке.",
+        "words": [
+          "There",
+          "are",
+          "too",
+          "many",
+          "apps",
+          "on",
+          "my",
+          "phone."
+        ],
+        "answers": [
+          "There are too many apps on my phone."
+        ],
+        "explanation": "Так слова образуют естественное предложение: There are too many apps on my phone."
+      },
+      {
+        "type": "listen",
+        "prompt": "Послушай фразу и запиши её целиком.",
+        "audio": "We have a little time before the battery dies.",
+        "answers": [
+          "We have a little time before the battery dies."
+        ],
+        "explanation": "Текст: We have a little time before the battery dies."
+      },
+      {
+        "type": "choice",
+        "prompt": "Какое значение имеет выражение «battery»?",
+        "options": [
+          "батарея",
+          "устройство",
+          "зарядное устройство"
+        ],
+        "answer": "батарея",
+        "explanation": "battery — батарея. Обрати внимание на контекст употребления."
+      },
+      {
+        "type": "choice",
+        "prompt": "После чтения «A power cut»: What did the family use as a torch?",
+        "options": [
+          "A phone",
+          "A laptop",
+          "A television"
+        ],
+        "answer": "A phone",
+        "explanation": "В тексте говорится: There were too many devices connected to the extension cable. When the electricity failed, the family had only a little battery power left. They switched off unnecessary apps and used one phone as a torch."
+      }
+    ],
+    "reading": {
+      "title": "A power cut",
+      "text": "There were too many devices connected to the extension cable. When the electricity failed, the family had only a little battery power left. They switched off unnecessary apps and used one phone as a torch.",
+      "question": "What did the family use as a torch?"
+    }
+  },
+  {
+    "id": 39,
+    "track": "english-file",
+    "chapter": 10,
+    "unitNo": "10A",
+    "level": "B1–B1+",
+    "title": "Idols and icons",
+    "ru": "Люди и относительные придаточные",
+    "summary": "Defining relative clauses уточняют, кто или что имеется в виду; non-defining добавляют информацию и отделяются запятыми. Who — о людях, which — о предметах.",
+    "bookPage": 98,
+    "minutes": 14,
+    "skills": [
+      "Грамматика",
+      "Лексика",
+      "Чтение",
+      "Произношение",
+      "Говорение",
+      "Аудирование"
+    ],
+    "rules": [
+      {
+        "title": "Люди и относительные придаточные",
+        "body": "Defining relative clauses уточняют, кто или что имеется в виду; non-defining добавляют информацию и отделяются запятыми. Who — о людях, which — о предметах.",
+        "example": "The singer who wrote this song is from Canada.",
+        "translation": "Произнеси пример, затем составь свою фразу с тем же правилом."
+      },
+      {
+        "title": "Ещё один контекст",
+        "body": "Сравни обе фразы и обрати внимание на форму «who». Не переводи отдельные слова механически — подумай, почему здесь нужна эта конструкция.",
+        "example": "My brother, who lives abroad, is a musician.",
+        "translation": "Попробуй заменить действующее лицо или обстоятельство."
+      }
+    ],
+    "trap": {
+      "wrong": "The singer which wrote this song is from Canada.",
+      "right": "The singer who wrote this song is from Canada.",
+      "why": "Defining relative clauses уточняют, кто или что имеется в виду; non-defining добавляют информацию и отделяются запятыми. Who — о людях, which — о предметах."
+    },
+    "vocab": [
+      {
+        "en": "achievement",
+        "ru": "достижение",
+        "example": "The singer who wrote this song is from Canada."
+      },
+      {
+        "en": "influence",
+        "ru": "влияние",
+        "example": "The singer who wrote this song is from Canada."
+      },
+      {
+        "en": "role model",
+        "ru": "пример для подражания",
+        "example": "The singer who wrote this song is from Canada."
+      },
+      {
+        "en": "icon",
+        "ru": "знаковая фигура",
+        "example": "The singer who wrote this song is from Canada."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Alex",
+        "en": "The singer who wrote this song is from Canada.",
+        "ru": ""
+      },
+      {
+        "who": "Sam",
+        "en": "My brother, who lives abroad, is a musician.",
+        "ru": ""
+      },
+      {
+        "who": "Alex",
+        "en": "What do you think about achievement?",
+        "ru": "Как ты к этому относишься?"
+      },
+      {
+        "who": "Sam",
+        "en": "I think it depends on the situation.",
+        "ru": "Думаю, это зависит от ситуации."
+      }
+    ],
+    "speaking": "Расскажи о знаменитом человеке, используя who и which.",
+    "pronunciation": "В сложных существительных часто ударение падает на первую часть. Оригинальные записи издательства не включены; используй озвучку устройства.",
+    "sourceNote": "Oxford University Press · English File 5th Edition, Intermediate · тематическое соответствие, без перепечатки заданий",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери естественную и грамматически правильную фразу.",
+        "options": [
+          "The singer who wrote this song is from Canada.",
+          "The singer which wrote this song is from Canada."
+        ],
+        "answer": "The singer who wrote this song is from Canada.",
+        "explanation": "Defining relative clauses уточняют, кто или что имеется в виду; non-defining добавляют информацию и отделяются запятыми. Who — о людях, which — о предметах."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь пропущенную часть фразы: My brother, ___ lives abroad, is a musician.",
+        "answers": [
+          "who"
+        ],
+        "explanation": "Верно: My brother, who lives abroad, is a musician.. Defining relative clauses уточняют, кто или что имеется в виду; non-defining добавляют информацию и отделяются запятыми. Who — о людях, which — о предметах."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери предложение в правильном порядке.",
+        "words": [
+          "The",
+          "singer",
+          "who",
+          "wrote",
+          "this",
+          "song",
+          "is",
+          "from",
+          "Canada."
+        ],
+        "answers": [
+          "The singer who wrote this song is from Canada."
+        ],
+        "explanation": "Так слова образуют естественное предложение: The singer who wrote this song is from Canada."
+      },
+      {
+        "type": "listen",
+        "prompt": "Послушай фразу и запиши её целиком.",
+        "audio": "My brother, who lives abroad, is a musician.",
+        "answers": [
+          "My brother, who lives abroad, is a musician."
+        ],
+        "explanation": "Текст: My brother, who lives abroad, is a musician."
+      },
+      {
+        "type": "choice",
+        "prompt": "Какое значение имеет выражение «achievement»?",
+        "options": [
+          "достижение",
+          "влияние",
+          "пример для подражания"
+        ],
+        "answer": "достижение",
+        "explanation": "achievement — достижение. Обрати внимание на контекст употребления."
+      },
+      {
+        "type": "choice",
+        "prompt": "После чтения «An inspiring scientist»: Who does Maya often speak to?",
+        "options": [
+          "Students interested in science",
+          "Only university directors",
+          "Professional actors"
+        ],
+        "answer": "Students interested in science",
+        "explanation": "В тексте говорится: Maya is a scientist who studies clean energy. Her latest project, which was funded by a local university, helps schools save electricity. She often speaks to students who want to work in science."
+      }
+    ],
+    "reading": {
+      "title": "An inspiring scientist",
+      "text": "Maya is a scientist who studies clean energy. Her latest project, which was funded by a local university, helps schools save electricity. She often speaks to students who want to work in science.",
+      "question": "Who does Maya often speak to?"
+    }
+  },
+  {
+    "id": 40,
+    "track": "english-file",
+    "chapter": 10,
+    "unitNo": "10B",
+    "level": "B1–B1+",
+    "title": "And the murderer is…",
+    "ru": "Детектив и вопросы с хвостиком",
+    "summary": "Question tags обычно повторяют вспомогательный глагол в противоположной форме: isn't it?, did she?, haven't they? Интонация зависит от уверенности говорящего.",
+    "bookPage": 102,
+    "minutes": 14,
+    "skills": [
+      "Грамматика",
+      "Лексика",
+      "Чтение",
+      "Произношение",
+      "Говорение",
+      "Аудирование"
+    ],
+    "rules": [
+      {
+        "title": "Детектив и вопросы с хвостиком",
+        "body": "Question tags обычно повторяют вспомогательный глагол в противоположной форме: isn't it?, did she?, haven't they? Интонация зависит от уверенности говорящего.",
+        "example": "You know the answer, don't you?",
+        "translation": "Произнеси пример, затем составь свою фразу с тем же правилом."
+      },
+      {
+        "title": "Ещё один контекст",
+        "body": "Сравни обе фразы и обрати внимание на форму «did she». Не переводи отдельные слова механически — подумай, почему здесь нужна эта конструкция.",
+        "example": "She didn't see the suspect, did she?",
+        "translation": "Попробуй заменить действующее лицо или обстоятельство."
+      }
+    ],
+    "trap": {
+      "wrong": "You know the answer, isn't it?",
+      "right": "You know the answer, don't you?",
+      "why": "Question tags обычно повторяют вспомогательный глагол в противоположной форме: isn't it?, did she?, haven't they? Интонация зависит от уверенности говорящего."
+    },
+    "vocab": [
+      {
+        "en": "evidence",
+        "ru": "улика",
+        "example": "You know the answer, don't you?"
+      },
+      {
+        "en": "suspect",
+        "ru": "подозреваемый",
+        "example": "You know the answer, don't you?"
+      },
+      {
+        "en": "witness",
+        "ru": "свидетель",
+        "example": "You know the answer, don't you?"
+      },
+      {
+        "en": "investigation",
+        "ru": "расследование",
+        "example": "You know the answer, don't you?"
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Alex",
+        "en": "You know the answer, don't you?",
+        "ru": ""
+      },
+      {
+        "who": "Sam",
+        "en": "She didn't see the suspect, did she?",
+        "ru": ""
+      },
+      {
+        "who": "Alex",
+        "en": "What do you think about evidence?",
+        "ru": "Как ты к этому относишься?"
+      },
+      {
+        "who": "Sam",
+        "en": "I think it depends on the situation.",
+        "ru": "Думаю, это зависит от ситуации."
+      }
+    ],
+    "speaking": "Придумай четыре вопроса-уточнения для детективного интервью.",
+    "pronunciation": "Отрабатывай восходящую и нисходящую интонацию в question tags. Оригинальные записи издательства не включены; используй озвучку устройства.",
+    "sourceNote": "Oxford University Press · English File 5th Edition, Intermediate · тематическое соответствие, без перепечатки заданий",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери естественную и грамматически правильную фразу.",
+        "options": [
+          "You know the answer, don't you?",
+          "You know the answer, isn't it?"
+        ],
+        "answer": "You know the answer, don't you?",
+        "explanation": "Question tags обычно повторяют вспомогательный глагол в противоположной форме: isn't it?, did she?, haven't they? Интонация зависит от уверенности говорящего."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь пропущенную часть фразы: She didn't see the suspect, ___?",
+        "answers": [
+          "did she"
+        ],
+        "explanation": "Верно: She didn't see the suspect, did she?. Question tags обычно повторяют вспомогательный глагол в противоположной форме: isn't it?, did she?, haven't they? Интонация зависит от уверенности говорящего."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери предложение в правильном порядке.",
+        "words": [
+          "You",
+          "know",
+          "the",
+          "answer,",
+          "don't",
+          "you?"
+        ],
+        "answers": [
+          "You know the answer, don't you?"
+        ],
+        "explanation": "Так слова образуют естественное предложение: You know the answer, don't you?"
+      },
+      {
+        "type": "listen",
+        "prompt": "Послушай фразу и запиши её целиком.",
+        "audio": "She didn't see the suspect, did she?",
+        "answers": [
+          "She didn't see the suspect, did she?"
+        ],
+        "explanation": "Текст: She didn't see the suspect, did she?"
+      },
+      {
+        "type": "choice",
+        "prompt": "Какое значение имеет выражение «evidence»?",
+        "options": [
+          "улика",
+          "подозреваемый",
+          "свидетель"
+        ],
+        "answer": "улика",
+        "explanation": "evidence — улика. Обрати внимание на контекст употребления."
+      },
+      {
+        "type": "choice",
+        "prompt": "После чтения «The final question»: How many witnesses did the detective interview?",
+        "options": [
+          "Three",
+          "Two",
+          "Four"
+        ],
+        "answer": "Three",
+        "explanation": "В тексте говорится: The detective has interviewed three witnesses. Two were at the café, but one left before the incident. The investigator looks at the notes and says, “You know what happened, don’t you?”"
+      }
+    ],
+    "reading": {
+      "title": "The final question",
+      "text": "The detective has interviewed three witnesses. Two were at the café, but one left before the incident. The investigator looks at the notes and says, “You know what happened, don’t you?”",
+      "question": "How many witnesses did the detective interview?"
+    }
+  }
+]

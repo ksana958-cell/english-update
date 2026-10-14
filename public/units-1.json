@@ -1,0 +1,1691 @@
+[
+  {
+    "id": 1,
+    "title": "Plurals & countability",
+    "ru": "Множественное число",
+    "summary": "Научись считать предметы и отличать их от веществ.",
+    "bookPage": 6,
+    "minutes": 12,
+    "rules": [
+      {
+        "title": "Один предмет или несколько",
+        "body": "Обычно добавляем -s: book → books. После s, sh, ch, x часто нужно -es: box → boxes. Согласная + y меняется на -ies: city → cities; гласная + y сохраняется: day → days.",
+        "example": "Two buses stop here.",
+        "translation": "Здесь останавливаются два автобуса."
+      },
+      {
+        "title": "Особые формы",
+        "body": "Некоторые формы нужно запомнить: child → children, man → men, woman → women, tooth → teeth, foot → feet, mouse → mice. Sheep остаётся sheep. Иногда f/fe меняется на -ves: knife → knives, но roof → roofs.",
+        "example": "The children have three toy sheep.",
+        "translation": "У детей три игрушечные овечки."
+      },
+      {
+        "title": "Что можно сосчитать",
+        "body": "Исчисляемые слова имеют единственное и множественное число: a cup, two cups. Неисчисляемые обозначают вещество или общее понятие: water, rice, advice. С ними не ставим a/an и числительное напрямую; считаем порции или ёмкости: two cups of tea.",
+        "example": "I need water and two bottles.",
+        "translation": "Мне нужны вода и две бутылки."
+      }
+    ],
+    "trap": {
+      "wrong": "I need two advices.",
+      "right": "I need two pieces of advice.",
+      "why": "Advice в английском неисчисляемое: отдельный совет — a piece of advice."
+    },
+    "vocab": [
+      {
+        "en": "bottle",
+        "ru": "бутылка",
+        "example": "I have two bottles."
+      },
+      {
+        "en": "rice",
+        "ru": "рис",
+        "example": "The rice is hot."
+      },
+      {
+        "en": "child",
+        "ru": "ребёнок",
+        "example": "The child is happy."
+      },
+      {
+        "en": "box",
+        "ru": "коробка",
+        "example": "There are three boxes."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Mia",
+        "en": "What do we need?",
+        "ru": "Что нам нужно?"
+      },
+      {
+        "who": "Leo",
+        "en": "Two apples and some rice.",
+        "ru": "Два яблока и немного риса."
+      },
+      {
+        "who": "Mia",
+        "en": "Do we need water?",
+        "ru": "Нам нужна вода?"
+      },
+      {
+        "who": "Leo",
+        "en": "Yes, two bottles of water.",
+        "ru": "Да, две бутылки воды."
+      }
+    ],
+    "speaking": "Назови по-английски два предмета у себя дома во множественном числе и один напиток: I have… / I drink…",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери множественное число слова city.",
+        "options": [
+          "citys",
+          "cities",
+          "cityes"
+        ],
+        "answer": "cities",
+        "explanation": "После согласной y меняется на -ies: city → cities."
+      },
+      {
+        "type": "choice",
+        "prompt": "Какое слово обычно неисчисляемое?",
+        "options": [
+          "chair",
+          "rice",
+          "bottle"
+        ],
+        "answer": "rice",
+        "explanation": "Rice — вещество; отдельные единицы называются grains of rice."
+      },
+      {
+        "type": "input",
+        "prompt": "Напиши множественное число: one child → two ___.",
+        "answers": [
+          "children"
+        ],
+        "explanation": "Child имеет особую форму множественного числа: children."
+      },
+      {
+        "type": "input",
+        "prompt": "Напиши множественное число: one box → three ___.",
+        "answers": [
+          "boxes"
+        ],
+        "explanation": "После x добавляем -es: boxes."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь форму слова sheep: one sheep → four ___.",
+        "answers": [
+          "sheep"
+        ],
+        "explanation": "У sheep одинаковая форма в единственном и множественном числе."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери: «У меня две сумки».",
+        "words": [
+          "two",
+          "have",
+          "bags",
+          "I"
+        ],
+        "answers": [
+          "I have two bags."
+        ],
+        "explanation": "После two используем множественное число bags."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери: «Нам нужны три чашки чая».",
+        "words": [
+          "need",
+          "cups",
+          "We",
+          "of",
+          "three",
+          "tea"
+        ],
+        "answers": [
+          "We need three cups of tea."
+        ],
+        "explanation": "Считаем чашки: cups. Tea остаётся без -s."
+      },
+      {
+        "type": "listen",
+        "audio": "The children have two apples.",
+        "prompt": "Послушай и запиши предложение.",
+        "answers": [
+          "The children have two apples."
+        ],
+        "explanation": "Children — множественное число child; после two нужно apples."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Subject pronouns & to be",
+    "ru": "Местоимения и to be",
+    "summary": "Расскажи, кто ты, откуда ты и как себя чувствуешь.",
+    "bookPage": 11,
+    "minutes": 12,
+    "rules": [
+      {
+        "title": "Кто выполняет действие",
+        "body": "I — я, you — ты/вы, he — он, she — она, it — оно/это, we — мы, they — они. Для предмета обычно it, для нескольких — they. В английском предложение обычно требует явно названного подлежащего. I всегда пишется с большой буквы.",
+        "example": "She is my teacher. They are my friends.",
+        "translation": "Она моя учительница. Они мои друзья."
+      },
+      {
+        "title": "Am, is, are",
+        "body": "В настоящем времени: I am; he/she/it is; you/we/they are. Сокращения: I’m, he’s, she’s, it’s, you’re, we’re, they’re. В русском «Я студент» обходится без глагола, а английскому нужен am.",
+        "example": "I am a student. We are ready.",
+        "translation": "Я студент. Мы готовы."
+      },
+      {
+        "title": "Отрицание и вопрос",
+        "body": "Отрицание: am/is/are + not. В вопросе am/is/are идёт перед подлежащим: Are you ready? Кратко отвечаем Yes, I am. / No, I’m not. Положительный краткий ответ не заканчивается сокращением: Yes, she is.",
+        "example": "Is he tired? No, he isn’t.",
+        "translation": "Он устал? Нет."
+      }
+    ],
+    "trap": {
+      "wrong": "I from Russia.",
+      "right": "I am from Russia.",
+      "why": "В английском здесь нужен глагол-связка am; в русском его обычно не произносят."
+    },
+    "vocab": [
+      {
+        "en": "ready",
+        "ru": "готовый",
+        "example": "We are ready."
+      },
+      {
+        "en": "tired",
+        "ru": "уставший",
+        "example": "I am tired."
+      },
+      {
+        "en": "student",
+        "ru": "студент; учащийся",
+        "example": "She is a student."
+      },
+      {
+        "en": "friend",
+        "ru": "друг",
+        "example": "He is my friend."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Mia",
+        "en": "Hi! I am Mia.",
+        "ru": "Привет! Я Мия."
+      },
+      {
+        "who": "Leo",
+        "en": "I am Leo. Are you a student?",
+        "ru": "Я Лео. Ты студентка?"
+      },
+      {
+        "who": "Mia",
+        "en": "Yes, I am. Where are you from?",
+        "ru": "Да. Откуда ты?"
+      },
+      {
+        "who": "Leo",
+        "en": "I am from Russia.",
+        "ru": "Я из России."
+      }
+    ],
+    "speaking": "Скажи два предложения о себе: кто ты и как себя чувствуешь сейчас. Используй I am…",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Anna is my sister. ___ is a student.",
+        "options": [
+          "He",
+          "She",
+          "They"
+        ],
+        "answer": "She",
+        "explanation": "Anna — одна девушка, поэтому используем she."
+      },
+      {
+        "type": "choice",
+        "prompt": "Выбери правильный краткий ответ: Are you ready?",
+        "options": [
+          "Yes, I am.",
+          "Yes, I’m.",
+          "Yes, I are."
+        ],
+        "answer": "Yes, I am.",
+        "explanation": "В положительном кратком ответе am не сокращается."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь am, is или are: I ___ happy.",
+        "answers": [
+          "am"
+        ],
+        "explanation": "С I используется am."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь am, is или are: My friends ___ here.",
+        "answers": [
+          "are"
+        ],
+        "explanation": "My friends — несколько друзей, как they; используем are."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь отрицательную форму is: She ___ tired.",
+        "answers": [
+          "is not",
+          "isn't"
+        ],
+        "explanation": "Отрицание образуется is + not; сокращение isn’t тоже верно."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери вопрос: «Он твой учитель?»",
+        "words": [
+          "your",
+          "he",
+          "teacher",
+          "Is"
+        ],
+        "answers": [
+          "Is he your teacher?"
+        ],
+        "explanation": "В вопросе is ставится перед he."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери: «Мы из России».",
+        "words": [
+          "Russia",
+          "We",
+          "from",
+          "are"
+        ],
+        "answers": [
+          "We are from Russia."
+        ],
+        "explanation": "С we используем are. From обозначает происхождение."
+      },
+      {
+        "type": "listen",
+        "audio": "They are my friends.",
+        "prompt": "Послушай и запиши предложение.",
+        "answers": [
+          "They are my friends.",
+          "They're my friends."
+        ],
+        "explanation": "They сочетается с are. Friends стоит во множественном числе."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Articles & demonstratives",
+    "ru": "Артикли и «этот/тот»",
+    "summary": "Выбирай a, an, the и указывай на близкие и далёкие вещи.",
+    "bookPage": 16,
+    "minutes": 12,
+    "rules": [
+      {
+        "title": "A или an: один из многих",
+        "body": "A/an ставится перед исчисляемым существительным в единственном числе, когда предмет ещё не определён: a bag. Выбор зависит от первого звука следующего слова: a book, an apple, an hour, a university. Перед профессией тоже ставим артикль: a teacher.",
+        "example": "I have an orange and a banana.",
+        "translation": "У меня есть апельсин и банан."
+      },
+      {
+        "title": "The: понятно, о чём речь",
+        "body": "The указывает на конкретный, известный из ситуации или уже упомянутый предмет; работает и с множественным числом. Без артикля часто говорим о предметах и веществах вообще: Cats like milk. С именами людей и большинством названий стран артикль обычно не нужен.",
+        "example": "I have a key. The key is small.",
+        "translation": "У меня есть ключ. Этот ключ маленький."
+      },
+      {
+        "title": "Этот, тот, эти, те",
+        "body": "This — этот рядом, that — тот дальше. These — эти рядом, those — те дальше. С this/that используем единственное число; с these/those — множественное. После них дополнительный артикль не нужен.",
+        "example": "This bag is new. Those bags are old.",
+        "translation": "Эта сумка новая. Те сумки старые."
+      }
+    ],
+    "trap": {
+      "wrong": "She is teacher.",
+      "right": "She is a teacher.",
+      "why": "Название профессии в единственном числе обычно требует a/an, даже если в русском такого слова нет."
+    },
+    "vocab": [
+      {
+        "en": "key",
+        "ru": "ключ",
+        "example": "The key is on the table."
+      },
+      {
+        "en": "orange",
+        "ru": "апельсин",
+        "example": "This orange is sweet."
+      },
+      {
+        "en": "near",
+        "ru": "близко; рядом",
+        "example": "My school is near."
+      },
+      {
+        "en": "old",
+        "ru": "старый",
+        "example": "Those shoes are old."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Mia",
+        "en": "Is this a new bag?",
+        "ru": "Это новая сумка?"
+      },
+      {
+        "who": "Leo",
+        "en": "Yes, it is. The bag is for my sister.",
+        "ru": "Да. Эта сумка для моей сестры."
+      },
+      {
+        "who": "Mia",
+        "en": "And what are those?",
+        "ru": "А что это там?"
+      },
+      {
+        "who": "Leo",
+        "en": "Those are her books.",
+        "ru": "То её книги."
+      }
+    ],
+    "speaking": "Покажи на один предмет рядом и несколько предметов дальше. Скажи This is… и Those are…",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Вставь артикль: It is ___ apple.",
+        "options": [
+          "a",
+          "an",
+          "the a"
+        ],
+        "answer": "an",
+        "explanation": "Apple начинается с гласного звука, поэтому an."
+      },
+      {
+        "type": "choice",
+        "prompt": "Укажи на несколько книг далеко от тебя: ___ books are old.",
+        "options": [
+          "This",
+          "That",
+          "Those"
+        ],
+        "answer": "Those",
+        "explanation": "Несколько предметов вдалеке — those."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь a, an или the: I have a dog. ___ dog is small.",
+        "answers": [
+          "the"
+        ],
+        "explanation": "При повторном упоминании собеседник уже знает, о какой собаке речь."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь a или an: She is ___ doctor.",
+        "answers": [
+          "a"
+        ],
+        "explanation": "Перед профессией doctor в единственном числе ставим a."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь this, that, these или those: ___ shoes here are mine.",
+        "answers": [
+          "these"
+        ],
+        "explanation": "Shoes — множественное число; here показывает, что предметы рядом."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери: «Это зонтик».",
+        "words": [
+          "umbrella",
+          "an",
+          "is",
+          "This"
+        ],
+        "answers": [
+          "This is an umbrella."
+        ],
+        "explanation": "Umbrella начинается с гласного звука; используем an."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери: «Те велосипеды новые».",
+        "words": [
+          "new",
+          "bikes",
+          "Those",
+          "are"
+        ],
+        "answers": [
+          "Those bikes are new."
+        ],
+        "explanation": "Those сочетается с bikes и are."
+      },
+      {
+        "type": "listen",
+        "audio": "This is a small house.",
+        "prompt": "Послушай и запиши предложение.",
+        "answers": [
+          "This is a small house."
+        ],
+        "explanation": "Перед small house нужен a: первый звук слова small согласный."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Have got & can",
+    "ru": "У меня есть. Я умею",
+    "summary": "Расскажи о своих вещах и умениях, задай простой вопрос.",
+    "bookPage": 21,
+    "minutes": 12,
+    "rules": [
+      {
+        "title": "Have got: что у кого есть",
+        "body": "I/you/we/they have got; he/she/it has got. Формы I’ve got и she’s got часто звучат в речи. Эта конструкция описывает наличие, семью и внешность. Для действий вроде «завтракать» используют have breakfast, без got.",
+        "example": "I have got a bike. She has got blue eyes.",
+        "translation": "У меня есть велосипед. У неё голубые глаза."
+      },
+      {
+        "title": "Вопрос и отрицание с have got",
+        "body": "Отрицание: have not got / haven’t got; has not got / hasn’t got. Вопрос: Have you got…? / Has she got…? Кратко: Yes, I have. / No, she hasn’t. Здесь не нужен do.",
+        "example": "Have you got a pen? No, I haven’t.",
+        "translation": "У тебя есть ручка? Нет."
+      },
+      {
+        "title": "Can: умение и разрешение",
+        "body": "После can идёт начальная форма без to; для всех лиц can одинаково. Отрицание: cannot / can’t. Вопрос: Can you swim? Кратко: Yes, I can. / No, I can’t. Can I…? помогает попросить разрешение.",
+        "example": "He can cook. Can I sit here?",
+        "translation": "Он умеет готовить. Можно мне сесть здесь?"
+      }
+    ],
+    "trap": {
+      "wrong": "She can to swim.",
+      "right": "She can swim.",
+      "why": "После can не ставится to, и глагол не получает окончание -s."
+    },
+    "vocab": [
+      {
+        "en": "bike",
+        "ru": "велосипед",
+        "example": "I have got a bike."
+      },
+      {
+        "en": "swim",
+        "ru": "плавать",
+        "example": "I can swim."
+      },
+      {
+        "en": "cook",
+        "ru": "готовить еду",
+        "example": "My brother can cook."
+      },
+      {
+        "en": "pen",
+        "ru": "ручка",
+        "example": "Have you got a pen?"
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Mia",
+        "en": "Have you got a bike?",
+        "ru": "У тебя есть велосипед?"
+      },
+      {
+        "who": "Leo",
+        "en": "Yes, I have. Can you ride a bike?",
+        "ru": "Да. Ты умеешь ездить на велосипеде?"
+      },
+      {
+        "who": "Mia",
+        "en": "Yes, I can. Can I try your bike?",
+        "ru": "Да. Можно попробовать твой велосипед?"
+      },
+      {
+        "who": "Leo",
+        "en": "Yes, you can.",
+        "ru": "Да, можно."
+      }
+    ],
+    "speaking": "Скажи, что у тебя есть, и что ты умеешь делать: I have got… / I can…",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Вставь форму: My sister ___ got a camera.",
+        "options": [
+          "have",
+          "has",
+          "is"
+        ],
+        "answer": "has",
+        "explanation": "My sister = she, поэтому has got."
+      },
+      {
+        "type": "choice",
+        "prompt": "Как правильно сказать «Он умеет готовить»?",
+        "options": [
+          "He can cooks.",
+          "He can to cook.",
+          "He can cook."
+        ],
+        "answer": "He can cook.",
+        "explanation": "После can используем cook без to и без -s."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь have или has: We ___ got a dog.",
+        "answers": [
+          "have"
+        ],
+        "explanation": "С we используется have got."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь can в отрицательной форме: I ___ swim.",
+        "answers": [
+          "cannot",
+          "can't"
+        ],
+        "explanation": "Cannot пишется слитно; can’t — обычное сокращение."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь have в отрицательной форме: They ___ got a car.",
+        "answers": [
+          "have not",
+          "haven't"
+        ],
+        "explanation": "С they используем have not got / haven’t got."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери вопрос: «У неё есть кошка?»",
+        "words": [
+          "got",
+          "she",
+          "a",
+          "Has",
+          "cat"
+        ],
+        "answers": [
+          "Has she got a cat?"
+        ],
+        "explanation": "В вопросе has идёт перед she, а got остаётся после неё."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери вопрос: «Можно мне открыть окно?»",
+        "words": [
+          "open",
+          "I",
+          "window",
+          "Can",
+          "the"
+        ],
+        "answers": [
+          "Can I open the window?"
+        ],
+        "explanation": "Can I…? — просьба о разрешении; open идёт без to."
+      },
+      {
+        "type": "listen",
+        "audio": "I have got a blue bike.",
+        "prompt": "Послушай и запиши предложение.",
+        "answers": [
+          "I have got a blue bike.",
+          "I've got a blue bike."
+        ],
+        "explanation": "Have got выражает наличие. Прилагательное blue стоит перед bike."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Possessives",
+    "ru": "Чей это предмет?",
+    "summary": "Говори о принадлежности с my/mine и именами владельцев.",
+    "bookPage": 26,
+    "minutes": 12,
+    "rules": [
+      {
+        "title": "My, your, his… + предмет",
+        "body": "Притяжательное прилагательное стоит перед существительным: my, your, his, her, its, our, their. Оно зависит от владельца: his bag — сумка мужчины, her bag — сумка женщины. Its означает «его/её» для предмета или животного и пишется без апострофа.",
+        "example": "Her brother has got my phone.",
+        "translation": "У её брата мой телефон."
+      },
+      {
+        "title": "Mine, yours… без существительного",
+        "body": "Притяжательное местоимение заменяет сочетание с предметом: mine, yours, his, hers, ours, theirs. Сравни: This is my book. / This book is mine. После mine уже не ставят book.",
+        "example": "These keys are ours.",
+        "translation": "Эти ключи наши."
+      },
+      {
+        "title": "Владелец + ’s и вопрос Whose?",
+        "body": "К имени или существительному в единственном числе добавляем ’s: Anna’s bag. У обычного множественного числа на -s — только апостроф: my parents’ car. У children — children’s toys. Вопрос Whose…? означает «Чей…?».",
+        "example": "Whose coat is this? It is Tom’s coat.",
+        "translation": "Чьё это пальто? Это пальто Тома."
+      }
+    ],
+    "trap": {
+      "wrong": "This is mine phone.",
+      "right": "This is my phone.",
+      "why": "Перед существительным phone нужна форма my; mine используется самостоятельно: The phone is mine."
+    },
+    "vocab": [
+      {
+        "en": "phone",
+        "ru": "телефон",
+        "example": "This phone is mine."
+      },
+      {
+        "en": "coat",
+        "ru": "пальто",
+        "example": "Her coat is green."
+      },
+      {
+        "en": "parents",
+        "ru": "родители",
+        "example": "My parents are at home."
+      },
+      {
+        "en": "owner",
+        "ru": "владелец",
+        "example": "Who is the owner?"
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Mia",
+        "en": "Whose phone is this?",
+        "ru": "Чей это телефон?"
+      },
+      {
+        "who": "Leo",
+        "en": "It is my phone.",
+        "ru": "Это мой телефон."
+      },
+      {
+        "who": "Mia",
+        "en": "And are these keys yours?",
+        "ru": "А эти ключи твои?"
+      },
+      {
+        "who": "Leo",
+        "en": "No, they are Anna’s keys.",
+        "ru": "Нет, это ключи Анны."
+      }
+    ],
+    "speaking": "Назови одну свою вещь двумя способами: This is my… / This … is mine.",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери слово: This is ___ book.",
+        "options": [
+          "mine",
+          "my",
+          "me"
+        ],
+        "answer": "my",
+        "explanation": "Перед существительным book нужна форма my."
+      },
+      {
+        "type": "choice",
+        "prompt": "Выбери слово: That bag belongs to Anna. It is ___.",
+        "options": [
+          "her",
+          "she",
+          "hers"
+        ],
+        "answer": "hers",
+        "explanation": "Без существительного используем hers."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь our или ours: These seats are ___.",
+        "answers": [
+          "ours"
+        ],
+        "explanation": "После are нет существительного, поэтому самостоятельное ours."
+      },
+      {
+        "type": "input",
+        "prompt": "Добавь окончание принадлежности: the bag of Tom → ___ bag.",
+        "answers": [
+          "Tom's",
+          "Tom’s"
+        ],
+        "explanation": "Для одного владельца Tom добавляем ’s."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь his или her: Anna has a brother. ___ brother is ten.",
+        "answers": [
+          "her"
+        ],
+        "explanation": "Владелец — Anna, поэтому her, независимо от пола её брата."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери вопрос: «Чья это куртка?»",
+        "words": [
+          "this",
+          "jacket",
+          "Whose",
+          "is"
+        ],
+        "answers": [
+          "Whose jacket is this?"
+        ],
+        "explanation": "Whose спрашивает о владельце: чей, чья, чьё."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери: «Эти велосипеды наши».",
+        "words": [
+          "ours",
+          "bikes",
+          "These",
+          "are"
+        ],
+        "answers": [
+          "These bikes are ours."
+        ],
+        "explanation": "Ours заменяет our bikes и стоит без существительного."
+      },
+      {
+        "type": "listen",
+        "audio": "My sister has got her bag.",
+        "prompt": "Послушай и запиши предложение.",
+        "answers": [
+          "My sister has got her bag.",
+          "My sister's got her bag."
+        ],
+        "explanation": "My стоит перед sister, her — перед bag. Оба слова показывают принадлежность."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Present Continuous",
+    "ru": "Что происходит сейчас",
+    "summary": "Описывай действия прямо сейчас и составляй вопросы о них.",
+    "bookPage": 34,
+    "minutes": 12,
+    "rules": [
+      {
+        "title": "Действие в процессе",
+        "body": "Present Continuous: am/is/are + глагол с -ing. Используем для действия сейчас, временной ситуации или изменения: I am learning English this month. Выбирай am/is/are по подлежащему.",
+        "example": "We are watching a film now.",
+        "translation": "Мы сейчас смотрим фильм."
+      },
+      {
+        "title": "Как добавить -ing",
+        "body": "Обычно добавляем -ing: read → reading. Конечная немая e исчезает: make → making. В коротких словах с ударным гласным перед последней согласной часто удваиваем согласную: sit → sitting, run → running. Lie меняется на lying.",
+        "example": "She is making tea. He is sitting here.",
+        "translation": "Она готовит чай. Он сидит здесь."
+      },
+      {
+        "title": "Вопросы и отрицания",
+        "body": "Вопрос начинается с am/is/are: Are you working? Отрицание: am/is/are + not + -ing. Кратко отвечаем с be: Yes, I am. / No, I’m not. Вопросительное слово ставим первым: What are you doing?",
+        "example": "Is he sleeping? No, he isn’t sleeping.",
+        "translation": "Он спит? Нет, он не спит."
+      }
+    ],
+    "trap": {
+      "wrong": "I reading now.",
+      "right": "I am reading now.",
+      "why": "Для Continuous нужны обе части: форма be и глагол с -ing. Одного reading недостаточно."
+    },
+    "vocab": [
+      {
+        "en": "read",
+        "ru": "читать",
+        "example": "I am reading a book."
+      },
+      {
+        "en": "wait",
+        "ru": "ждать",
+        "example": "We are waiting here."
+      },
+      {
+        "en": "sleep",
+        "ru": "спать",
+        "example": "The baby is sleeping."
+      },
+      {
+        "en": "make",
+        "ru": "делать; готовить",
+        "example": "She is making lunch."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Mia",
+        "en": "What are you doing?",
+        "ru": "Что ты делаешь?"
+      },
+      {
+        "who": "Leo",
+        "en": "I am making tea.",
+        "ru": "Я готовлю чай."
+      },
+      {
+        "who": "Mia",
+        "en": "Is Anna working?",
+        "ru": "Анна работает?"
+      },
+      {
+        "who": "Leo",
+        "en": "No, she is reading a book.",
+        "ru": "Нет, она читает книгу."
+      }
+    ],
+    "speaking": "Скажи, что ты делаешь сейчас и чего сейчас не делаешь: I am… / I am not…",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери форму: Look! The dog ___ running.",
+        "options": [
+          "am",
+          "is",
+          "are"
+        ],
+        "answer": "is",
+        "explanation": "The dog — один пёс, поэтому is running."
+      },
+      {
+        "type": "choice",
+        "prompt": "Выбери правильную форму глагола sit с -ing.",
+        "options": [
+          "siting",
+          "sitting",
+          "siteing"
+        ],
+        "answer": "sitting",
+        "explanation": "В sit удваиваем t перед -ing."
+      },
+      {
+        "type": "input",
+        "prompt": "Поставь read в Present Continuous: I ___ a book now.",
+        "answers": [
+          "am reading",
+          "'m reading",
+          "’m reading"
+        ],
+        "explanation": "С I нужен am, затем reading."
+      },
+      {
+        "type": "input",
+        "prompt": "Напиши форму make с -ing: She is ___ dinner.",
+        "answers": [
+          "making"
+        ],
+        "explanation": "Немая e в make исчезает перед -ing."
+      },
+      {
+        "type": "input",
+        "prompt": "Поставь not work в Present Continuous: They ___ today.",
+        "answers": [
+          "are not working",
+          "aren't working",
+          "'re not working",
+          "’re not working"
+        ],
+        "explanation": "Отрицание: are not + working."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери вопрос: «Ты ждёшь автобус?»",
+        "words": [
+          "waiting",
+          "you",
+          "bus",
+          "Are",
+          "for",
+          "the"
+        ],
+        "answers": [
+          "Are you waiting for the bus?"
+        ],
+        "explanation": "В вопросе are ставится перед you; «ждать» — wait for."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери: «Мы учим английский сейчас».",
+        "words": [
+          "learning",
+          "now",
+          "We",
+          "English",
+          "are"
+        ],
+        "answers": [
+          "We are learning English now.",
+          "Now we are learning English."
+        ],
+        "explanation": "We are learning — действие в процессе. Now можно поставить в начале или конце."
+      },
+      {
+        "type": "listen",
+        "audio": "She is drinking water.",
+        "prompt": "Послушай и запиши предложение.",
+        "answers": [
+          "She is drinking water.",
+          "She's drinking water."
+        ],
+        "explanation": "She is drinking: форма is плюс глагол с -ing."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Object pronouns & imperatives",
+    "ru": "Кому? И простые просьбы",
+    "summary": "Используй me/him/them и формулируй короткие инструкции.",
+    "bookPage": 39,
+    "minutes": 12,
+    "rules": [
+      {
+        "title": "Me, you, him, her…",
+        "body": "После глагола в роли дополнения используем me, you, him, her, it, us, them: I know her. Это другие формы, чем подлежащее I, he, she, we, they. You и it внешне не меняются.",
+        "example": "She knows me. I know her.",
+        "translation": "Она знает меня. Я знаю её."
+      },
+      {
+        "title": "Местоимение после предлога",
+        "body": "После with, for, to и других предлогов тоже нужна объектная форма: with me, for him, to us. Выбирай форму по тому, кого или что заменяешь: Anna → her, my friends → them.",
+        "example": "This letter is for you. Come with us.",
+        "translation": "Это письмо для тебя. Пойдём с нами."
+      },
+      {
+        "title": "Просьба или инструкция",
+        "body": "Повелительная форма начинается с начальной формы глагола без to и без you: Open the door. Для запрета ставим don’t / do not: Don’t run. Please смягчает просьбу. Let’s + глагол означает «давай(те)»: Let’s go.",
+        "example": "Please help me. Don’t close the window.",
+        "translation": "Пожалуйста, помоги мне. Не закрывай окно."
+      }
+    ],
+    "trap": {
+      "wrong": "Please help I.",
+      "right": "Please help me.",
+      "why": "После help нужен объект действия — me, а не подлежащее I."
+    },
+    "vocab": [
+      {
+        "en": "help",
+        "ru": "помогать",
+        "example": "Please help me."
+      },
+      {
+        "en": "close",
+        "ru": "закрывать",
+        "example": "Close the door, please."
+      },
+      {
+        "en": "listen",
+        "ru": "слушать",
+        "example": "Listen to me."
+      },
+      {
+        "en": "letter",
+        "ru": "письмо",
+        "example": "This letter is for her."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Mia",
+        "en": "Please help me.",
+        "ru": "Пожалуйста, помоги мне."
+      },
+      {
+        "who": "Leo",
+        "en": "Of course. Give me the box.",
+        "ru": "Конечно. Дай мне коробку."
+      },
+      {
+        "who": "Mia",
+        "en": "Put it on the table, please.",
+        "ru": "Поставь её на стол, пожалуйста."
+      },
+      {
+        "who": "Leo",
+        "en": "All right. Let’s open it.",
+        "ru": "Хорошо. Давай откроем её."
+      }
+    ],
+    "speaking": "Произнеси две вежливые просьбы: одну с Please и одну с Don’t …, please.",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери слово: Anna is here. I can see ___.",
+        "options": [
+          "she",
+          "her",
+          "hers"
+        ],
+        "answer": "her",
+        "explanation": "После see нужна объектная форма her."
+      },
+      {
+        "type": "choice",
+        "prompt": "Как правильно сказать «Не бегай»?",
+        "options": [
+          "Not run.",
+          "Don’t run.",
+          "Don’t to run."
+        ],
+        "answer": "Don’t run.",
+        "explanation": "Отрицательная инструкция: don’t + начальная форма глагола."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь I или me: This present is for ___.",
+        "answers": [
+          "me"
+        ],
+        "explanation": "После предлога for нужна форма me."
+      },
+      {
+        "type": "input",
+        "prompt": "Замени my friends одним местоимением: I often call ___.",
+        "answers": [
+          "them"
+        ],
+        "explanation": "My friends — они; в роли дополнения используем them."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь us или we: Come with ___.",
+        "answers": [
+          "us"
+        ],
+        "explanation": "После with нужна объектная форма us."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери: «Пожалуйста, открой окно».",
+        "words": [
+          "window",
+          "Please",
+          "the",
+          "open"
+        ],
+        "answers": [
+          "Please open the window.",
+          "Open the window please."
+        ],
+        "explanation": "В просьбе open стоит без to; please может быть в начале или в конце."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери: «Давай послушаем её».",
+        "words": [
+          "to",
+          "her",
+          "Let's",
+          "listen"
+        ],
+        "answers": [
+          "Let's listen to her."
+        ],
+        "explanation": "Let’s предлагает совместное действие. Listen требует to, после него — her."
+      },
+      {
+        "type": "listen",
+        "audio": "Please give me the book.",
+        "prompt": "Послушай и запиши предложение.",
+        "answers": [
+          "Please give me the book."
+        ],
+        "explanation": "Give me означает «дай мне». Me — объектное местоимение."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "There is / are & some / any / no",
+    "ru": "Что и где есть",
+    "summary": "Опиши комнату, спроси о наличии и скажи, чего нет.",
+    "bookPage": 42,
+    "minutes": 12,
+    "rules": [
+      {
+        "title": "Что есть в каком-то месте",
+        "body": "There is + один предмет или неисчисляемое слово; there are + несколько предметов. Сначала сообщаем о наличии, затем о месте: There is a chair in the room. Для конкретного уже известного предмета можно сказать The chair is in the room.",
+        "example": "There are two shops near my house.",
+        "translation": "Рядом с моим домом есть два магазина."
+      },
+      {
+        "title": "Вопрос и отрицание",
+        "body": "Вопрос: Is there…? / Are there…? Отрицание: there isn’t / there aren’t. Краткие ответы: Yes, there is. / No, there aren’t. Для «есть ли» не нужен глагол have.",
+        "example": "Is there a bus stop here? Yes, there is.",
+        "translation": "Здесь есть автобусная остановка? Да."
+      },
+      {
+        "title": "Some, any, no",
+        "body": "Some обычно используем в утверждениях, any — в вопросах и отрицаниях. Они сочетаются с множественным числом и неисчисляемыми словами. No уже означает отсутствие: There is no milk = There isn’t any milk. В предложении еды или просьбе часто нужен some: Would you like some tea?",
+        "example": "There is some water, but there isn’t any juice.",
+        "translation": "Вода есть, но сока нет."
+      }
+    ],
+    "trap": {
+      "wrong": "In my room is a desk.",
+      "right": "There is a desk in my room.",
+      "why": "Когда впервые сообщаем, что в комнате есть предмет, используем there is/are."
+    },
+    "vocab": [
+      {
+        "en": "room",
+        "ru": "комната",
+        "example": "There is a desk in my room."
+      },
+      {
+        "en": "desk",
+        "ru": "письменный стол",
+        "example": "My desk is small."
+      },
+      {
+        "en": "juice",
+        "ru": "сок",
+        "example": "There is some juice."
+      },
+      {
+        "en": "shop",
+        "ru": "магазин",
+        "example": "There are two shops here."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Mia",
+        "en": "Is there any milk in the fridge?",
+        "ru": "В холодильнике есть молоко?"
+      },
+      {
+        "who": "Leo",
+        "en": "No, there isn’t. There is some juice.",
+        "ru": "Нет. Есть немного сока."
+      },
+      {
+        "who": "Mia",
+        "en": "Are there any apples?",
+        "ru": "А яблоки есть?"
+      },
+      {
+        "who": "Leo",
+        "en": "Yes, there are three apples.",
+        "ru": "Да, есть три яблока."
+      }
+    ],
+    "speaking": "Опиши свою комнату: скажи, что в ней есть, и чего нет. Начни с There is… и There isn’t…",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Вставь is или are: There ___ three chairs here.",
+        "options": [
+          "is",
+          "are",
+          "am"
+        ],
+        "answer": "are",
+        "explanation": "Three chairs — множественное число; используем there are."
+      },
+      {
+        "type": "choice",
+        "prompt": "Выбери слово: There isn’t ___ milk.",
+        "options": [
+          "some",
+          "any",
+          "no"
+        ],
+        "answer": "any",
+        "explanation": "В отрицании с isn’t обычно ставим any. No уже содержит отрицание."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь is или are: There ___ some water in the bottle.",
+        "answers": [
+          "is"
+        ],
+        "explanation": "Water — неисчисляемое слово; используем is."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь some или any: Are there ___ shops near here?",
+        "answers": [
+          "any"
+        ],
+        "explanation": "В обычном вопросе о наличии используем any."
+      },
+      {
+        "type": "input",
+        "prompt": "Замени not any одним словом: There is ___ bread.",
+        "answers": [
+          "no"
+        ],
+        "explanation": "No уже означает «никакого»: There is no bread."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери: «В сумке есть книга».",
+        "words": [
+          "book",
+          "a",
+          "There",
+          "in",
+          "is",
+          "the",
+          "bag"
+        ],
+        "answers": [
+          "There is a book in the bag."
+        ],
+        "explanation": "Один предмет — there is a book."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери вопрос: «Здесь есть какие-нибудь стулья?»",
+        "words": [
+          "any",
+          "here",
+          "chairs",
+          "there",
+          "Are"
+        ],
+        "answers": [
+          "Are there any chairs here?"
+        ],
+        "explanation": "Вопрос начинается с Are there; для chairs нужна форма are."
+      },
+      {
+        "type": "listen",
+        "audio": "There are some books on the desk.",
+        "prompt": "Послушай и запиши предложение.",
+        "answers": [
+          "There are some books on the desk."
+        ],
+        "explanation": "There are — несколько книг; some сообщает о неопределённом количестве."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Present Simple vs Continuous",
+    "ru": "Обычно и прямо сейчас",
+    "summary": "Отличай привычку от действия сейчас и рассказывай о распорядке.",
+    "bookPage": 47,
+    "minutes": 12,
+    "rules": [
+      {
+        "title": "Present Simple: привычки и факты",
+        "body": "I/you/we/they work; he/she/it works. После sh/ch/s/x/o часто добавляем -es: watches, goes. После согласной y: studies. Используем для привычек, фактов и расписаний. Часто встречаются every day, usually, often, never.",
+        "example": "She studies English every evening.",
+        "translation": "Она занимается английским каждый вечер."
+      },
+      {
+        "title": "Do / does в вопросах и отрицаниях",
+        "body": "Вопрос: Do you work? / Does he work? Отрицание: don’t / doesn’t + начальная форма. После does и doesn’t окончание -s у основного глагола исчезает. С be используем собственные формы: Is she tired?",
+        "example": "Does he live here? No, he doesn’t live here.",
+        "translation": "Он здесь живёт? Нет, он здесь не живёт."
+      },
+      {
+        "title": "Как выбрать время",
+        "body": "Simple описывает обычное или постоянное, Continuous — процесс сейчас или временную ситуацию: I work at home, but today I am working at a café. Глаголы know, like, want, need обычно употребляют в Simple даже для текущего состояния. Always/usually часто стоят перед смысловым глаголом, но после be.",
+        "example": "I usually walk, but now I am taking the bus.",
+        "translation": "Обычно я хожу пешком, но сейчас еду на автобусе."
+      }
+    ],
+    "trap": {
+      "wrong": "Does she likes coffee?",
+      "right": "Does she like coffee?",
+      "why": "Does уже показывает третье лицо; после него нужен like без -s."
+    },
+    "vocab": [
+      {
+        "en": "usually",
+        "ru": "обычно",
+        "example": "I usually walk to school."
+      },
+      {
+        "en": "every day",
+        "ru": "каждый день",
+        "example": "We read every day."
+      },
+      {
+        "en": "work",
+        "ru": "работать",
+        "example": "My mother works at home."
+      },
+      {
+        "en": "now",
+        "ru": "сейчас",
+        "example": "I am studying now."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Mia",
+        "en": "Do you usually walk to university?",
+        "ru": "Ты обычно ходишь в университет пешком?"
+      },
+      {
+        "who": "Leo",
+        "en": "Yes, I do, but today I am taking the bus.",
+        "ru": "Да, но сегодня я еду на автобусе."
+      },
+      {
+        "who": "Mia",
+        "en": "Why are you taking the bus?",
+        "ru": "Почему ты едешь на автобусе?"
+      },
+      {
+        "who": "Leo",
+        "en": "It is raining, and I don’t want to get wet.",
+        "ru": "Идёт дождь, и я не хочу промокнуть."
+      }
+    ],
+    "speaking": "Скажи, что ты обычно делаешь вечером, и что делаешь прямо сейчас: I usually… / Now I am…",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери форму: Every morning, she ___ tea.",
+        "options": [
+          "drink",
+          "drinks",
+          "is drinking"
+        ],
+        "answer": "drinks",
+        "explanation": "Every morning показывает привычку; с she добавляем -s."
+      },
+      {
+        "type": "choice",
+        "prompt": "Выбери форму: Look! He ___ across the street.",
+        "options": [
+          "runs",
+          "run",
+          "is running"
+        ],
+        "answer": "is running",
+        "explanation": "Look! обращает внимание на процесс сейчас; используем is running."
+      },
+      {
+        "type": "input",
+        "prompt": "Поставь like в нужную форму: Does Anna ___ music?",
+        "answers": [
+          "like"
+        ],
+        "explanation": "После does используем начальную форму like без -s."
+      },
+      {
+        "type": "input",
+        "prompt": "Поставь not work в Present Simple: My brother ___ on Sundays.",
+        "answers": [
+          "does not work",
+          "doesn't work"
+        ],
+        "explanation": "My brother = he: doesn’t + work. On Sundays описывает регулярность."
+      },
+      {
+        "type": "input",
+        "prompt": "Поставь study в Present Continuous: We ___ English right now.",
+        "answers": [
+          "are studying",
+          "'re studying",
+          "’re studying"
+        ],
+        "explanation": "Right now указывает на процесс: are studying."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери вопрос: «Ты играешь в теннис каждый день?»",
+        "words": [
+          "tennis",
+          "Do",
+          "every",
+          "play",
+          "you",
+          "day"
+        ],
+        "answers": [
+          "Do you play tennis every day?"
+        ],
+        "explanation": "О привычке спрашиваем через Do + you + play."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери: «Она обычно работает дома».",
+        "words": [
+          "home",
+          "usually",
+          "She",
+          "works",
+          "at"
+        ],
+        "answers": [
+          "She usually works at home."
+        ],
+        "explanation": "Usually обычно ставится перед works; с she нужен works."
+      },
+      {
+        "type": "listen",
+        "audio": "I usually read, but now I am cooking.",
+        "prompt": "Послушай и запиши предложение.",
+        "answers": [
+          "I usually read, but now I am cooking.",
+          "I usually read, but now I'm cooking."
+        ],
+        "explanation": "Usually read — привычка; am cooking — процесс сейчас."
+      },
+      {
+        "type": "choice",
+        "prompt": "Как естественно сказать «Я хочу воды»?",
+        "options": [
+          "I am wanting some water.",
+          "I want some water.",
+          "I wants some water."
+        ],
+        "answer": "I want some water.",
+        "explanation": "Want обычно описывает состояние и используется в Simple, даже если желание относится к настоящему моменту."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Much, many, a little & a few",
+    "ru": "Много, мало, немного",
+    "summary": "Выбирай слова количества для предметов, времени и веществ.",
+    "bookPage": 54,
+    "minutes": 12,
+    "rules": [
+      {
+        "title": "Many или much",
+        "body": "Many используем с исчисляемыми во множественном числе: many books. Much — с неисчисляемыми: much time. В вопросах: How many books? / How much water? В отрицаниях: not many chairs, not much money.",
+        "example": "How many friends have you got? How much time have we got?",
+        "translation": "Сколько у тебя друзей? Сколько у нас времени?"
+      },
+      {
+        "title": "A lot of: универсальное «много»",
+        "body": "A lot of и lots of сочетаются с множественным числом исчисляемых и с неисчисляемыми: a lot of books, a lot of water. В обычных утверждениях это часто естественнее, чем much. Если следом есть существительное, of обязательно.",
+        "example": "She has got a lot of books and a lot of free time.",
+        "translation": "У неё много книг и много свободного времени."
+      },
+      {
+        "title": "С a — немного, без a — мало",
+        "body": "A few + исчисляемое множественное: a few apples. A little + неисчисляемое: a little milk. Это «немного, но есть». Few/little без a подчёркивают нехватку: few friends — мало друзей; little time — мало времени.",
+        "example": "We have a little time, but we have very little money.",
+        "translation": "У нас есть немного времени, но очень мало денег."
+      }
+    ],
+    "trap": {
+      "wrong": "I have many money.",
+      "right": "I have a lot of money.",
+      "why": "Money — неисчисляемое. Можно сказать much money, но в обычном утверждении естественнее a lot of money."
+    },
+    "vocab": [
+      {
+        "en": "money",
+        "ru": "деньги",
+        "example": "I have a little money."
+      },
+      {
+        "en": "time",
+        "ru": "время",
+        "example": "We have a lot of time."
+      },
+      {
+        "en": "a few",
+        "ru": "несколько; немного",
+        "example": "I need a few eggs."
+      },
+      {
+        "en": "a little",
+        "ru": "немного",
+        "example": "Add a little milk."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "Mia",
+        "en": "How much time have we got?",
+        "ru": "Сколько у нас времени?"
+      },
+      {
+        "who": "Leo",
+        "en": "A little. We can make a sandwich.",
+        "ru": "Немного. Мы можем сделать бутерброд."
+      },
+      {
+        "who": "Mia",
+        "en": "Have we got many eggs?",
+        "ru": "У нас много яиц?"
+      },
+      {
+        "who": "Leo",
+        "en": "No, just a few, but we have got a lot of bread.",
+        "ru": "Нет, только несколько, зато у нас много хлеба."
+      }
+    ],
+    "speaking": "Скажи, чего у тебя много и чего немного: I have a lot of… / I have a little… или I have a few…",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери слово: How ___ water do you drink?",
+        "options": [
+          "many",
+          "much",
+          "few"
+        ],
+        "answer": "much",
+        "explanation": "Water — неисчисляемое; спрашиваем How much water?"
+      },
+      {
+        "type": "choice",
+        "prompt": "Выбери вариант: I have ___ apples, so we can share them.",
+        "options": [
+          "a few",
+          "a little",
+          "much"
+        ],
+        "answer": "a few",
+        "explanation": "Apples можно сосчитать; a few — несколько, они есть."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь much или many: There aren’t ___ chairs here.",
+        "answers": [
+          "many"
+        ],
+        "explanation": "Chairs — исчисляемое множественное; используем many."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь little или few: Add a ___ milk to your tea.",
+        "answers": [
+          "little"
+        ],
+        "explanation": "Milk — неисчисляемое; a little milk означает немного молока."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь пропущенное слово: They have a lot ___ books.",
+        "answers": [
+          "of"
+        ],
+        "explanation": "Перед существительным books в выражении a lot of нужно of."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери: «Сколько у тебя свободного времени?»",
+        "words": [
+          "much",
+          "got",
+          "time",
+          "How",
+          "you",
+          "free",
+          "have"
+        ],
+        "answers": [
+          "How much free time have you got?"
+        ],
+        "explanation": "Time — неисчисляемое, поэтому How much; вопрос с have got."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери: «У нас есть несколько вопросов».",
+        "words": [
+          "few",
+          "We",
+          "a",
+          "have",
+          "questions"
+        ],
+        "answers": [
+          "We have a few questions."
+        ],
+        "explanation": "A few — несколько исчисляемых предметов: questions."
+      },
+      {
+        "type": "listen",
+        "audio": "There is a little milk in the fridge.",
+        "prompt": "Послушай и запиши предложение.",
+        "answers": [
+          "There is a little milk in the fridge."
+        ],
+        "explanation": "Milk — неисчисляемое; a little означает «немного, но есть»."
+      },
+      {
+        "type": "choice",
+        "prompt": "Какая фраза подчёркивает, что времени почти нет?",
+        "options": [
+          "We have a little time.",
+          "We have little time.",
+          "We have a few time."
+        ],
+        "answer": "We have little time.",
+        "explanation": "Little без a подчёркивает нехватку. A little означает, что небольшое количество всё-таки есть."
+      }
+    ]
+  }
+]

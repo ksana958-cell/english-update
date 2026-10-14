@@ -1,0 +1,1632 @@
+[
+  {
+    "id": 11,
+    "title": "Past Simple: was, were, had",
+    "ru": "Каким было прошлое",
+    "summary": "Расскажи, где ты был и что у тебя было раньше.",
+    "bookPage": 60,
+    "minutes": 12,
+    "rules": [
+      {
+        "title": "Was / were: был, была, были",
+        "body": "Для прошлого используй was с I, he, she, it; were с you, we, they. В английском глагол нужен даже там, где по-русски можно сказать «Вчера я дома».",
+        "example": "I was at home. They were tired.",
+        "translation": "Я был дома. Они устали."
+      },
+      {
+        "title": "Вопросы и отрицания с be",
+        "body": "В вопросе поставь was / were перед человеком или предметом. Для отрицания добавь not: was not = wasn’t, were not = weren’t. Did здесь не нужен.",
+        "example": "Were you busy? — No, I wasn’t.",
+        "translation": "Ты был занят? — Нет."
+      },
+      {
+        "title": "Had: у кого-то было",
+        "body": "Had — прошедшая форма have для всех лиц. В вопросе и отрицании используй did / didn’t + have, а не had.",
+        "example": "We had a car. Did you have a car?",
+        "translation": "У нас была машина. У тебя была машина?"
+      }
+    ],
+    "trap": {
+      "wrong": "Did you were at home?",
+      "right": "Were you at home?",
+      "why": "Was / were сами образуют вопрос. Вспомогательный did с ними не используется."
+    },
+    "vocab": [
+      {
+        "en": "yesterday",
+        "ru": "вчера",
+        "example": "I was tired yesterday."
+      },
+      {
+        "en": "busy",
+        "ru": "занятый",
+        "example": "She was busy."
+      },
+      {
+        "en": "a garden",
+        "ru": "сад",
+        "example": "We had a garden."
+      },
+      {
+        "en": "last week",
+        "ru": "на прошлой неделе",
+        "example": "They were here last week."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "A",
+        "en": "Where were you yesterday?",
+        "ru": "Где ты был вчера?"
+      },
+      {
+        "who": "B",
+        "en": "I was at my friend’s house.",
+        "ru": "Я был у друга дома."
+      },
+      {
+        "who": "A",
+        "en": "Did you have a good time?",
+        "ru": "Ты хорошо провёл время?"
+      },
+      {
+        "who": "B",
+        "en": "Yes! We had a great dinner.",
+        "ru": "Да! У нас был отличный ужин."
+      }
+    ],
+    "speaking": "Скажи два предложения: где ты был вчера и что у тебя было в детстве. Начни с I was… и I had…",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Yesterday I ___ at the library.",
+        "options": [
+          "was",
+          "were",
+          "am"
+        ],
+        "answer": "was",
+        "explanation": "I сочетается с was. Yesterday указывает на прошлое."
+      },
+      {
+        "type": "choice",
+        "prompt": "My friends ___ at the cinema last night.",
+        "options": [
+          "was",
+          "were",
+          "is"
+        ],
+        "answer": "were",
+        "explanation": "My friends = they, поэтому were."
+      },
+      {
+        "type": "choice",
+        "prompt": "Выбери правильное отрицание: «У меня не было велосипеда».",
+        "options": [
+          "I didn’t had a bike.",
+          "I wasn’t have a bike.",
+          "I didn’t have a bike."
+        ],
+        "answer": "I didn’t have a bike.",
+        "explanation": "После didn’t нужна начальная форма have."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь прошедшую форму have: We ___ a small flat in 2019.",
+        "answers": [
+          "had"
+        ],
+        "explanation": "Прошедшая форма have — had, одинаковая для всех лиц."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь was или were: ___ your sister at home yesterday?",
+        "answers": [
+          "Was"
+        ],
+        "explanation": "Your sister = she. Вопрос начинается с was."
+      },
+      {
+        "type": "input",
+        "prompt": "Раскрой скобки: Did you ___ (have) a dog as a child?",
+        "answers": [
+          "have"
+        ],
+        "explanation": "Did уже показывает прошлое, поэтому have остаётся в начальной форме."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери: «Ты был дома вчера?»",
+        "words": [
+          "yesterday",
+          "Were",
+          "home",
+          "at",
+          "you"
+        ],
+        "answers": [
+          "Were you at home yesterday?"
+        ],
+        "explanation": "Вопрос с be: Were + you + место + время."
+      },
+      {
+        "type": "listen",
+        "audio": "We had a small garden.",
+        "prompt": "Послушай и запиши предложение.",
+        "answers": [
+          "We had a small garden."
+        ],
+        "explanation": "Had означает «у нас был». Перед garden нужен артикль a."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Past Simple: regular and irregular verbs",
+    "ru": "Что произошло",
+    "summary": "Расскажи о вчерашнем дне и задай вопросы о прошлом.",
+    "bookPage": 66,
+    "minutes": 12,
+    "rules": [
+      {
+        "title": "Правильные глаголы: -ed",
+        "body": "Для законченных действий в прошлом добавляй -ed: work → worked. После -e добавь -d: live → lived; после согласной + y замени y на i: study → studied. У некоторых коротких глаголов согласная удваивается: stop → stopped.",
+        "example": "I studied English yesterday.",
+        "translation": "Вчера я занимался английским."
+      },
+      {
+        "title": "Неправильные глаголы",
+        "body": "Некоторые формы нужно запоминать: go → went, buy → bought, see → saw, eat → ate. В утвердительном предложении форма одинакова для I, she и they.",
+        "example": "She went to the shop and bought some bread.",
+        "translation": "Она сходила в магазин и купила хлеб."
+      },
+      {
+        "title": "Did возвращает начальную форму",
+        "body": "В вопросах используй did + подлежащее + начальная форма. В отрицаниях — didn’t + начальная форма. Was / were работают по отдельному правилу, без did.",
+        "example": "Did you watch the film? — No, I didn’t watch it.",
+        "translation": "Ты посмотрел фильм? — Нет, я его не смотрел."
+      }
+    ],
+    "trap": {
+      "wrong": "I didn’t went to work.",
+      "right": "I didn’t go to work.",
+      "why": "Не нужно обозначать прошлое дважды: после didn’t используй go, а не went."
+    },
+    "vocab": [
+      {
+        "en": "to visit",
+        "ru": "посещать; навещать",
+        "example": "I visited my grandmother."
+      },
+      {
+        "en": "to buy",
+        "ru": "покупать",
+        "example": "She bought a notebook."
+      },
+      {
+        "en": "to arrive",
+        "ru": "прибывать",
+        "example": "We arrived at six."
+      },
+      {
+        "en": "last night",
+        "ru": "вчера вечером; прошлой ночью",
+        "example": "I cooked dinner last night."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "A",
+        "en": "What did you do yesterday?",
+        "ru": "Что ты делал вчера?"
+      },
+      {
+        "who": "B",
+        "en": "I visited my brother.",
+        "ru": "Я навестил брата."
+      },
+      {
+        "who": "A",
+        "en": "Did you stay for dinner?",
+        "ru": "Ты остался на ужин?"
+      },
+      {
+        "who": "B",
+        "en": "Yes, we cooked pasta together.",
+        "ru": "Да, мы вместе приготовили пасту."
+      }
+    ],
+    "speaking": "Скажи два предложения о вчерашнем дне: одно с правильным глаголом, другое с went, saw или bought.",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Last Sunday we ___ our grandparents.",
+        "options": [
+          "visit",
+          "visited",
+          "visiting"
+        ],
+        "answer": "visited",
+        "explanation": "Last Sunday — законченное время в прошлом. Visit → visited."
+      },
+      {
+        "type": "choice",
+        "prompt": "He ___ to work by bus yesterday.",
+        "options": [
+          "goed",
+          "go",
+          "went"
+        ],
+        "answer": "went",
+        "explanation": "Go — неправильный глагол; его прошедшая форма — went."
+      },
+      {
+        "type": "choice",
+        "prompt": "Выбери: «Я не видел Анну вчера».",
+        "options": [
+          "I didn’t saw Anna yesterday.",
+          "I didn’t see Anna yesterday.",
+          "I not saw Anna yesterday."
+        ],
+        "answer": "I didn’t see Anna yesterday.",
+        "explanation": "Отрицание: didn’t + начальная форма see."
+      },
+      {
+        "type": "input",
+        "prompt": "Раскрой скобки в Past Simple: I ___ (watch) a film yesterday.",
+        "answers": [
+          "watched"
+        ],
+        "explanation": "Watch — правильный глагол: watch + ed = watched."
+      },
+      {
+        "type": "input",
+        "prompt": "Раскрой скобки: What did you ___ (buy) at the market?",
+        "answers": [
+          "buy"
+        ],
+        "explanation": "После did используется начальная форма buy."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь вспомогательный глагол: When ___ they arrive yesterday?",
+        "answers": [
+          "did"
+        ],
+        "explanation": "Для вопроса о законченном действии в прошлом нужен did."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери: «Я не работал в прошлое воскресенье».",
+        "words": [
+          "work",
+          "Sunday",
+          "not",
+          "I",
+          "last",
+          "did"
+        ],
+        "answers": [
+          "I did not work last Sunday.",
+          "Last Sunday I did not work."
+        ],
+        "explanation": "Отрицание строится через did not + work. Обстоятельство времени можно поставить в начало или конец."
+      },
+      {
+        "type": "listen",
+        "audio": "She bought a new phone yesterday.",
+        "prompt": "Послушай и запиши предложение.",
+        "answers": [
+          "She bought a new phone yesterday."
+        ],
+        "explanation": "Buy → bought. Yesterday помогает понять, что действие было в прошлом."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Present Perfect and Past Simple",
+    "ru": "Опыт и результат",
+    "summary": "Различай жизненный опыт, результат сейчас и события в конкретный момент прошлого.",
+    "bookPage": 72,
+    "minutes": 12,
+    "rules": [
+      {
+        "title": "Have / has + третья форма",
+        "body": "Present Perfect: I / you / we / they have, he / she / it has + третья форма глагола. У правильных глаголов это -ed, у неправильных своя форма: see → seen, go → gone. Вопрос начинается с have / has; отрицание — haven’t / hasn’t.",
+        "example": "Have you seen this film? — Yes, I have.",
+        "translation": "Ты смотрел этот фильм? — Да."
+      },
+      {
+        "title": "Опыт и результат сейчас",
+        "body": "Используй Present Perfect для опыта без точной даты или результата, важного сейчас. Частые слова: ever — когда-либо, never — никогда, already — уже, yet — ещё / уже в вопросах и отрицаниях. Never уже содержит отрицание.",
+        "example": "I have lost my keys. I can’t open the door.",
+        "translation": "Я потерял ключи. Я не могу открыть дверь."
+      },
+      {
+        "title": "Когда произошло? Как долго?",
+        "body": "С yesterday, last week, in 2020 используй Past Simple: время закончено и названо. Для состояния от прошлого до настоящего подходят Present Perfect + since (с какого момента) или for (как долго).",
+        "example": "I moved here in 2020. I have lived here since 2020.",
+        "translation": "Я переехал сюда в 2020 году. Я живу здесь с 2020 года."
+      }
+    ],
+    "trap": {
+      "wrong": "I have seen him yesterday.",
+      "right": "I saw him yesterday.",
+      "why": "Yesterday обозначает конкретное законченное время, поэтому нужен Past Simple."
+    },
+    "vocab": [
+      {
+        "en": "already",
+        "ru": "уже",
+        "example": "I have already eaten."
+      },
+      {
+        "en": "yet",
+        "ru": "ещё; уже (в вопросах)",
+        "example": "Have you finished yet?"
+      },
+      {
+        "en": "ever",
+        "ru": "когда-либо",
+        "example": "Have you ever been to London?"
+      },
+      {
+        "en": "to lose",
+        "ru": "терять",
+        "example": "I have lost my ticket."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "A",
+        "en": "Have you ever been to London?",
+        "ru": "Ты когда-нибудь был в Лондоне?"
+      },
+      {
+        "who": "B",
+        "en": "Yes, I have. I went there last year.",
+        "ru": "Да. Я ездил туда в прошлом году."
+      },
+      {
+        "who": "A",
+        "en": "Did you visit the British Museum?",
+        "ru": "Ты посетил Британский музей?"
+      },
+      {
+        "who": "B",
+        "en": "Yes! I really enjoyed it.",
+        "ru": "Да! Мне очень понравилось."
+      }
+    ],
+    "speaking": "Скажи, чего ты никогда не делал: I have never… Затем расскажи об одном событии с yesterday или last week.",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "She can’t find her keys. She ___ them.",
+        "options": [
+          "has lost",
+          "have lost",
+          "has lose"
+        ],
+        "answer": "has lost",
+        "explanation": "She + has + lost: прошлое действие имеет результат сейчас — ключей нет."
+      },
+      {
+        "type": "choice",
+        "prompt": "I ___ to the cinema yesterday.",
+        "options": [
+          "have gone",
+          "went",
+          "have went"
+        ],
+        "answer": "went",
+        "explanation": "С yesterday нужен Past Simple: go → went."
+      },
+      {
+        "type": "choice",
+        "prompt": "I have lived here ___ three years.",
+        "options": [
+          "since",
+          "for",
+          "at"
+        ],
+        "answer": "for",
+        "explanation": "Three years — длительность, поэтому for. Since вводит начальный момент."
+      },
+      {
+        "type": "input",
+        "prompt": "Раскрой скобки: Have you ___ (see) this film?",
+        "answers": [
+          "seen"
+        ],
+        "explanation": "После have в Present Perfect нужна третья форма: see — saw — seen."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь ever или never: Have you ___ tried Indian food? («когда-либо»)",
+        "answers": [
+          "ever"
+        ],
+        "explanation": "Ever означает «когда-либо» и часто встречается в вопросах об опыте."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь since или for: We have known each other ___ 2022.",
+        "answers": [
+          "since"
+        ],
+        "explanation": "2022 — точка начала, поэтому since."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери: «Я уже закончил домашнее задание».",
+        "words": [
+          "my",
+          "finished",
+          "already",
+          "I",
+          "homework",
+          "have"
+        ],
+        "answers": [
+          "I have already finished my homework.",
+          "I have finished my homework already."
+        ],
+        "explanation": "Present Perfect: have + finished. Already обычно стоит между ними, но возможно и в конце."
+      },
+      {
+        "type": "listen",
+        "audio": "I have never been to London.",
+        "prompt": "Послушай и запиши предложение.",
+        "answers": [
+          "I have never been to London.",
+          "I’ve never been to London.",
+          "I've never been to London."
+        ],
+        "explanation": "Have been to описывает опыт посещения. Never уже означает «никогда», not не нужен."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Prepositions of time, place and movement",
+    "ru": "Время, место и путь",
+    "summary": "Договорись о времени встречи и объясни, где что находится и куда идти.",
+    "bookPage": 78,
+    "minutes": 12,
+    "rules": [
+      {
+        "title": "Время: at, on, in",
+        "body": "At — точное время: at six, а также at night. On — дни и даты: on Monday, on 5 May. In — месяцы, годы, сезоны и части дня: in July, in 2025, in the morning. Перед yesterday, tomorrow, last / next week предлог не нужен.",
+        "example": "Let’s meet on Friday at six.",
+        "translation": "Давай встретимся в пятницу в шесть."
+      },
+      {
+        "title": "Место: где?",
+        "body": "In — внутри, on — на поверхности, at — у точки или в месте деятельности: at the bus stop, at school. Under — под, behind — за, between — между, next to — рядом с, opposite — напротив. Выбор зависит от смысла, а не только от русского «в» или «на».",
+        "example": "The bag is under the table, next to the chair.",
+        "translation": "Сумка под столом, рядом со стулом."
+      },
+      {
+        "title": "Движение: куда и каким путём?",
+        "body": "To — к месту назначения, into — внутрь, out of — изнутри наружу, across — поперёк, through — сквозь, along — вдоль. Различай in (уже внутри) и into (движение внутрь). С home обычно: go home, без to.",
+        "example": "Go to the park and walk through the gate.",
+        "translation": "Иди в парк и пройди через ворота."
+      }
+    ],
+    "trap": {
+      "wrong": "I go to home at six.",
+      "right": "I go home at six.",
+      "why": "В выражении go home слово home употребляется без to. С обычным местом предлог нужен: go to school."
+    },
+    "vocab": [
+      {
+        "en": "a bus stop",
+        "ru": "автобусная остановка",
+        "example": "Meet me at the bus stop."
+      },
+      {
+        "en": "a bridge",
+        "ru": "мост",
+        "example": "Walk across the bridge."
+      },
+      {
+        "en": "a gate",
+        "ru": "ворота; калитка",
+        "example": "Go through the gate."
+      },
+      {
+        "en": "opposite",
+        "ru": "напротив",
+        "example": "The café is opposite the bank."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "A",
+        "en": "Where shall we meet on Saturday?",
+        "ru": "Где встретимся в субботу?"
+      },
+      {
+        "who": "B",
+        "en": "At the café next to the station.",
+        "ru": "В кафе рядом с вокзалом."
+      },
+      {
+        "who": "A",
+        "en": "How do I get there?",
+        "ru": "Как мне туда добраться?"
+      },
+      {
+        "who": "B",
+        "en": "Walk across the bridge. It’s on your left.",
+        "ru": "Перейди через мост. Оно будет слева."
+      }
+    ],
+    "speaking": "Скажи, в какое время ты встаёшь, и где находится один предмет в твоей комнате. Используй at и предлог места.",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "The lesson starts ___ nine o’clock.",
+        "options": [
+          "on",
+          "at",
+          "in"
+        ],
+        "answer": "at",
+        "explanation": "Перед точным временем ставится at."
+      },
+      {
+        "type": "choice",
+        "prompt": "We have English classes ___ Monday.",
+        "options": [
+          "on",
+          "in",
+          "at"
+        ],
+        "answer": "on",
+        "explanation": "С днями недели используется on."
+      },
+      {
+        "type": "choice",
+        "prompt": "Выбери предлог движения внутрь: She opened the door and walked ___ the room.",
+        "options": [
+          "under",
+          "into",
+          "between"
+        ],
+        "answer": "into",
+        "explanation": "Into показывает движение снаружи внутрь помещения."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь at, on или in: My birthday is ___ July.",
+        "answers": [
+          "in"
+        ],
+        "explanation": "Перед названием месяца нужен in."
+      },
+      {
+        "type": "input",
+        "prompt": "Переведи «под» одним словом: The shoes are ___ the bed.",
+        "answers": [
+          "under"
+        ],
+        "explanation": "Under означает «под»: обувь находится под кроватью."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь across или along: Walk ___ the street to reach the other side.",
+        "answers": [
+          "across"
+        ],
+        "explanation": "Across — поперёк, на другую сторону. Along — вдоль."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери: «Кафе находится рядом с вокзалом».",
+        "words": [
+          "station",
+          "next",
+          "The",
+          "the",
+          "is",
+          "to",
+          "café"
+        ],
+        "answers": [
+          "The café is next to the station."
+        ],
+        "explanation": "Next to — устойчивое сочетание «рядом с»."
+      },
+      {
+        "type": "listen",
+        "audio": "The bank is opposite the station.",
+        "prompt": "Послушай и запиши предложение.",
+        "answers": [
+          "The bank is opposite the station."
+        ],
+        "explanation": "Opposite означает «напротив». После него дополнительный предлог не нужен."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Future: will, be going to, Present Continuous",
+    "ru": "Планы на будущее",
+    "summary": "Говори о решениях, намерениях и назначенных встречах.",
+    "bookPage": 84,
+    "minutes": 12,
+    "rules": [
+      {
+        "title": "Will: решение сейчас и прогноз",
+        "body": "Will + начальная форма подходит для решения в момент речи, обещания или прогноза. Для всех лиц форма одинакова. Will not сокращается до won’t. В вопросе will ставится перед подлежащим.",
+        "example": "The phone is ringing. I’ll answer it.",
+        "translation": "Телефон звонит. Я отвечу."
+      },
+      {
+        "title": "Be going to: намерение и признаки",
+        "body": "Am / is / are going to + начальная форма выражает уже принятое намерение или прогноз по видимым признакам. Не пропускай am / is / are.",
+        "example": "I’m going to study tonight. Look at those clouds! It’s going to rain.",
+        "translation": "Я собираюсь заниматься сегодня вечером. Посмотри на эти тучи! Сейчас пойдёт дождь."
+      },
+      {
+        "title": "Present Continuous: договорённость",
+        "body": "Am / is / are + глагол с -ing может обозначать будущую встречу или другой согласованный план. Контекст времени помогает отличить его от действия сейчас. В реальной речи варианты будущего могут пересекаться.",
+        "example": "I’m meeting Anna at six tomorrow.",
+        "translation": "Завтра в шесть я встречаюсь с Анной."
+      }
+    ],
+    "trap": {
+      "wrong": "I going to learn English.",
+      "right": "I am going to learn English.",
+      "why": "В конструкции be going to обязательно нужна форма be: am, is или are."
+    },
+    "vocab": [
+      {
+        "en": "tomorrow",
+        "ru": "завтра",
+        "example": "I’m meeting him tomorrow."
+      },
+      {
+        "en": "tonight",
+        "ru": "сегодня вечером; ночью",
+        "example": "I’m going to cook tonight."
+      },
+      {
+        "en": "a plan",
+        "ru": "план",
+        "example": "That’s a good plan."
+      },
+      {
+        "en": "to promise",
+        "ru": "обещать",
+        "example": "I promise I’ll help."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "A",
+        "en": "What are you doing tomorrow evening?",
+        "ru": "Что ты делаешь завтра вечером?"
+      },
+      {
+        "who": "B",
+        "en": "I’m meeting Alex at seven.",
+        "ru": "Я встречаюсь с Алексом в семь."
+      },
+      {
+        "who": "A",
+        "en": "I’m going to cook dinner for us.",
+        "ru": "Я собираюсь приготовить нам ужин."
+      },
+      {
+        "who": "B",
+        "en": "Great! I’ll bring some juice.",
+        "ru": "Отлично! Я принесу сок."
+      }
+    ],
+    "speaking": "Скажи о своём намерении через I’m going to… и об одной договорённости через I’m meeting… с указанием времени.",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери will для решения в момент речи: «Сумка тяжёлая? Я помогу».",
+        "options": [
+          "I’ll help you.",
+          "I helping you.",
+          "I am help you."
+        ],
+        "answer": "I’ll help you.",
+        "explanation": "I’ll = I will. Will подходит для решения или предложения помочь сейчас."
+      },
+      {
+        "type": "choice",
+        "prompt": "Выбери грамматически правильный план с going to.",
+        "options": [
+          "She going to travel.",
+          "She is going to travel.",
+          "She is going travel."
+        ],
+        "answer": "She is going to travel.",
+        "explanation": "Конструкция: she + is + going to + travel."
+      },
+      {
+        "type": "choice",
+        "prompt": "Договорённость: билеты уже куплены. Выбери Present Continuous.",
+        "options": [
+          "We are flying to Rome on Friday.",
+          "We will fly to Rome on Friday.",
+          "We are going to fly to Rome on Friday."
+        ],
+        "answer": "We are flying to Rome on Friday.",
+        "explanation": "Задание просит Present Continuous: are + flying. Другие формы тоже могут описывать будущее, но относятся к другим конструкциям."
+      },
+      {
+        "type": "input",
+        "prompt": "Дополни going to формой be: I ___ going to study tonight.",
+        "answers": [
+          "am"
+        ],
+        "explanation": "С I используется am: I am going to study."
+      },
+      {
+        "type": "input",
+        "prompt": "Напиши сокращение will not: I ___ be late, I promise.",
+        "answers": [
+          "won’t",
+          "won't"
+        ],
+        "explanation": "Will not сокращается до won’t. Здесь это обещание."
+      },
+      {
+        "type": "input",
+        "prompt": "Используй Present Continuous, два слова: We ___ (meet) our teacher tomorrow.",
+        "answers": [
+          "are meeting"
+        ],
+        "explanation": "We + are + meeting. Tomorrow показывает будущую договорённость."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери: «Я собираюсь позвонить тебе завтра».",
+        "words": [
+          "call",
+          "am",
+          "tomorrow",
+          "I",
+          "you",
+          "going",
+          "to"
+        ],
+        "answers": [
+          "I am going to call you tomorrow.",
+          "Tomorrow I am going to call you."
+        ],
+        "explanation": "Для намерения используй am going to + call."
+      },
+      {
+        "type": "listen",
+        "audio": "I will help you tomorrow.",
+        "prompt": "Послушай и запиши предложение.",
+        "answers": [
+          "I will help you tomorrow.",
+          "I'll help you tomorrow.",
+          "I’ll help you tomorrow."
+        ],
+        "explanation": "После will нужна начальная форма help. I will можно сократить до I’ll."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Adjectives, adverbs and comparisons",
+    "ru": "Описываем и сравниваем",
+    "summary": "Опиши людей и вещи, сравни варианты и расскажи, как ты что-то делаешь.",
+    "bookPage": 92,
+    "minutes": 12,
+    "rules": [
+      {
+        "title": "Прилагательное: какой?",
+        "body": "Прилагательное описывает существительное, стоит перед ним или после be. Оно не меняется по числам и родам. Для равного сравнения используй as + прилагательное + as; для неравного — not as … as.",
+        "example": "It’s a small room. These rooms are small.",
+        "translation": "Это маленькая комната. Эти комнаты маленькие."
+      },
+      {
+        "title": "Наречие: как?",
+        "body": "Наречие описывает действие и часто оканчивается на -ly: slow → slowly, careful → carefully. Исключения: good → well; fast и hard не меняются. После be для описания человека или предмета обычно нужно прилагательное.",
+        "example": "She is a good driver. She drives carefully.",
+        "translation": "Она хороший водитель. Она водит осторожно."
+      },
+      {
+        "title": "Больше, лучше, самый",
+        "body": "Короткие прилагательные: small → smaller → the smallest; big → bigger; happy → happier. Длинные: more interesting → the most interesting. Исключения: good → better → the best; bad → worse → the worst. После сравнения часто стоит than.",
+        "example": "This book is cheaper than that one. It’s the cheapest book here.",
+        "translation": "Эта книга дешевле той. Это самая дешёвая книга здесь."
+      }
+    ],
+    "trap": {
+      "wrong": "This phone is more cheaper.",
+      "right": "This phone is cheaper.",
+      "why": "Не совмещай more и окончание -er. Для cheap достаточно cheaper."
+    },
+    "vocab": [
+      {
+        "en": "cheap",
+        "ru": "дешёвый; недорогой",
+        "example": "This café is cheaper."
+      },
+      {
+        "en": "expensive",
+        "ru": "дорогой по цене",
+        "example": "That hotel is expensive."
+      },
+      {
+        "en": "carefully",
+        "ru": "осторожно; внимательно",
+        "example": "Read the question carefully."
+      },
+      {
+        "en": "comfortable",
+        "ru": "удобный",
+        "example": "This chair is comfortable."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "A",
+        "en": "Which hotel do you prefer?",
+        "ru": "Какой отель ты предпочитаешь?"
+      },
+      {
+        "who": "B",
+        "en": "This one is cheaper than the other one.",
+        "ru": "Этот дешевле другого."
+      },
+      {
+        "who": "A",
+        "en": "But the other one is more comfortable.",
+        "ru": "Но другой удобнее."
+      },
+      {
+        "who": "B",
+        "en": "Let’s choose the most comfortable one.",
+        "ru": "Давай выберем самый удобный."
+      }
+    ],
+    "speaking": "Сравни два знакомых места через -er than или more … than. Затем скажи, что ты умеешь делать well.",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери: «две красивые комнаты».",
+        "options": [
+          "two beautifuls rooms",
+          "two beautiful rooms",
+          "two beautifully rooms"
+        ],
+        "answer": "two beautiful rooms",
+        "explanation": "Английские прилагательные не получают -s во множественном числе."
+      },
+      {
+        "type": "choice",
+        "prompt": "She speaks English very ___.",
+        "options": [
+          "good",
+          "well",
+          "better than"
+        ],
+        "answer": "well",
+        "explanation": "Нужно описать, как она говорит: наречие well, а не прилагательное good."
+      },
+      {
+        "type": "choice",
+        "prompt": "This book is ___ than that one.",
+        "options": [
+          "more cheap",
+          "cheaper",
+          "the cheapest"
+        ],
+        "answer": "cheaper",
+        "explanation": "Для сравнения двух предметов: cheap → cheaper + than."
+      },
+      {
+        "type": "input",
+        "prompt": "Напиши превосходную степень good с артиклем: This is ___ café in town.",
+        "answers": [
+          "the best"
+        ],
+        "explanation": "Good → better → the best. Перед превосходной степенью обычно нужен the."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь as или than: My bag is as heavy ___ yours.",
+        "answers": [
+          "as"
+        ],
+        "explanation": "Равное сравнение: as + прилагательное + as."
+      },
+      {
+        "type": "input",
+        "prompt": "Образуй наречие от slow: Please speak ___.",
+        "answers": [
+          "slowly"
+        ],
+        "explanation": "Slow + ly = slowly: говори медленно."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери: «Этот фильм интереснее, чем тот».",
+        "words": [
+          "than",
+          "interesting",
+          "film",
+          "This",
+          "that",
+          "is",
+          "more",
+          "one"
+        ],
+        "answers": [
+          "This film is more interesting than that one."
+        ],
+        "explanation": "Для длинного прилагательного interesting используется more, затем than."
+      },
+      {
+        "type": "listen",
+        "audio": "My room is smaller than yours.",
+        "prompt": "Послушай и запиши предложение.",
+        "answers": [
+          "My room is smaller than yours."
+        ],
+        "explanation": "Small → smaller. Yours заменяет your room, чтобы не повторять room."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Subject questions, object questions and question tags",
+    "ru": "Задаём точные вопросы",
+    "summary": "Спроси, кто совершил действие, кого оно затронуло, и уточни информацию.",
+    "bookPage": 98,
+    "minutes": 12,
+    "rules": [
+      {
+        "title": "Кто сделал? Вопрос к подлежащему",
+        "body": "Если who или what заменяет того, кто совершает действие, обычный вопросительный do / does / did не добавляется. Сохраняется форма смыслового глагола: Who called? Who lives here?",
+        "example": "Anna called me. → Who called you?",
+        "translation": "Анна мне позвонила. → Кто тебе позвонил?"
+      },
+      {
+        "title": "Кого? Что? Вопрос к дополнению",
+        "body": "Если исполнитель уже назван, используй обычный порядок вопроса. В Present / Past Simple это who / what + do / does / did + подлежащее + начальная форма. С be, have в Perfect или модальным глаголом используй соответствующий глагол.",
+        "example": "I called Anna. → Who did you call?",
+        "translation": "Я позвонил Анне. → Кому ты позвонил?"
+      },
+      {
+        "title": "Хвостик «не так ли?»",
+        "body": "После утвердительной части обычно идёт отрицательный хвостик, после отрицательной — утвердительный. Повтори вспомогательный или модальный глагол и замени подлежащее местоимением. Без вспомогательного используй do / does / did. Особый случай: I am …, aren’t I?",
+        "example": "You like tea, don’t you? She isn’t here, is she?",
+        "translation": "Ты любишь чай, не так ли? Её здесь нет, верно?"
+      }
+    ],
+    "trap": {
+      "wrong": "Who did called you?",
+      "right": "Who called you?",
+      "why": "Вопрос «Кто тебе позвонил?» задаётся к подлежащему. Did не нужен, а called сохраняет прошедшее время."
+    },
+    "vocab": [
+      {
+        "en": "to call",
+        "ru": "звонить; звать",
+        "example": "Who called you?"
+      },
+      {
+        "en": "to invite",
+        "ru": "приглашать",
+        "example": "Who did you invite?"
+      },
+      {
+        "en": "to happen",
+        "ru": "происходить",
+        "example": "What happened?"
+      },
+      {
+        "en": "a neighbour",
+        "ru": "сосед; соседка",
+        "example": "Your neighbour is friendly, isn’t she?"
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "A",
+        "en": "Who called you this morning?",
+        "ru": "Кто позвонил тебе сегодня утром?"
+      },
+      {
+        "who": "B",
+        "en": "My new neighbour called me.",
+        "ru": "Мне позвонила моя новая соседка."
+      },
+      {
+        "who": "A",
+        "en": "She lives upstairs, doesn’t she?",
+        "ru": "Она живёт этажом выше, верно?"
+      },
+      {
+        "who": "B",
+        "en": "Yes, she does. She invited me for coffee.",
+        "ru": "Да. Она пригласила меня на кофе."
+      }
+    ],
+    "speaking": "Задай вопрос «Кто тебе помогает?» через Who helps… Затем уточни у собеседника, любит ли он музыку, с хвостиком don’t you?",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Как спросить: «Кто разбил окно?»",
+        "options": [
+          "Who broke the window?",
+          "Who did broke the window?",
+          "Who did the window break?"
+        ],
+        "answer": "Who broke the window?",
+        "explanation": "Who — исполнитель действия. Вопрос к подлежащему не требует did."
+      },
+      {
+        "type": "choice",
+        "prompt": "Как спросить: «Кого ты пригласил?»",
+        "options": [
+          "Who invited you?",
+          "Who did you invite?",
+          "Who you invited?"
+        ],
+        "answer": "Who did you invite?",
+        "explanation": "Исполнитель — you; спрашиваем о другом участнике: Who + did + you + invite."
+      },
+      {
+        "type": "choice",
+        "prompt": "They can swim, ___?",
+        "options": [
+          "can’t they",
+          "don’t they",
+          "can they"
+        ],
+        "answer": "can’t they",
+        "explanation": "В первой части can и утверждение. Хвостик: can’t + they."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь вспомогательный глагол: Who ___ you call yesterday?",
+        "answers": [
+          "did"
+        ],
+        "explanation": "You — исполнитель, who — дополнение. Для Past Simple нужен did."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь Who или Where: ___ lives in this house? — My sister.",
+        "answers": [
+          "Who"
+        ],
+        "explanation": "Ответ называет человека, поэтому спрашиваем Who. Who здесь подлежащее."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь полный хвостик: Anna is a student, ___?",
+        "answers": [
+          "isn’t she",
+          "isn't she"
+        ],
+        "explanation": "Anna = she. После is в утверждении нужен отрицательный хвостик isn’t she."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери: «Кто позвонил тебе вчера?»",
+        "words": [
+          "you",
+          "yesterday",
+          "Who",
+          "called"
+        ],
+        "answers": [
+          "Who called you yesterday?"
+        ],
+        "explanation": "Who — подлежащее; called показывает прошлое, you — дополнение, yesterday обычно стоит в конце."
+      },
+      {
+        "type": "listen",
+        "audio": "You like music, don’t you?",
+        "prompt": "Послушай и запиши предложение.",
+        "answers": [
+          "You like music, don’t you?",
+          "You like music, don't you?"
+        ],
+        "explanation": "Like стоит в Present Simple без вспомогательного глагола. Для хвостика используем don’t you."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Modal verbs: can, could, may, must, needn’t, shall, will",
+    "ru": "Могу, должен, можно",
+    "summary": "Говори о способностях и правилах, проси разрешения и предлагай помощь.",
+    "bookPage": 106,
+    "minutes": 12,
+    "rules": [
+      {
+        "title": "Can / could: умение и просьба",
+        "body": "После модального глагола используй начальную форму без to и без -s. Can — умею / могу сейчас; could — умел в прошлом или вежливая просьба сейчас. В вопросе модальный глагол ставится перед подлежащим; do не нужен.",
+        "example": "I can swim. Could you help me, please?",
+        "translation": "Я умею плавать. Не могли бы вы мне помочь?"
+      },
+      {
+        "title": "May / must / needn’t: можно и нужно",
+        "body": "May выражает разрешение или возможность: May I…? / It may rain. Must — необходимость, mustn’t — запрет. Needn’t — отсутствие необходимости: можно не делать. Это не запрет. После всех этих форм глагол стоит без to.",
+        "example": "You must wear a helmet. You needn’t bring your own.",
+        "translation": "Ты должен надеть шлем. Свой приносить необязательно."
+      },
+      {
+        "title": "Shall / will: предложение и просьба",
+        "body": "Shall I…? — предложение своей помощи; Shall we…? — предложение совместного действия. Will you…? — просьба к собеседнику. Will также используется для обещаний и решений. Формы не меняются по лицам.",
+        "example": "Shall I open the window? Will you close the door, please?",
+        "translation": "Открыть окно? Закроешь дверь, пожалуйста?"
+      }
+    ],
+    "trap": {
+      "wrong": "You mustn’t come early. (в значении «необязательно»)",
+      "right": "You needn’t come early.",
+      "why": "Mustn’t означает «нельзя», а needn’t — «не нужно, но можно»."
+    },
+    "vocab": [
+      {
+        "en": "a helmet",
+        "ru": "шлем",
+        "example": "You must wear a helmet."
+      },
+      {
+        "en": "permission",
+        "ru": "разрешение",
+        "example": "Ask for permission first."
+      },
+      {
+        "en": "to bring",
+        "ru": "приносить",
+        "example": "You needn’t bring food."
+      },
+      {
+        "en": "to borrow",
+        "ru": "брать взаймы",
+        "example": "May I borrow your pen?"
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "A",
+        "en": "Could you help me with this bag?",
+        "ru": "Не мог бы ты помочь мне с этой сумкой?"
+      },
+      {
+        "who": "B",
+        "en": "Of course. Shall I carry it upstairs?",
+        "ru": "Конечно. Отнести её наверх?"
+      },
+      {
+        "who": "A",
+        "en": "You needn’t carry it. Just open the door, please.",
+        "ru": "Нести её необязательно. Просто открой дверь, пожалуйста."
+      },
+      {
+        "who": "B",
+        "en": "Sure. I’ll open it now.",
+        "ru": "Конечно. Сейчас открою."
+      }
+    ],
+    "speaking": "Скажи, что ты умеешь, через I can… Затем назови одно своё обязательное дело на сегодня через I must…",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Выбери: «Она умеет плавать».",
+        "options": [
+          "She can swims.",
+          "She can swim.",
+          "She can to swim."
+        ],
+        "answer": "She can swim.",
+        "explanation": "После can глагол идёт без to и без окончания -s."
+      },
+      {
+        "type": "choice",
+        "prompt": "Здесь опасно, вход запрещён: You ___ enter this room.",
+        "options": [
+          "needn’t",
+          "mustn’t",
+          "may"
+        ],
+        "answer": "mustn’t",
+        "explanation": "Mustn’t обозначает запрет: входить нельзя."
+      },
+      {
+        "type": "choice",
+        "prompt": "Еда уже есть, приносить её необязательно: You ___ bring any food.",
+        "options": [
+          "needn’t",
+          "mustn’t",
+          "must"
+        ],
+        "answer": "needn’t",
+        "explanation": "Needn’t — отсутствие необходимости. Принести можно, но не нужно."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь прошедшую форму can: When I was six, I ___ swim.",
+        "answers": [
+          "could"
+        ],
+        "explanation": "Could описывает общую способность в прошлом."
+      },
+      {
+        "type": "input",
+        "prompt": "Используй may для просьбы о разрешении: ___ I borrow your pen?",
+        "answers": [
+          "May"
+        ],
+        "explanation": "May I…? — вежливая просьба о разрешении. Здесь задана именно форма may."
+      },
+      {
+        "type": "input",
+        "prompt": "Используй will для просьбы: ___ you close the door, please?",
+        "answers": [
+          "Will"
+        ],
+        "explanation": "Will you…? может выражать просьбу. После will используется начальная форма close."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери предложение: «Может, пойдём погуляем?»",
+        "words": [
+          "a",
+          "we",
+          "go",
+          "Shall",
+          "walk",
+          "for"
+        ],
+        "answers": [
+          "Shall we go for a walk?"
+        ],
+        "explanation": "Shall we + начальная форма — предложение совместного действия."
+      },
+      {
+        "type": "listen",
+        "audio": "You needn’t bring any food.",
+        "prompt": "Послушай и запиши предложение.",
+        "answers": [
+          "You needn’t bring any food.",
+          "You needn't bring any food.",
+          "You need not bring any food."
+        ],
+        "explanation": "Needn’t = need not: приносить еду необязательно."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Infinitive, -ing form, too and enough",
+    "ru": "Хочу, люблю, достаточно",
+    "summary": "Расскажи о желаниях и увлечениях и объясни, чего слишком много или недостаточно.",
+    "bookPage": 114,
+    "minutes": 12,
+    "rules": [
+      {
+        "title": "Инфинитив: to + глагол",
+        "body": "После want, decide, hope и would like часто нужен to + начальная форма. Так же можно назвать цель действия. После can, must и других изученных модальных глаголов to не ставится.",
+        "example": "I want to learn English. I study to find a better job.",
+        "translation": "Я хочу выучить английский. Я учусь, чтобы найти работу получше."
+      },
+      {
+        "title": "Форма с -ing",
+        "body": "После enjoy и finish, а также после предлогов, используй форму с -ing. У like / love возможны и -ing, и to + глагол. Запоминай глаголы вместе с их продолжением: enjoy reading, want to read.",
+        "example": "I enjoy reading. She is good at drawing.",
+        "translation": "Мне нравится читать. Она хорошо рисует."
+      },
+      {
+        "title": "Too и enough",
+        "body": "Too + прилагательное означает «слишком»: too hot. Enough после прилагательного — «достаточно»: warm enough. Перед существительным enough ставится первым: enough time. Продолжить можно через to + глагол: old enough to drive.",
+        "example": "The coffee is too hot to drink. I haven’t got enough time.",
+        "translation": "Кофе слишком горячий, чтобы его пить. У меня недостаточно времени."
+      }
+    ],
+    "trap": {
+      "wrong": "I enjoy to read.",
+      "right": "I enjoy reading.",
+      "why": "После enjoy используется форма с -ing. После want, наоборот, нужен инфинитив: want to read."
+    },
+    "vocab": [
+      {
+        "en": "to enjoy",
+        "ru": "получать удовольствие; любить занятие",
+        "example": "I enjoy cooking."
+      },
+      {
+        "en": "to decide",
+        "ru": "решать; принимать решение",
+        "example": "We decided to stay."
+      },
+      {
+        "en": "heavy",
+        "ru": "тяжёлый",
+        "example": "The box is too heavy."
+      },
+      {
+        "en": "enough",
+        "ru": "достаточно; достаточный",
+        "example": "We have enough time."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "A",
+        "en": "Would you like to go for a walk?",
+        "ru": "Хочешь прогуляться?"
+      },
+      {
+        "who": "B",
+        "en": "It’s too cold to go out.",
+        "ru": "Слишком холодно, чтобы выходить."
+      },
+      {
+        "who": "A",
+        "en": "Then let’s stay home. Do you enjoy cooking?",
+        "ru": "Тогда давай останемся дома. Тебе нравится готовить?"
+      },
+      {
+        "who": "B",
+        "en": "Yes! We have enough food to make dinner.",
+        "ru": "Да! У нас достаточно продуктов, чтобы приготовить ужин."
+      }
+    ],
+    "speaking": "Скажи, чему хочешь научиться: I want to learn to… Затем назови любимое занятие через I enjoy… с -ing.",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "I want ___ English.",
+        "options": [
+          "learn",
+          "to learn",
+          "learning"
+        ],
+        "answer": "to learn",
+        "explanation": "После want нужен инфинитив с to."
+      },
+      {
+        "type": "choice",
+        "prompt": "She enjoys ___ films.",
+        "options": [
+          "watch",
+          "to watch",
+          "watching"
+        ],
+        "answer": "watching",
+        "explanation": "После enjoy используется форма с -ing."
+      },
+      {
+        "type": "choice",
+        "prompt": "Выбери: «У нас достаточно денег».",
+        "options": [
+          "We have money enough.",
+          "We have enough money.",
+          "We have too money."
+        ],
+        "answer": "We have enough money.",
+        "explanation": "Перед существительным enough ставится первым: enough money."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь too или enough: This box is ___ heavy for me to lift. («слишком тяжёлая»)",
+        "answers": [
+          "too"
+        ],
+        "explanation": "Too стоит перед прилагательным и означает «слишком»."
+      },
+      {
+        "type": "input",
+        "prompt": "Поставь old и enough в правильном порядке: She is ___ to drive.",
+        "answers": [
+          "old enough"
+        ],
+        "explanation": "После прилагательного enough стоит вторым: old enough."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь to там, где оно нужно: We decided ___ stay at home.",
+        "answers": [
+          "to"
+        ],
+        "explanation": "После decide нужен инфинитив с to: decided to stay."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери: «Мне нравится читать книги».",
+        "words": [
+          "books",
+          "enjoy",
+          "I",
+          "reading"
+        ],
+        "answers": [
+          "I enjoy reading books."
+        ],
+        "explanation": "Enjoy + reading. Books — дополнение к reading."
+      },
+      {
+        "type": "listen",
+        "audio": "This bag is too heavy for me.",
+        "prompt": "Послушай и запиши предложение.",
+        "answers": [
+          "This bag is too heavy for me."
+        ],
+        "explanation": "Too heavy — «слишком тяжёлая». Too пишется с двумя o."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Both, neither, all and none",
+    "ru": "Оба, все и никто",
+    "summary": "Говори о двух людях или целой группе и избегай двойного отрицания.",
+    "bookPage": 120,
+    "minutes": 12,
+    "rules": [
+      {
+        "title": "Both и neither: ровно двое",
+        "body": "Both означает «оба», а neither — «ни один из двух». Both + существительное во множественном числе: both friends. Neither + существительное в единственном числе: neither friend. В учебной норме: both of them are, neither of them is.",
+        "example": "Both sisters are students. Neither sister drives.",
+        "translation": "Обе сестры — студентки. Ни одна из двух сестёр не водит машину."
+      },
+      {
+        "title": "All и none: группа целиком",
+        "body": "All — «все» или «весь», none — «никто / ни один / нисколько». В противопоставлении с both / neither эти формы обычно относятся к группе из трёх и более. None не ставится прямо перед существительным: none of the students. Перед существительным можно использовать no: no students.",
+        "example": "All the students are here. None of them is late.",
+        "translation": "Все студенты здесь. Никто из них не опоздал."
+      },
+      {
+        "title": "Of и отрицание",
+        "body": "Перед us, you, them используй of: both of us, all of them, neither of them, none of us. Neither и none уже отрицательные, поэтому not не нужен. С none of + множественное число встречаются is и are; с неисчисляемым — is.",
+        "example": "Both of us like tea. None of the water is clean.",
+        "translation": "Мы оба любим чай. Вся эта вода грязная."
+      }
+    ],
+    "trap": {
+      "wrong": "None of them don’t speak English. (в значении «никто не говорит»)",
+      "right": "None of them speak English.",
+      "why": "None уже делает предложение отрицательным. Дополнительное don’t меняет смысл и не нужно."
+    },
+    "vocab": [
+      {
+        "en": "both",
+        "ru": "оба; обе",
+        "example": "Both of us are ready."
+      },
+      {
+        "en": "neither",
+        "ru": "ни один из двух",
+        "example": "Neither answer is correct."
+      },
+      {
+        "en": "all",
+        "ru": "все; весь",
+        "example": "All my friends are here."
+      },
+      {
+        "en": "none",
+        "ru": "никто; ни один; нисколько",
+        "example": "None of them is late."
+      }
+    ],
+    "dialogue": [
+      {
+        "who": "A",
+        "en": "Do you and your brother like coffee?",
+        "ru": "Вы с братом любите кофе?"
+      },
+      {
+        "who": "B",
+        "en": "No, neither of us likes it.",
+        "ru": "Нет, ни один из нас двоих его не любит."
+      },
+      {
+        "who": "A",
+        "en": "What about tea?",
+        "ru": "А как насчёт чая?"
+      },
+      {
+        "who": "B",
+        "en": "Both of us love it. All our friends do too.",
+        "ru": "Мы оба его любим. Все наши друзья тоже."
+      }
+    ],
+    "speaking": "Скажи, что объединяет тебя и друга, через Both of us… Затем расскажи о всей своей группе или семье через All…",
+    "exercises": [
+      {
+        "type": "choice",
+        "prompt": "Есть два брата, и каждый играет на гитаре: ___ brothers play the guitar.",
+        "options": [
+          "Both",
+          "Neither",
+          "None"
+        ],
+        "answer": "Both",
+        "explanation": "Both означает «оба» и подходит к brothers во множественном числе."
+      },
+      {
+        "type": "choice",
+        "prompt": "Есть два ответа, оба неверные: ___ answer is correct.",
+        "options": [
+          "Both",
+          "Neither",
+          "All"
+        ],
+        "answer": "Neither",
+        "explanation": "Neither + существительное в единственном числе: ни один из двух ответов."
+      },
+      {
+        "type": "choice",
+        "prompt": "В группе пять человек; никто не готов: ___ of them is ready.",
+        "options": [
+          "Both",
+          "Neither",
+          "None"
+        ],
+        "answer": "None",
+        "explanation": "None of them — ни один из всей группы. Neither относится к двум."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь of или to: Both ___ us live in Moscow.",
+        "answers": [
+          "of"
+        ],
+        "explanation": "Перед личным местоимением us нужно of: both of us."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь all или both: I have five friends in this class. ___ five are here today.",
+        "answers": [
+          "All"
+        ],
+        "explanation": "All относится ко всем пяти. Both означает только двоих."
+      },
+      {
+        "type": "input",
+        "prompt": "Вставь is или are: Both of my parents ___ teachers.",
+        "answers": [
+          "are"
+        ],
+        "explanation": "Both означает двоих, поэтому нужен глагол во множественном числе are."
+      },
+      {
+        "type": "order",
+        "prompt": "Собери: «Все мои друзья любят музыку».",
+        "words": [
+          "music",
+          "friends",
+          "my",
+          "All",
+          "like"
+        ],
+        "answers": [
+          "All my friends like music."
+        ],
+        "explanation": "All может стоять перед my friends без of. Подлежащее во множественном числе: like."
+      },
+      {
+        "type": "listen",
+        "audio": "Both of us are ready.",
+        "prompt": "Послушай и запиши предложение.",
+        "answers": [
+          "Both of us are ready."
+        ],
+        "explanation": "Both of us — «мы оба». С both используется are."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+services:
+  app:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      PORT: 3000
+      DATA_DIR: /app/data
+    ports:
+      - "127.0.0.1:3000:3000"
+    volumes:
+      - progress:/app/data
+    security_opt:
+      - no-new-privileges:true
+volumes:
+  progress:
